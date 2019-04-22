@@ -14,20 +14,46 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: the gospel according to jden
+tagline: jden
 email: iam@jden.me
 description: >- # this means to ignore newlines until "baseurl:"
   the gospel according to jden
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.jden.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://blog.jden.me # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jden
 github_username:  JDENredden
 permalink: /:categories/:year/:month/:day/:title
+paginate: 1
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:  
   - jekyll-feed
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              jden redden
+  url:               https://twitter.com/jden
+  email:             iam@jden.me
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
