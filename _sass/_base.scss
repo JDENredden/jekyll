@@ -77,9 +77,13 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+nav {
+    float: right;
+}
+
 nav ul li {
     display: inline;
-    float: right;
+    float: left;
 }
 
 nav ul li a {
