@@ -23,7 +23,9 @@ url: https://blog.jden.me # the base hostname & protocol for your site, e.g. htt
 twitter_username: jden
 github_username:  JDENredden
 permalink: /:categories/:year/:month/:day/:title
-paginate: 1
+pagination: 
+    enabled: true
+    per_page: 1
 
 # Build settings
 markdown: kramdown
