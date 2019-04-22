@@ -30,8 +30,8 @@ markdown: kramdown
 # theme: minima
 plugins:  
   - jekyll-feed
-  - jeykll-paginate-v2
-  - jeykll-gist
+  - jekyll-paginate-v2
+  - jekyll-gist
 
 # Assets
 #
