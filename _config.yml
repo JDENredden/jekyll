@@ -30,6 +30,8 @@ markdown: kramdown
 # theme: minima
 plugins:  
   - jekyll-feed
+  - jeykll-paginate
+  - jeykll-gist
 
 # Assets
 #
@@ -48,11 +50,6 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
 
 
 # Exclude from processing.
