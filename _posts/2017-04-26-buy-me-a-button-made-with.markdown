@@ -66,11 +66,11 @@ I also wanted to add a "Made in Adelaide with ❤️" thing to my footer. There 
 I wanted to make a custom one. Where I live—South Australia—has a new brand that I quite like, it's called imaginatively *[Brand South Australia](http://www.brandsouthaustralia.com.au)*. I have used their logo in many of my other projects such as posters and marketing collateral adding a small logo on a website is the next natural progression. 
 
 A little nosing around the website I found the favicon. What a nice little logo our state has.
-![Brand South Australia](https://www.brandsouthaustralia.com.au/hubfs/Brand/bsa_favicon.png) 
+![Brand South Australia](https://www.brandsouthaustralia.com.au/favicon-32x32.png) 
 
 Finally putting it all together we have. 
 
-> Made in <a href="http://southaustralia.com"><img src="https://www.brandsouthaustralia.com.au/hubfs/Brand/bsa_favicon.png" style="-webkit-transform: translateX(0); -ms-transform: translateX(0); transform: translateX(0);display: inline-block; padding: 0; left: 0; height: 2em; margin-bottom: -0.5em;"></a> by <a href="http://jden.me">jden redden</a> with ❤️.
+> Made in <a href="http://southaustralia.com"><img src="https://www.brandsouthaustralia.com.au/favicon-32x32.png" style="-webkit-transform: translateX(0); -ms-transform: translateX(0); transform: translateX(0);display: inline-block; padding: 0; left: 0; height: 2em; margin-bottom: -0.5em;"></a> by <a href="http://jden.me">jden redden</a> with ❤️.
 
 And this is what it looks like on [TheMaths.Blog](https://themaths.blog). 
 
