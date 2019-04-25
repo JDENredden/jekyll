@@ -70,7 +70,7 @@ A little nosing around the website I found the favicon. What a nice little logo 
 
 Finally putting it all together we have. 
 
-> Made in <a href="http://southaustralia.com"><img src="https://www.brandsouthaustralia.com.au/favicon-32x32.png" style="-webkit-transform: translateX(0); -ms-transform: translateX(0); transform: translateX(0);display: inline-block; padding: 0; left: 0; height: 2em; margin-bottom: -0.5em;"></a> by <a href="http://jden.me">jden redden</a> with ❤️.
+> Made in <a href="http://southaustralia.com"><img src="https://www.brandsouthaustralia.com.au/favicon-32x32.png" style="-webkit-transform: translateX(0); -ms-transform: translateX(0); transform: translateX(0);display: inline-block; padding: 0; left: 0; height: 1.5em; margin-bottom: -0.25em;"></a> by <a href="http://jden.me">jden redden</a> with ❤️.
 
 And this is what it looks like on [TheMaths.Blog](https://themaths.blog). 
 
