@@ -22,7 +22,7 @@ In the months of August and September Spoken Word SA is holding the heats for th
 
 I have had the tab open for this for pretty much 6-months, and have not started working on anything in that time, which is why I am setting this as a project. For most people (myself included) see slam poetry as probably something like this.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9qxJ6bznkNI" frameborder="0" allowfullscreen></iframe>
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/9qxJ6bznkNI" frameborder="0" allowfullscreen></iframe></div>
 
 I do find something endearing about slam poetry though. My idea is to do something akin to the dual dialogue you hear a lot in musicals. In particular I really love the song *[Farmer Refuted](https://itun.es/au/6O3g9?i=1025212449)* by Lin-Manuel Miranda in Hamilton.
 
