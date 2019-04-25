@@ -27,10 +27,13 @@
 }
 
 nav {
-    float: right;
-    margin-top: .15rem
+    text-align: right
 }
 
 nav ul li {
     display: inline
+}
+
+.left {
+    float: left;
 }

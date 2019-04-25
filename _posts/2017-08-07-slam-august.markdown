@@ -14,7 +14,6 @@ tags:
 - spoken-word-sa
 - lin-manuel-miranda
 - hamilton
-- roisin-maeve
 ---
 
 As is becoming a regular event on this blog, it is now August 7 and I am announcing the project for this month. 
@@ -25,9 +24,7 @@ I have had the tab open for this for pretty much 6-months, and have not started 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9qxJ6bznkNI" frameborder="0" allowfullscreen></iframe>
 
-I do find something endearing about slam poetry though, recently I have been following the work of a local Adelaide-based poet, (Roisin Maeve](http://www.roisinmaeve.com), who won this slam before. 
-
-My idea is to do something akin to the dual dialogue you hear a lot in musicals. In particular I really love the song *[Farmer Refuted](https://itun.es/au/6O3g9?i=1025212449)* by Lin-Manuel Miranda in Hamilton.
+I do find something endearing about slam poetry though. My idea is to do something akin to the dual dialogue you hear a lot in musicals. In particular I really love the song *[Farmer Refuted](https://itun.es/au/6O3g9?i=1025212449)* by Lin-Manuel Miranda in Hamilton.
 
 ![Genius annotation for Farmer Refuted](/content/images/2017/08/Screen-Shot-2017-08-07-at-5.44.17-pm.png)
 
