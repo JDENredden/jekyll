@@ -38,9 +38,13 @@ nav ul li {
     display: inline
 }
 
+nav small {
+    width: 49%;
+}
+
 .left {
     float: left;
-    width: 49%;
+//    width: 49%;
 //    font-weight: bold;
 //    color: $gray-4;
 }
