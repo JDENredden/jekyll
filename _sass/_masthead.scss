@@ -30,11 +30,16 @@ nav {
     text-align: right;
 }
 
+nav ul {
+    padding: 0;
+}
+
 nav ul li {
     display: inline
 }
 
 .left {
     float: left;
-    font-weight: bold;
+//    font-weight: bold;
+//    color: $gray-4;
 }
