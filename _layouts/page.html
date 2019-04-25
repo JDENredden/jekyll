@@ -5,8 +5,8 @@ pagination:
 ---
 
 <article class="page">
-  {% if page.title contains "Home" %}
+  {% unless page.title contains "Home" %}
     <h1 class="page-title">{{ page.title }}</h1>
-  {% endif %}
+  {% endunless %}
   {{ content }}
 </article>
