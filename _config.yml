@@ -37,6 +37,16 @@ pagination:
     enabled: true
     per_page: 10
     sort_reverse: true
+    
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 # Assets
 #
