@@ -19,6 +19,6 @@ jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously 
 
 ## Contact
 
-My email is [iam@jden.me](mailto:iam@jden.me) or [jdenredden@protonmail.ch](mailto:jdenredden@protonmail.ch) for you privacy nuts. 
+My email is [iam@jden.me](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;) or [jdenredden@protonmail.ch](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;) for you privacy nuts. 
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden), or on [Twitter](https://www.twitter.com/jden). 
