@@ -24,6 +24,15 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 
 Produced and performed in several critical and financially successful productions for the Adelaide Fringe Festival since 2013 including _BankSA Best Magic Weekly Award_ in 2018 and 2019. Consultant on the 2012, 2013 and 2014 Australian tours of _The Illusionists_ and _The Naked Magicians_. Clients for corporate shows include; _Adelaide Fringe_, _Jack & Jones_, _HUSH Communications_, _The University of Adelaide_ among others.
 
+**Senior Operations Specialist at Apple**  
+*Rundle Place. 2014 - present.*
+
+In current role from 2017: oversees in-store inventory systems, facilities management, preservations, external relations, event planning, and all other operational tasks.  
+
+Previously held positions with Apple:  
+***Technical Specialist** at Apple Rundle Place. 2015 – 2017;*  
+***Specialist** at Apple Rundle Place. 2014 – 2015.*
+
 **Creative Consultant at Carclew**  
 *Adelaide, Australia. August 2019 - present.*
 
@@ -33,15 +42,6 @@ Projects include planning and delivery of the 2019 National Youth Arts Summit, l
 *Adelaide, Australia. January 2019 - July 2019.*
 
 Theatre of the Global Majority is a free fortnightly program for people aged 18+ from non-white culturally diverse backgrounds. Reporting to Artistic Director and CEO, Edwin Kemp-Attrill.
-
-**Senior Operations Specialist at Apple**  
-*Rundle Place. 2014 - present.*
-
-In current role from 2017: oversees in-store inventory systems, facilities management, preservations, external relations, event planning, and all other operational tasks.  
-
-Previously held positions with Apple:  
-***Technical Specialist** at Apple Rundle Place. 2015 – 2017;*  
-***Specialist** at Apple Rundle Place. 2014 – 2015.*
 
 **Box Office Manager at Noel Lothian Hall**  
 *Adelaide, Australia. 2019.*
