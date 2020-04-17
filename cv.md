@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-<h1>jden redden <sub>FRSA AMICDA</sub></h1>
+# jden redden FRSA AMICDA
 
 ## Profile
 
