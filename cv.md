@@ -19,7 +19,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 
 [Download one-page PDF Board CV](/content/documents/jden-redden-board-CV.pdf).
 
--- 
+---
 
 ## Experience
  
@@ -45,7 +45,7 @@ Previously held positions with Apple:
 **GreenRoom Advocate at Adelaide Festival Centre**  
 *Adelaide, Australia. 2018.*
 
---
+---
 
 ### Boards	
 
@@ -62,7 +62,7 @@ Appointed by Minister for Education, Hon. John Gardner MP.
 **Non-Executive Director, Board of Management of the University of Adelaide Theatre Guild**  
 *Adelaide, Australia. 2018 - 2019.*
 
---
+---
 
 ### Memberships
 
@@ -72,7 +72,7 @@ Appointed by Minister for Education, Hon. John Gardner MP.
 **Fellow, Royal Society of the Arts (FRSA)**  
 *Member since 2020.*
 
---
+---
 
 ### Education
 
