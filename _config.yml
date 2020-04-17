@@ -18,8 +18,8 @@ tagline: blog
 email: iam@jden.me
 description: >- # this means to ignore newlines until "baseurl:"
   the gospel according to jden
-baseurl: https://blog.jden.me # the subpath of your site, e.g. /blog
-url: https://blog.jden.me # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: https://jden.me # the subpath of your site, e.g. /blog
+url: https://jden.me # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jden
 github_username:  JDENredden
 permalink: /blog/:categories/:year/:month/:day/:title
