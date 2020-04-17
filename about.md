@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-# Biography in the third person
+![content/images/jden-redden-2019.jpg](jden redden 2019)
+
+## Biography (in the third person)
 
 jden is a producer, creative consultant, non-executive director, and magician for his production company Fascinating Lies and Carclew. 
 
@@ -15,7 +17,7 @@ jden holds a Graduate Diploma in Management (Arts and Cultural Management) at th
 
 jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously sitting on the Board of the University of Adelaide Theatre Guild. He is also an Associate Member of the Institute for Community Directors Australia.
 
-# Contact
+## Contact
 
 My email is [iam@jden.me](mailto:iam@jden.me) or [jdenredden@protonmail.ch](mailto:jdenredden@protonmail.ch) for you privacy nuts. 
 
