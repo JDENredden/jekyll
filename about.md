@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![content/images/jden-redden-2019.jpg](jden redden 2019)
+![jden redden 2019](/content/images/jden-redden-2019.jpg)
 
 ## Biography (in the third person)
 
