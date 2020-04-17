@@ -22,7 +22,7 @@ baseurl: https://blog.jden.me # the subpath of your site, e.g. /blog
 url: https://blog.jden.me # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jden
 github_username:  JDENredden
-permalink: /:categories/:year/:month/:day/:title
+permalink: /blog/:categories/:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
