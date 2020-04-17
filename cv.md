@@ -44,7 +44,8 @@ Previously held positions with Apple:
 ### Boards	
 
 **Non-Executive Director, Board of Management of Carclew**  
-*Appointed by Minister for Education, Hon. John Gardner MP. Adelaide, Australia. 2019 - present.*
+Appointed by Minister for Education, Hon. John Gardner MP.  
+*Adelaide, Australia. 2019 - present.*
 
 **Independent Non-Executive Director, Board of Management of Access2Arts**  
 *Adelaide, Australia. 2019 - present.*
@@ -57,9 +58,9 @@ Previously held positions with Apple:
 
 ### Memberships
 
-**Associate Member of the Institute of Community Directors Australia**
+**Associate Member of the Institute of Community Directors Australia (AMICDA) since 2018.**
 
-**Fellow of the Royal Society of the Arts**
+**Fellow of the Royal Society of the Arts (FRSA) since 2020.**
 
 ### Education
 
