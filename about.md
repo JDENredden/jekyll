@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![jden redden 2019](/content/images/jden-redden-2019.jpg)
+<img class="about" src="/content/images/jden-redden-2019.jpg" alt="jden redden 2019">
 
 ## Biography (in the third person)
 
