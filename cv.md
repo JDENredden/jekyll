@@ -3,6 +3,10 @@ layout: page
 title: CV
 ---
 
+## Profile
+
+25-year-old Filipino-Australian male Arts and Cultural Leader, currently a Producer and Creative Consultant at Fascinating Lies and Carclew, Operations Specialist at Apple, sitting on the Board of Access2Arts, ActNow Theatre and Carclew. Jden is an alumnus of the University of Adelaide and University of South Australia and student of the National Institute of Dramatic Arts living in Adelaide, Australia. Over 10 years experience in creative production, cultural leadership, and non-for-profit governance with significant experience in the planning and delivery of cultural events including logistically and planning intensive product launches for Apple. A young arts and cultural leader, director, and manager looking to take on any challenge, connect people, and do the best work of my life.
+
 ## Experience
  
 **Producer, Performer and Founding Partner at Fascinating Lies**  
@@ -26,8 +30,8 @@ Theatre of the Global Majority is a free fortnightly program for people aged 18+
 In current role from 2017: oversees in-store inventory systems, facilities management, preservations, external relations, event planning, and all other operational tasks.  
 
 Previously held positions with Apple:  
-***Technical Specialist_** _at Apple Rundle Place. 2015 – 2017;*  
-***Specialist_** _at Apple Rundle Place. 2014 – 2015.*
+***Technical Specialist** at Apple Rundle Place. 2015 – 2017;*  
+***Specialist** at Apple Rundle Place. 2014 – 2015.*
 
 **Box Office Manager at Noel Lothian Hall**  
 *Adelaide, Australia. 2019.*
@@ -51,7 +55,7 @@ Producer of _Chords of Progression_ for the Adelaide Festival Centre’s Guitar 
 *Adelaide, Australia. 2019 - present.*
 
 **Non-Executive Director, Board of Management of the University of Adelaide Theatre Guild**  
-*Adelaide, Australia. 2018 – 2019. *
+*Adelaide, Australia. 2018 – 2019.*
 
 ### Memberships
 
