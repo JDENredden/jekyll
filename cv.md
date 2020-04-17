@@ -3,9 +3,11 @@ layout: page
 title: CV
 ---
 
+# jden redden
+
 ## Profile
 
-25-year-old Filipino-Australian male Arts and Cultural Leader, currently a Producer and Creative Consultant at Fascinating Lies and Carclew, Operations Specialist at Apple, sitting on the Board of Access2Arts, ActNow Theatre and Carclew. Jden is an alumnus of the University of Adelaide and University of South Australia and student of the National Institute of Dramatic Arts living in Adelaide, Australia. 
+25-year-old Filipino-Australian male Arts and Cultural Leader, currently a Producer and Creative Consultant at Fascinating Lies and Carclew, Operations Specialist at Apple, sitting on the Board of Access2Arts, ActNow Theatre and Carclew. jden is an alumnus of the University of Adelaide and University of South Australia and student of the National Institute of Dramatic Arts living in Adelaide, Australia. 
 
 Over 10 years experience in creative production, cultural leadership, and non-for-profit governance with significant experience in the planning and delivery of cultural events including logistically and planning intensive product launches for Apple. A young arts and cultural leader, director, and manager looking to take on any challenge, connect people, and do the best work of my life.
 
