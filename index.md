@@ -17,10 +17,14 @@ You can read my [blog here](/blog/), or learn more [about me](/about.html), or c
 
 [Twitter](https://www.twitter.com/jden) and [Instagram](https://www.instagram.com/jden).
 
+<hr>
+
+# Recent Blog Posts
+
 <div class="posts">
     
   {% for post in paginator.posts %}
-  <article class="post">
+  <article>
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
