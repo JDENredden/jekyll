@@ -3,7 +3,8 @@ layout: page
 title: CV
 ---
 
-# jden redden FRSA AMICDA
+# jden redden FRSA AMICDA GDipArts&CultMgt BMa&CompSc
+
 
 ## Profile
 
@@ -58,19 +59,22 @@ Appointed by Minister for Education, Hon. John Gardner MP.
 
 ### Memberships
 
-**Associate Member of the Institute of Community Directors Australia (AMICDA)**  
-since 2018.
+**Associate Member, Institute of Community Directors Australia (AMICDA)**  
+Member since 2018.
 
-**Fellow of the Royal Society of the Arts (FRSA)**  
-since 2020.
+**Fellow, Royal Society of the Arts (FRSA)**  
+Member since 2020.
 
 ### Education
 
 **National Institute of Dramatic Arts (NIDA), Graduate School**  
 *Master of Fine Arts (Cultural Leadership). 2019 - 2021.*
+MFACultLead
 
 **University of South Australia, School of Management**  
 *Graduate Diploma in Management (Arts and Cultural Management). 2018. Graduated.*
+GDipArts&CultMgt
 	
 **University of Adelaide, School of Mathematical Sciences**  
 *Bachelor of Mathematical and Computer Sciences (Major in Pure Mathematics). 2017. Graduated.*
+BMa&CompSc
