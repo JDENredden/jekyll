@@ -4,7 +4,7 @@ title: CV
 ---
 
 # jden redden 
-FRSA AMICDA GradDipMgmt(ArtsCult) BMaCompSc
+*FRSA AMICDA GradDipMgmt(ArtsCult) BMaCompSc*
 
 
 ## Profile
