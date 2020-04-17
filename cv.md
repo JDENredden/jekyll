@@ -5,12 +5,12 @@ title: CV
 
 ## Experience
  
-**Producer, Performer and Founding Partner at Fascinating Lies**\
+**Producer, Performer and Founding Partner at Fascinating Lies** \
 *Adelaide, Australia. 2012 - present.*
 
 Produced and performed in several critical and financially successful productions for the Adelaide Fringe Festival since 2013 including _BankSA Best Magic Weekly Award_ in 2018 and 2019. Consultant on the 2012, 2013 and 2014 Australian tours of _The Illusionists_ and _The Naked Magicians_. Clients for corporate shows include; _Adelaide Fringe_, _Jack & Jones_, _HUSH Communications_, _The University of Adelaide_ among others.
 
-**Creative Consultant at Carclew**\
+**Creative Consultant at Carclew**  
 *Adelaide, Australia. August 2019 - present.*
 
 Projects include planning and delivery of the 2019 National Youth Arts Summit, leading a small team for the delivery of six short films for the Commissioner for Children and Young People.
