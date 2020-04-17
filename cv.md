@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 ---
 
 # jden redden 
@@ -19,6 +19,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 
 [Download one-page PDF Board CV](/content/documents/jden-redden-board-CV.pdf).
 
+-- 
+
 ## Experience
  
 **Producer, Performer and Founding Partner at Fascinating Lies**  
@@ -28,8 +30,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 *Rundle Place. 2014 - present.*
 
 Previously held positions with Apple:  
-***Technical Specialist** at Apple Rundle Place. 2015 – 2017;*  
-***Specialist** at Apple Rundle Place. 2014 – 2015.*
+***Technical Specialist** at Apple Rundle Place. 2015 - 2017;*  
+***Specialist** at Apple Rundle Place. 2014 - 2015.*
 
 **Creative Consultant at Carclew**  
 *Adelaide, Australia. August 2019 - present.*
@@ -42,6 +44,8 @@ Previously held positions with Apple:
 
 **GreenRoom Advocate at Adelaide Festival Centre**  
 *Adelaide, Australia. 2018.*
+
+--
 
 ### Boards	
 
@@ -56,26 +60,30 @@ Appointed by Minister for Education, Hon. John Gardner MP.
 *Adelaide, Australia. 2019 - present.*
 
 **Non-Executive Director, Board of Management of the University of Adelaide Theatre Guild**  
-*Adelaide, Australia. 2018 – 2019.*
+*Adelaide, Australia. 2018 - 2019.*
+
+--
 
 ### Memberships
 
 **Associate Member, Institute of Community Directors Australia (AMICDA)**  
-Member since 2018.
+*Member since 2018.*
 
 **Fellow, Royal Society of the Arts (FRSA)**  
-Member since 2020.
+*Member since 2020.*
+
+--
 
 ### Education
 
 **National Institute of Dramatic Arts (NIDA), Graduate School**  
-*Master of Fine Arts (Cultural Leadership). 2019 - 2021.*
+*Master of Fine Arts (Cultural Leadership). 2021.*  
 MFACultLead
 
 **University of South Australia, School of Management**  
-*Graduate Diploma in Management (Arts and Cultural Management). 2018. Graduated.*
+*Graduate Diploma in Management (Arts and Cultural Management). 2018. Graduated.*  
 GradDipMgmt(ArtsCult)
 
 **University of Adelaide, School of Mathematical Sciences**  
-*Bachelor of Mathematical and Computer Sciences (Major in Pure Mathematics). 2017. Graduated.*
+*Bachelor of Mathematical and Computer Sciences (Major in Pure Mathematics). 2017. Graduated.*  
 BMaCompSc
