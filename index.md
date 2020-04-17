@@ -1,7 +1,7 @@
 ---
 layout: page
 pagination:
-  enabled: false
+  enabled: true
 title: Home
 ---
 
