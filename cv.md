@@ -58,9 +58,11 @@ Appointed by Minister for Education, Hon. John Gardner MP.
 
 ### Memberships
 
-**Associate Member of the Institute of Community Directors Australia (AMICDA) since 2018.**
+**Associate Member of the Institute of Community Directors Australia (AMICDA)**  
+since 2018.
 
-**Fellow of the Royal Society of the Arts (FRSA) since 2020.**
+**Fellow of the Royal Society of the Arts (FRSA)**  
+since 2020.
 
 ### Education
 

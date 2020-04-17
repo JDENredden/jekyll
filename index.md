@@ -18,11 +18,8 @@ You can read my [blog here](/blog/), or learn more [about me](/about.html), or c
 [Twitter](https://www.twitter.com/jden) and [Instagram](https://www.instagram.com/jden).
 
 <hr>
-<br>
 
-## Recent Blog Posts
-
-<br>
+## Recent blog posts
 
 <div class="posts">
     
