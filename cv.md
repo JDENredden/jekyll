@@ -15,7 +15,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 
 [Download full PDF CV](/content/documents/jden-redden-CV.pdf). 
 
-[Download one-page Board CV](/content/documents/jden-redden-board-CV.pdf).
+[Download one-page PDF Board CV](/content/documents/jden-redden-board-CV.pdf).
 
 ## Experience
  
