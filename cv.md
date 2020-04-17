@@ -3,7 +3,8 @@ layout: page
 title: CV
 ---
 
-# jden redden FRSA AMICDA GDipArts&CultMgt BMa&CompSc
+# jden redden 
+FRSA AMICDA GradDipMgmt(ArtsCult) BMa&CompSc
 
 
 ## Profile
@@ -73,8 +74,8 @@ MFACultLead
 
 **University of South Australia, School of Management**  
 *Graduate Diploma in Management (Arts and Cultural Management). 2018. Graduated.*
-GDipArts&CultMgt
-	
+GradDipMgmt(ArtsCult)
+
 **University of Adelaide, School of Mathematical Sciences**  
 *Bachelor of Mathematical and Computer Sciences (Major in Pure Mathematics). 2017. Graduated.*
 BMa&CompSc
