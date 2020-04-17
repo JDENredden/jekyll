@@ -24,6 +24,10 @@ title: Blog
   {% endfor %}
 </div>
 
+<aside class="related">
+  <h3><a href="{{ site.baseurl }}/archive.html">Archive</a></h3>
+</aside>
+
 <div class="pagination">
   {% if paginator.total_pages > 1 %}
       {% if paginator.next_page %}
