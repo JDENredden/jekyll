@@ -74,8 +74,10 @@ jden redden, 1994-present.* at Art Gallery of New South Wales
 ![ ](/content/images/2017/07/Untitled-9.jpg)
   at National War Memorial (South Australia)
 
+<!--
 ![Henry V with the Queen](/content/images/2017/07/Untitled-10.jpg)
 *Henry V with the [Queen](http://elena-luna.com)* at Little Theatre
+-->
 
 ![A mirror #soedgy](/content/images/2017/07/Untitled-11.jpg)
 *A mirror. #soedgy* at Her Majesty's Theatre
