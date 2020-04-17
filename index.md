@@ -1,5 +1,7 @@
 ---
 layout: page
+pagination:
+  enabled: false
 title: Home
 ---
 
