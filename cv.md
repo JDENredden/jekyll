@@ -22,7 +22,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 
 ---
 
-<span class="cv">
+<div class="cv">
 
 ## Experience
  
@@ -95,4 +95,4 @@ BMaCompSc *Adl*
 
 ---
 
-</span>
+</div>
