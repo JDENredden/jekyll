@@ -25,11 +25,11 @@ You can read my [blog here](/blog/), or learn more [about me](/about.html), or c
     
   {% for post in paginator.posts %}
   <article>
-    <h3 class="post-title">
+    <h4 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h3>
+    </h4>
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A %-d %B %Y" }}</time>
   </article>
