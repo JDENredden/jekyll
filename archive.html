@@ -14,7 +14,7 @@ title: Archive by year
 
 {% for year in postsByYear %}
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
-<ul class="archive" aria-label="posts from {{ year.name }}">
+<ul class="related-posts" aria-label="posts from {{ year.name }}">
   {% for post in year.items %}   
   <li>
     <a href="{{ site.baseurl }}{{ post.url }}">
