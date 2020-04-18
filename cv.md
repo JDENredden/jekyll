@@ -29,7 +29,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 **Senior Operations Specialist, Apple**  
 *Rundle Place, Australia. 2014 - present.*
 
-Previously held positions with Apple:  
+> Previously held positions with Apple:  
 ***Technical Specialist**. 2015 - 2017;*  
 ***Specialist**. 2014 - 2015.*
 
