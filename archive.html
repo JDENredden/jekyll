@@ -5,19 +5,20 @@ layout: page
 <h1>Archive of posts from {{ page.date | date: "%Y" }}</h1>
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-<nav class="menu browse by-year text-center" aria-label="year">
+<nav aria-label="year">
   <strong aria-hidden="true">Jump to:</strong>
+  <ul>
   {% for year in postsByYear %}
-  <a href="#{{ year.name }}"><span class="visually-hidden">jump to posts from</span>{{ year.name }}</a>
+      <li><a href="#{{ year.name }}"><span class="visually-hidden">jump to posts from</span>{{ year.name }}</a></li>
   {% endfor %}
+  </ul>
 </nav>
 
 {% for year in postsByYear %}
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
-<ul aria-label="posts from {{ year.name }}">
+<ul class="archive" aria-label="posts from {{ year.name }}">
   {% for post in year.items %}
   <li>
-  <article>
     <h3 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -25,7 +26,6 @@ layout: page
     </h3>
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A %-d %B %Y" }}</time>
-  </article>
   </li>
   {% endfor %}
 </ul>
