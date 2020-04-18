@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 # jden redden 
-*BMaCompSc Adelaide GradDipMgmt(ArtsCult) UniSA FRSA AMICDA*
+BMaCompSc *Adl* GradDipMgmt(ArtsCult) *UniSA* FRSA AMICDA
 
 
 ## Profile
