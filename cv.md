@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+non-blog: true
 ---
 
 # jden redden 

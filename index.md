@@ -3,6 +3,7 @@ layout: page
 pagination:
   enabled: true
 title: Home
+non-blog: true
 ---
 
 # I'm jden redden.

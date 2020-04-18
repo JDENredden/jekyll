@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
+non-blog: true
 ---
 
 <img class="about" src="/content/images/jden-redden-2019.jpg" alt="jden redden 2019">
