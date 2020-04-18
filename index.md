@@ -30,7 +30,3 @@ You can read my [blog here](/blog/), or learn more [about me](/about.html), or c
     {% endfor %}
   </ul>
 </aside>
-
-<aside class="related">
-  <h3><a href="{{ site.baseurl }}/archive.html">Archive</a></h3>
-</aside>
