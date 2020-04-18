@@ -23,54 +23,56 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 
 ## Experience
  
-**Producer, Performer and Founding Partner at Fascinating Lies**  
+**Producer and Partner, Fascinating Lies**  
 *Adelaide, Australia. 2012 - present.*
 
-**Senior Operations Specialist at Apple**  
-*Rundle Place. 2014 - present.*
+**Senior Operations Specialist, Apple**  
+*Rundle Place, Australia. 2014 - present.*
 
 Previously held positions with Apple:  
-***Technical Specialist** at Apple Rundle Place. 2015 - 2017;*  
-***Specialist** at Apple Rundle Place. 2014 - 2015.*
+***Technical Specialist**. 2015 - 2017;*  
+***Specialist**. 2014 - 2015.*
 
-**Creative Consultant at Carclew**  
+**Creative Consultant, Carclew**  
 *Adelaide, Australia. August 2019 - present.*
 
-**Producer, Theatre of the Global Majority at ActNow Theatre**  
+**Producer, Theatre of the Global Majority, ActNow Theatre**  
 *Adelaide, Australia. January 2019 - July 2019.*
 
-**Box Office Manager at Noel Lothian Hall**  
+**Box Office Manager, Noel Lothian Hall**  
 *Adelaide, Australia. 2019.*
 
-**GreenRoom Advocate at Adelaide Festival Centre**  
+**GreenRoom Advocate, Adelaide Festival Centre**  
 *Adelaide, Australia. 2018.*
 
 ---
 
 ### Boards	
 
-**Non-Executive Director, Board of Management of Carclew**  
+**Non-Executive Director, Board of Management, Carclew**  
 Appointed by Minister for Education, Hon. John Gardner MP.  
 *Adelaide, Australia. 2019 - present.*
 
-**Independent Non-Executive Director, Board of Management of Access2Arts**  
+**Independent Non-Executive Director, Board of Management, Access2Arts**  
 *Adelaide, Australia. 2019 - present.*
 
-**Independent Non-Executive Director, Board of Management of ActNow Theatre**  
+**Independent Non-Executive Director, Board of Management, ActNow Theatre**  
 *Adelaide, Australia. 2019 - present.*
 
-**Non-Executive Director, Board of Management of the University of Adelaide Theatre Guild**  
+**Non-Executive Director, Board of Management, the University of Adelaide Theatre Guild**  
 *Adelaide, Australia. 2018 - 2019.*
 
 ---
 
 ### Memberships
 
-**Fellow, Royal Society of the Arts (FRSA)**  
-*Fellow since 2020.*
+**Fellow, Royal Society of the Arts**  
+*Fellow since 2020.*  
+FRSA
 
-**Associate Member, Institute of Community Directors Australia (AMICDA)**  
-*Member since 2018.*
+**Associate Member, Institute of Community Directors Australia**  
+*Member since 2018.*  
+AMICDA
 
 ---
 
