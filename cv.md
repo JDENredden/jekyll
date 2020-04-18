@@ -89,3 +89,5 @@ GradDipMgmt(ArtsCult) *UniSA*
 **University of Adelaide, School of Mathematical Sciences**  
 *Bachelor of Mathematical and Computer Sciences (Major in Pure Mathematics). 2017. Graduated.*  
 BMaCompSc *Adl*
+
+---
