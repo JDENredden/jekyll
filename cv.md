@@ -67,7 +67,7 @@ Appointed by Minister for Education, Hon. John Gardner MP.
 ### Memberships
 
 **Fellow, Royal Society of the Arts (FRSA)**  
-*Member since 2020.*
+*Fellow since 2020.*
 
 **Associate Member, Institute of Community Directors Australia (AMICDA)**  
 *Member since 2018.*
@@ -78,12 +78,12 @@ Appointed by Minister for Education, Hon. John Gardner MP.
 
 **National Institute of Dramatic Arts (NIDA), Graduate School**  
 *Master of Fine Arts (Cultural Leadership). 2021.*  
-MFACultLead
+MFACultLead *NIDA*
 
 **University of South Australia, School of Management**  
 *Graduate Diploma in Management (Arts and Cultural Management). 2018. Graduated.*  
-GradDipMgmt(ArtsCult)
+GradDipMgmt(ArtsCult) *UniSA*
 
 **University of Adelaide, School of Mathematical Sciences**  
 *Bachelor of Mathematical and Computer Sciences (Major in Pure Mathematics). 2017. Graduated.*  
-BMaCompSc
+BMaCompSc *Adl*
