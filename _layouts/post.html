@@ -8,6 +8,7 @@ layout: default
   {{ content }}
 </article>
 
+<!--
 {% if site.related_posts != empty %}
 <aside class="related">
   <h3>Related posts</h3>
@@ -23,3 +24,19 @@ layout: default
   </ul>
 </aside>
 {% endif %}
+-->
+
+{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:3 %}
+<aside class="related">
+  <h3>Related posts</h3>
+  <ul class="related-posts">
+  {% for post in posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">
+      <h4>{{ post.title }}
+      <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></h4>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</aside>
