@@ -15,8 +15,8 @@ layout: default
     {% for post in site.related_posts limit:3 %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small>
+          <h3>{{ post.title }}
+              <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></h3>
         </a>
       </li>
     {% endfor %}
