@@ -5,11 +5,13 @@ title: Archive by year
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <nav aria-label="year">
-  <h2>Jump to:</h2>
-  <h3>{% for year in postsByYear %}
+  <h2>Jump to: 
+      {% for year in postsByYear %}
         <a href="#{{ year.name }}">{{ year.name }}</a>&nbsp;
-      {% endfor %}</h3>
+      {% endfor %}</h2>
 </nav>
+
+<hr>
 
 {% for year in postsByYear %}
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
