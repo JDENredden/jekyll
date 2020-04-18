@@ -15,15 +15,12 @@ title: Archive by year
 {% for year in postsByYear %}
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
 <ul class="archive" aria-label="posts from {{ year.name }}">
-  {% for post in year.items %}
+  {% for post in year.items %}   
   <li>
-    <h3 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h3>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A %-d %B %Y" }}</time>
+    <a href="{{ site.baseurl }}{{ post.url }}">
+    <h4>{{ post.title }}
+      <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></h4>
+    </a>
   </li>
   {% endfor %}
   <hr>
