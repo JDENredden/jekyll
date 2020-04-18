@@ -6,10 +6,10 @@ layout: page
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <nav aria-label="year">
-  <strong aria-hidden="true">Jump to:</strong>
-  <ul>
+  <strong>Jump to:</strong>
+  <ul class="archive">
   {% for year in postsByYear %}
-      <li><a href="#{{ year.name }}"><span class="visually-hidden">jump to posts from</span>{{ year.name }}</a></li>
+      <li><a href="#{{ year.name }}">{{ year.name }}</a></li>
   {% endfor %}
   </ul>
 </nav>
