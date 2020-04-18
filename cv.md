@@ -22,8 +22,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 
 ---
 
-<div class="cv">
-
 ## Experience
  
 **Producer and Partner, Fascinating Lies**  
@@ -94,5 +92,3 @@ GradDipMgmt(ArtsCult) *UniSA*
 BMaCompSc *Adl*
 
 ---
-
-</div>
