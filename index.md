@@ -23,8 +23,8 @@ You can read my [blog here](/blog/), or learn more [about me](/about.html), or c
 
 <div class="posts">
     
-  {% for post in paginator.posts %}
-  <article>
+  {% for post in paginator.posts limit:5 %}
+  <article class="related-posts">
     <a href="{{ site.baseurl }}{{ post.url }}">
       <h4>{{ post.title }}
       <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></h4>
