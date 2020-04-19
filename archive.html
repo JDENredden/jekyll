@@ -40,7 +40,7 @@ title: Archive
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% for year in postsByYear %}
-    <h2 id="{{ year.name }}">{{ year.name }}</h2>
+    <h2 id="{{ year.name }}">{{ year.name }} <a href="#top">&#10514;</a></h2>
     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
     {% for month in postsByMonth %}
@@ -64,7 +64,7 @@ title: Archive
 
 {% for tag in site.categories %}
 <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
-<ul aria-label="posts classified under {{ tag[0] }}">
+<ul class="related-posts" aria-label="posts classified under {{ tag[0] }}">
   {% for post in tag[1] %}
   <li class="archive-posts">
     {% include post-list.html %}
