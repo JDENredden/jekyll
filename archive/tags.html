@@ -4,9 +4,12 @@ title: Archive
 permalink: /blog/archive/tag/
 ---
 
+{% assign sorted = site.tags | split:' ' | sort %}
+{% for tag in sorted %}
+
 <h3>By tag</h3>
 <nav>
-  <p>{% for tag in site.tags %}
+  <p>{% for tag in sorted %}
       <strong><a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a></strong>&nbsp;
       {% endfor %}</p>
 </nav>
@@ -17,8 +20,7 @@ permalink: /blog/archive/tag/
 
 <hr>
 
-{% assign sorted = site.tags | split:' ' | sort %}
-{% for tag in sorted %}
+{% for tag in site.tags %}
 <h2 id="{{ tag[0] | slugify }}"><a href="{{ site.baseurl }}/blog/tag/{{ tag[0] }}">{{ tag[0] }}</a> <a href="#top">&#11023;</a></h2>
 <ul class="related-posts" aria-label="posts classified under {{ tag[0] }}">
   {% for post in tag[1] %}
