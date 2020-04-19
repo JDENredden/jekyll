@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Archive by year
+title: Archive
 ---
 
+<h2>Archive by year by month</h2>
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <nav aria-label="year">
-  <h2>{% for year in postsByYear %}
+  <h3>{% for year in postsByYear %}
         <a href="#{{ year.name }}">{{ year.name }}</a>&nbsp;
-      {% endfor %}</h2>
+      {% endfor %}</h3>
 </nav>
+
+<h2>Archive by category</h2>
 
 <hr>
 
@@ -36,17 +39,17 @@ title: Archive by year
 -->
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-    {% for year in postsByYear %}
-      <h2>{{ year.name }}</h2>
-      {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+  {% for year in postsByYear %}
+    <h2>{{ year.name }}</h2>
+    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
-      {% for month in postsByMonth %}
-        <h3>{{ month.name }}</h3>
-        <ul class="related-posts">
-          {% for post in month.items %}
-            <li class="archive-posts">{% include post-list.html %}</li>
-          {% endfor %}
-        </ul>
-
+    {% for month in postsByMonth %}
+      <h3>{{ month.name }}</h3>
+      <ul class="related-posts">
+        {% for post in month.items %}
+          <li class="archive-posts">{% include post-list.html %}</li>
+        {% endfor %}
+      </ul>
       {% endfor %}
-    {% endfor %}
+    <hr>
+{% endfor %}
