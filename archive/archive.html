@@ -7,10 +7,12 @@ permalink: /blog/archive/
 <h3>By year by month</h3>
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <nav aria-label="year">
-  <h4>{% for year in postsByYear %}
-        <a href="#{{ year.name }}">{{ year.name }}</a>&nbsp;
-      {% endfor %}</h4>
+  <p>{% for year in postsByYear %}
+      <strong><a href="#{{ year.name }}">{{ year.name }}</a></strong>&nbsp;
+      {% endfor %}</p>
 </nav>
+
+<hr>
 
 <p>You can also filter the archive by <a href="{{ site.baseurl }}/blog/archive/category/">category</a> or by <a href="{{ site.baseurl }}/blog/archive/tag/">tag</a>.</p>
 

@@ -6,10 +6,14 @@ permalink: /blog/archive/tag/
 
 <h3>By tag</h3>
 <nav>
-  <h4>{% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>&nbsp;
-      {% endfor %}</h4>
+  <p>{% for tag in site.tags %}
+      <strong><a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a></strong>&nbsp;
+      {% endfor %}</p>
 </nav>
+
+<hr>
+
+<p>You can also filter the archive by <a href="{{ site.baseurl }}/blog/archive/">year</a> or by <a href="{{ site.baseurl }}/blog/archive/category/">category</a>.</p>
 
 <hr>
 
