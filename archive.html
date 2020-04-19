@@ -3,7 +3,7 @@ layout: page
 title: Archive
 ---
 
-<h2>Archive by year by month</h2>
+<h2>By year by month</h2>
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <nav aria-label="year">
   <h3>{% for year in postsByYear %}
@@ -11,7 +11,7 @@ title: Archive
       {% endfor %}</h3>
 </nav>
 
-<h2>Archive by category</h2>
+<h2>By category</h2>
 
 <hr>
 
@@ -40,7 +40,7 @@ title: Archive
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% for year in postsByYear %}
-    <h2>{{ year.name }}</h2>
+    <h2 id="{{ year.name }}">{{ year.name }}</h2>
     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
     {% for month in postsByMonth %}
@@ -52,4 +52,24 @@ title: Archive
       </ul>
       {% endfor %}
     <hr>
+{% endfor %}
+
+<nav>
+  <strong aria-hidden="true">Jump to:</strong>
+  {% for tag in site.categories %}
+  <a href="#{{ tag[0] | slugify }}" class="post-tag"><span class="visually-hidden">jump to posts classified under </span>{{ tag[0] }}</a>
+  {% endfor %}
+</nav>
+
+
+{% for tag in site.categories %}
+<h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+<ul aria-label="posts classified under {{ tag[0] }}">
+  {% for post in tag[1] %}
+  <li class="archive-posts">
+    {% include post-list.html %}
+  </li>
+  {% endfor %}
+</ul>
+<hr>
 {% endfor %}
