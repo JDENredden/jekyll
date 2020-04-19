@@ -42,7 +42,7 @@ title: Archive by year
 
       {% for month in postsByMonth %}
         <h3>{{ month.name }}</h3>
-        <ul class="related-posts">
+        <ul class="related-posts archive">
           {% for post in month.items %}
             <li>{% include post-list.html %}</li>
           {% endfor %}
