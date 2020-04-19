@@ -17,7 +17,7 @@ permalink: /blog/archive/tag/
 
 <hr>
 
-{% for tag in site.tags | sort %}
+{% for tag in site.tags | sort: 'title' %}
 <h2 id="{{ tag[0] | slugify }}"><a href="{{ site.baseurl }}/blog/tag/{{ tag[0] }}">{{ tag[0] }}</a> <a href="#top">&#11023;</a></h2>
 <ul class="related-posts" aria-label="posts classified under {{ tag[0] }}">
   {% for post in tag[1] %}
