@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Archive by category
+title: Archive by tag
+permalink: /blog/archive/tag/
 ---
 
 <h3>By tag</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-permalink: /archive/
+permalink: /blog/archive/
 ---
 
 <h3>By year by month</h3>
@@ -39,7 +39,7 @@ permalink: /archive/
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% for year in postsByYear %}
-    <h2 id="{{ year.name }}">{{ year.name }} <a href="#top">&#11023;</a></h2>
+    <h2 id="{{ year.name }}"><a href="{{ site.baseurl }}/blog/{{ year.name}}">{{ year.name }}</a> <a href="#top">&#11023;</a></h2>
     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
     {% for month in postsByMonth %}

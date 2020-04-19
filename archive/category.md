@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive by category
+permanlink: /blog/archive/category/
 ---
 
 <h3>By category</h3>
