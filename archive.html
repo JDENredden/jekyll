@@ -3,7 +3,6 @@ layout: page
 title: Archive by year
 ---
 
-<!--
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <nav aria-label="year">
   <h2>{% for year in postsByYear %}
@@ -13,6 +12,7 @@ title: Archive by year
 
 <hr>
 
+<!--
 {% for year in postsByYear %}
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
 <ul class="related-posts" aria-label="posts from {{ year.name }}">
@@ -37,12 +37,12 @@ title: Archive by year
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
     {% for year in postsByYear %}
-      <h1>{{ year.name }}</h1>
+      <h2>{{ year.name }}</h2>
       {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
       {% for month in postsByMonth %}
-        <h2>{{ month.name }}</h2>
-        <ul>
+        <h3>{{ month.name }}</h3>
+        <ul class="related-posts">
           {% for post in month.items %}
             <li>{% include post-list.html %}</li>
           {% endfor %}
