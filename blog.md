@@ -12,6 +12,8 @@ Browse the [Archive](/archive.html) of posts.
 
 Categories: [Projects](/blog/projects/), [Technology](/blog/technology/), [Arts](/blog/arts/).
 
+---
+
 <div class="posts">
     
   {% for post in paginator.posts %}
@@ -29,10 +31,6 @@ Categories: [Projects](/blog/projects/), [Technology](/blog/technology/), [Arts]
   </article>
   {% endfor %}
 </div>
-
-<aside class="related">
-  <h3><a href="{{ site.baseurl }}/archive.html">Archive</a></h3>
-</aside>
 
 <div class="pagination">
   {% if paginator.total_pages > 1 %}
