@@ -12,34 +12,15 @@ permalink: /blog/archive/
       {% endfor %}</h4>
 </nav>
 
+<h3><a href="{{ site.baseurl }}/blog/archive/category/">By category</a></h3>
+
+<h3><a href="{{ site.baseurl }}/blog/archive/tag/">By tag</a></h3>
+
 <hr>
-
-<!--
-{% for year in postsByYear %}
-<h2 id="{{ year.name }}">{{ year.name }}</h2>
-<ul class="related-posts" aria-label="posts from {{ year.name }}">
-  {% for post in year.items %}   
-  <li>
-    {% include post-list.html %}
-  </li>
-  {% endfor %}
-  <hr>
-</ul>
-{% endfor %}
-
-<ul class="posts">
-{% for post in page.posts %}
-  <li>
-    <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
--->
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% for year in postsByYear %}
-    <h2 id="{{ year.name }}"><a href="{{ site.baseurl }}/blog/{{ year.name}}">{{ year.name }}</a> <a href="#top">&#11023;</a></h2>
+    <h2 id="{{ year.name }}"><a href="{{ site.baseurl }}/blog/{{ year.name }}">{{ year.name }}</a> <a href="#top">&#11023;</a></h2>
     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
     {% for month in postsByMonth %}

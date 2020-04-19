@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive by category
+title: Archive
 permalink: /blog/archive/category/
 ---
 
@@ -14,7 +14,7 @@ permalink: /blog/archive/category/
 <hr>
 
 {% for tag in site.categories %}
-<h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+<h2 id="{{ tag[0] | slugify }}"><a href="{{ site.baseurl }}/blog/{{ tag[0] }}">{{ tag[0] }}</a> <a href="#top">&#11023;</a></h2>
 <ul class="related-posts" aria-label="posts classified under {{ tag[0] }}">
   {% for post in tag[1] %}
   <li class="archive-posts">
