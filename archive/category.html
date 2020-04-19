@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Archive by category
-permanlink: /blog/archive/category/
+permalink: /blog/archive/category/
 ---
 
 <h3>By category</h3>
 <nav>
   <h4>{% for tag in site.categories %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>&nbsp;
       {% endfor %}</h4>
 </nav>
 
