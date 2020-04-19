@@ -1,0 +1,25 @@
+---
+layout: page
+title: Archive by category
+---
+
+<h3>By tag</h3>
+<nav>
+  <h4>{% for tag in site.tags %}
+    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+      {% endfor %}</h4>
+</nav>
+
+<hr>
+
+{% for tag in site.tags %}
+<h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+<ul class="related-posts" aria-label="posts classified under {{ tag[0] }}">
+  {% for post in tag[1] %}
+  <li class="archive-posts">
+    {% include post-list.html %}
+  </li>
+  {% endfor %}
+</ul>
+<hr>
+{% endfor %}

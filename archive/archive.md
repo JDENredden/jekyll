@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+permalink: /archive/
 ---
 
 <h3>By year by month</h3>
@@ -8,14 +9,6 @@ title: Archive
 <nav aria-label="year">
   <h4>{% for year in postsByYear %}
         <a href="#{{ year.name }}">{{ year.name }}</a>&nbsp;
-      {% endfor %}</h4>
-</nav>
-
-<h3>By category</h3>
-<nav>
-  <strong aria-hidden="true">Jump to:</strong>
-  <h4>{% for tag in site.categories %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
       {% endfor %}</h4>
 </nav>
 
@@ -58,17 +51,4 @@ title: Archive
       </ul>
       {% endfor %}
     <hr>
-{% endfor %}
-
-
-{% for tag in site.categories %}
-<h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
-<ul class="related-posts" aria-label="posts classified under {{ tag[0] }}">
-  {% for post in tag[1] %}
-  <li class="archive-posts">
-    {% include post-list.html %}
-  </li>
-  {% endfor %}
-</ul>
-<hr>
 {% endfor %}
