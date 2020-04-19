@@ -4,11 +4,16 @@ title: Archive
 permalink: /blog/archive/tag/
 ---
 
-{% assign sorted = site.tags | split:' ' | sort %}
+{% capture tags %}
+  {% for tag in site.tags %}
+    {{ tag[0] }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedTags = tags | split:' ' | sort %}
 
 <h3>By tag</h3>
 <nav>
-  <p>{% for tag in sorted %}
+  <p>{% for tag in sortedTags %}
       <strong><a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a></strong>&nbsp;
       {% endfor %}</p>
 </nav>
