@@ -17,10 +17,7 @@ title: Archive by year
 <ul class="related-posts" aria-label="posts from {{ year.name }}">
   {% for post in year.items %}   
   <li>
-    <a href="{{ site.baseurl }}{{ post.url }}">
-    <h4>{{ post.title }}
-      <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></h4>
-    </a>
+    {% include post-list.html %}
   </li>
   {% endfor %}
   <hr>

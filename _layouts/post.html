@@ -32,10 +32,7 @@ layout: default
   <ul class="related-posts">
   {% for post in posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">
-      <h4>{{ post.title }}
-      <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></h4>
-      </a>
+      {% include post-list.html %}
     </li>
   {% endfor %}
   </ul>
