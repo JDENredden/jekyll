@@ -12,7 +12,7 @@ permalink: /blog/archive/category/
 {% endcapture %}
 {% assign sortedCategories = categories | split:' ' | sort %}
 
-<h3>By category</h3>
+<h2>By category</h2>
 <nav>
   <p>{% for tag in sortedCategories %}
       <strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
