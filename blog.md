@@ -8,7 +8,11 @@ title: Blog
 
 This is my blog, I call it, The Gospel According to jden, I write about my projects, obersvations about technology and the arts and cultural sector, with a specific focus on the Australian realm. 
 
-Browse the [Archive](/archive.html) of posts.
+---
+
+Filter the [archive](/archive.html) of posts by: [year]({{ site.baseurl }}/blog/archive/), [category]({{ site.baseurl }}/blog/archive/category/), or [tag]({{ site.baseurl }}/blog/archive/tag/).
+
+---
 
 Categories: [Projects](/blog/projects/), [Technology](/blog/technology/), [Arts](/blog/arts/).
 
