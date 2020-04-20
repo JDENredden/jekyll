@@ -18,21 +18,23 @@ permalink: /blog/archive/tag/
     
   {% assign lastLetter = "" %}
     
-  <p>{% for tag in sortedTags %}
+  <ol>{% for tag in sortedTags %}
+      <li>
         {% assign tmpLetter = tag | slice:0 | upcase %}
 
         {% if tmpLetter != lastLetter %}
-        {$ unless lastLetter == "" %}
+        {% unless lastLetter == "" %}
             <hr>
-        {$ endunless %}
+        {% endunless %}
             <h2><a href="{{ site.baseurl }}/blog/archive/tag/#{{ tmpLetter }}">{{ tmpLetter }}</a></h2>
         {% endif %}
     
       <strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
     
       {% assign lastLetter = tmpLetter %}
+      </li>
       {% endfor %}
-  </p>
+  </ol>
   
 </nav>
 
