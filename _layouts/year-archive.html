@@ -13,7 +13,7 @@ layout: archive
     
   <h3>By month</h3>
     
-  {% for month in months %}
+  {% for month in months | reverse %}
     <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/">{{ month.name }}</a></strong>&nbsp;
   {% endfor %}
 </nav>
