@@ -14,7 +14,7 @@ permalink: /blog/archive/tag/
 
 <h2>By tag</h2>
 
-<nav>
+<nav class="archive-nav">
       {% assign lastLetter = "" %}
     
   {% for tag in sortedTags %}
@@ -24,10 +24,7 @@ permalink: /blog/archive/tag/
           {% unless lastLetter == "" %}
             <hr>
           {% endunless %}
-            <h2><a href="{{ site.baseurl }}/blog/archive/tag/#{{ tmpLetter }}">{{ tmpLetter }}</a></h2>
-            <strong><a href="#{{ tag | slugify }}" class="first">{{ tag }}</a></strong>&nbsp;
-            {% assign lastLetter = tmpLetter %}
-            {% continue %}
+            <h2 class="archive-header"><a href="{{ site.baseurl }}/blog/archive/tag/#{{ tmpLetter }}">{{ tmpLetter }}</a></h2>
         {% endif %}
     
       <strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
