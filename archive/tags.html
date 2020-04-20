@@ -22,6 +22,7 @@ permalink: /blog/archive/tag/
         {% assign tmpLetter = tag | slice:0 | upcase %}
 
         {% if tmpLetter != lastLetter %}
+            <hr>
             <h3>{{ tmpLetter }}</h3>
         {% endif %}
     
