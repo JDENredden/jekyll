@@ -17,3 +17,23 @@ layout: archive
   </ul>
 
 <hr>
+
+---
+
+<h2>By year by month</h2>
+
+<hr>
+
+{% assign year = page.date | date: "%Y" }
+    <h2 id="{{ year }}"><a href="{{ site.baseurl }}/blog/{{ year }}">{{ year }}</a> <a href="#top">&#10548;</a></h2>
+    {% assign postsByMonth = page.posts | group_by_exp:"post", "post.date | date: '%B'" %}
+
+    {% for month in postsByMonth %}
+    <h3><a href="{{ site.baseurl }}/blog/{{ year.name }}/{{ month.name | date: "%m" }}/">{{ month.name }}</a></h3>
+      <ul class="related-posts">
+        {% for post in month.items %}
+          <li class="archive-posts">{% include post-list.html %}</li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    <hr>
