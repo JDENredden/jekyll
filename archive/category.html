@@ -26,7 +26,7 @@ permalink: /blog/archive/category/
 <hr>
 
 {% for tag in sortedCategories %}
-<h2 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/blog/{{ tag }}">{{ tag }}</a> <a href="#top">&#11023;</a></h2>
+<h2 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/blog/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548;</a></h2>
 <ul class="related-posts" aria-label="posts classified under {{ tag }}">
   {% for post in site.categories[tag] %}
   <li class="archive-posts">
