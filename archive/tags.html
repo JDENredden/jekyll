@@ -25,14 +25,26 @@ permalink: /blog/archive/tag/
 
 <hr>
 
+{% assign lastLetter = "" %}
+
 {% for tag in sortedTags %}
-<h2 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/blog/tag/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548;</a></h2>
-<ul class="related-posts" aria-label="posts classified under {{ tag }}">
+
+  {% assign tmpLetter = tag | slice:0 | upcase %}
+
+  {% if tmpLetter != lastLetter %}
+    <h2>{{ tmpLetter }}</h2>
+  {% endif %}
+  
+  <h3 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/blog/tag/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548; </a></h3>
+
+  <ul class="related-posts" aria-label="posts classified under {{ tag }}">
   {% for post in site.tags[tag] %}
-  <li class="archive-posts">
-    {% include post-list.html %}
-  </li>
+    <li class="archive-posts">
+      {% include post-list.html %}
+    </li>
+      
+  {% assign lastLetter = tmpLetter %}
   {% endfor %}
-</ul>
+  </ul>
 <hr>
 {% endfor %}
