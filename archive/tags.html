@@ -18,8 +18,7 @@ permalink: /blog/archive/tag/
     
   {% assign lastLetter = "" %}
     
-  <ol>{% for tag in sortedTags %}
-      <li>
+  <ul>{% for tag in sortedTags %}
         {% assign tmpLetter = tag | slice:0 | upcase %}
 
         {% if tmpLetter != lastLetter %}
@@ -29,12 +28,11 @@ permalink: /blog/archive/tag/
             <h2><a href="{{ site.baseurl }}/blog/archive/tag/#{{ tmpLetter }}">{{ tmpLetter }}</a></h2>
         {% endif %}
     
-      <strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
+      <li><strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;</li>
     
       {% assign lastLetter = tmpLetter %}
-      </li>
       {% endfor %}
-  </ol>
+  </ul>
   
 </nav>
 
