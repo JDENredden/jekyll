@@ -2,7 +2,9 @@
 layout: archive
 ---
 
-<h3>Posts with tag <a href="{{ site.baseurl }}/blog/tag/{{ page.title }}">{{ page.title }}</a></h3>
+<h3><a href="{{ site.baseurl }}/blog/tag/{{ page.title }}">{{ page.title }}</a></h3>
+
+<h2>Posts with tag:</h2>
 
   <ul class="related-posts" aria-label="posts classified under {{ page.title }}">
   {% for post in page.posts %}
@@ -11,3 +13,5 @@ layout: archive
     </li>
   {% endfor %}
   </ul>
+
+<hr>
