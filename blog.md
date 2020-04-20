@@ -10,7 +10,7 @@ This is my blog, I call it, The Gospel According to jden, I write about my proje
 
 ---
 
-Filter the [archive](/archive.html) of posts by: [year]({{ site.baseurl }}/blog/archive/), [category]({{ site.baseurl }}/blog/archive/category/), or [tag]({{ site.baseurl }}/blog/archive/tag/).
+Filter the archive of posts by: [year]({{ site.baseurl }}/blog/archive/), [category]({{ site.baseurl }}/blog/archive/category/), or [tag]({{ site.baseurl }}/blog/archive/tag/).
 
 ---
 
