@@ -6,17 +6,13 @@ pagination:
 title: Blog
 ---
 
-This is my blog, I call it, The Gospel According to jden, I write about my projects, obersvations about technology and the arts and cultural sector, with a specific focus on the Australian realm. 
+<p>This is my blog, I call it, The Gospel According to jden, I write about my projects, obersvations about technology and the arts and cultural sector, with a specific focus on the Australian realm.</p>
 
----
+<hr>
 
-Filter the archive of posts by: [year]({{ site.baseurl }}/blog/archive/), [category]({{ site.baseurl }}/blog/archive/category/), or [tag]({{ site.baseurl }}/blog/archive/tag/).
+<p>Filter the archive by: <a href="{{ site.baseurl }}/blog/archive/">year</a>, <a href="{{ site.baseurl }}/blog/archive/category/">category</a>, or by <a href="{{ site.baseurl }}/blog/archive/tag/">tag</a>.</p>
 
----
-
-Categories: [Projects](/blog/projects/), [Technology](/blog/technology/), [Arts](/blog/arts/).
-
----
+<hr>
 
 <div class="posts">
     
