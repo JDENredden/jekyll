@@ -2,13 +2,16 @@
 layout: archive
 ---
 
-<h2>Archive of posts with {{ page.type }} <a href="{{ site.baseurl }}/blog/{{ page.title }}/">{{ page.title }}</a>.</h2>
+<h2>By category</h2>
 
-<ul class="related-posts">
-  {% for post in page.posts %}   
-  <li>
-    {% include post-list.html %}
-  </li>
+<h3><a href="{{ site.baseurl }}/blog/category/{{ page.title }}">{{ page.title }}</a></h3>
+
+  <ul class="related-posts" aria-label="posts classified under {{ page.title }}">
+  {% for post in page.posts %}
+    <li class="archive-posts">
+      {% include post-list.html %}
+    </li>
   {% endfor %}
-  <hr>
-</ul>
+  </ul>
+
+<hr>
