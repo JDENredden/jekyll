@@ -11,7 +11,7 @@ layout: archive
 
 {% assign postsByYear = page.posts | group_by_exp:"post", "page.date | date: '%Y'" %}
   {% for year in postsByYear %}
-    <h2 id="{{ year.name }}"><a href="{{ site.baseurl }}/blog/{{ year.name }}">{{ year.name }}</a> <a href="#top">&#10548;</a></h2>
+    <h2 id="{{ year.name }}"><a href="{{ site.baseurl }}/blog/{{ year.name }}">{{ year.name }}</a></h2>
     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
     {% for month in postsByMonth %}
