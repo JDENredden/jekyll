@@ -2,43 +2,12 @@
 layout: archive
 ---
 
-<h2>By tag</h2>
-
-<hr>
-
-<h3><a href="{{ site.baseurl }}/blog/tag/{{ page.title }}">{{ page.title }}</a></h3>
-
-  <ul class="related-posts" aria-label="posts classified under {{ page.title }}">
-  {% for post in page.posts %}
-    <li class="archive-posts">
-      {% include post-list.html %}
-    </li>
-  {% endfor %}
-  </ul>
-
-<hr>
-
----
-
 <h2>By year by month</h2>
+<nav class="archive-nav" aria-label="year">
+  <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</a></strong>&nbsp;
+</nav>
 
 <hr>
-
-{% assign year = page.date | date: "%Y" }
-    <h2 id="{{ year }}"><a href="{{ site.baseurl }}/blog/{{ year }}">{{ year }}</a> <a href="#top">&#10548;</a></h2>
-    {% assign postsByMonth = page.posts | group_by_exp:"post", "post.date | date: '%B'" %}
-
-    {% for month in postsByMonth %}
-    <h3><a href="{{ site.baseurl }}/blog/{{ year.name }}/{{ month.name | date: "%m" }}/">{{ month.name }}</a></h3>
-      <ul class="related-posts">
-        {% for post in month.items %}
-          <li class="archive-posts">{% include post-list.html %}</li>
-        {% endfor %}
-      </ul>
-      {% endfor %}
-    <hr>
-
----
 
 {% assign postsByYear = page.posts | group_by_exp:"post", "page.date | date: '%Y'" %}
   {% for year in postsByYear %}
@@ -46,12 +15,12 @@ layout: archive
     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
     {% for month in postsByMonth %}
-    <h3><a href="{{ site.baseurl }}/blog/{{ year.name }}/{{ month.name | date: "%m" }}/">{{ month.name }}</a></h3>
+    <h3><a href="{{ site.baseurl }}/blog/{{ year.name }}/{{ month.name | date: '%m' }}/">{{ month.name }}</a></h3>
       <ul class="related-posts">
         {% for post in month.items %}
           <li class="archive-posts">{% include post-list.html %}</li>
         {% endfor %}
       </ul>
-      {% endfor %}
-    <hr>
+    {% endfor %}
+  <hr>
 {% endfor %}
