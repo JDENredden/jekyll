@@ -4,9 +4,9 @@ layout: archive
 
 <h2>Archive of posts with {{ page.type }} <a href="{{ site.baseurl }}/blog/tag/{{ page.title }}/">{{ page.title }}</a>.</h2>
 
-<h3 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/blog/tag/{{ tag }}">{{ tag }}</a></h3>
+<h3><a href="{{ site.baseurl }}/blog/tag/{{ page.title }}">{{ page.title }}</a></h3>
 
-  <ul class="related-posts" aria-label="posts classified under {{ tag }}">
+  <ul class="related-posts" aria-label="posts classified under {{ page.title }}">
   {% for post in page.posts %}
     <li class="archive-posts">
       {% include post-list.html %}
