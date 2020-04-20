@@ -26,8 +26,9 @@ permalink: /blog/archive/tag/
         {% endif %}
     
       <strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
+    
+      {% assign lastLetter = tmpLetter %}
       {% endfor %}
-    {% assign lastLetter = tmpLetter %}
   </p>
   
 </nav>
