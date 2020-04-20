@@ -49,7 +49,7 @@ permalink: /blog/archive/tag/
     <h2>{{ tmpLetter }}</h2>
   {% endif %}
   
-  <h3 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/blog/tag/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548; </a></h3>
+  <h3 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/blog/tag/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548;</a></h3>
 
   <ul class="related-posts" aria-label="posts classified under {{ tag }}">
   {% for post in site.tags[tag] %}
@@ -57,8 +57,12 @@ permalink: /blog/archive/tag/
       {% include post-list.html %}
     </li>
       
+  {% if tmpLetter != lastLetter %}
+    <hr>
+  {% endif %}
+      
   {% assign lastLetter = tmpLetter %}
   {% endfor %}
   </ul>
-<hr>
+<!--<hr>-->
 {% endfor %}
