@@ -26,6 +26,7 @@ permalink: /blog/archive/tag/
           {% endunless %}
             <h2><a href="{{ site.baseurl }}/blog/archive/tag/#{{ tmpLetter }}">{{ tmpLetter }}</a></h2>
             <strong><a href="#{{ tag | slugify }}" class="first">{{ tag }}</a></strong>&nbsp;
+            {% assign lastLetter = tmpLetter %}
             {% continue %}
         {% endif %}
     
