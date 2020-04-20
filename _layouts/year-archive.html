@@ -2,9 +2,9 @@
 layout: archive
 ---
 
-<!--{% assign postsByYear = page.posts | group_by_exp:"post", "page.date | date: '%Y'" %}-->
-{% assign postsByYear = page.posts %}
-{% assign months = postsByYear.items | group_by_exp:"post", "post.date | date: '%B'" %}
+{% assign postsByYear = page.posts | group_by_exp:"post", "page.date | date: '%Y'" %}
+<!--{% assign postsByYear = page.posts %}-->
+{% assign months = postsByYear[0].items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 
 <h2>By year</h2>
