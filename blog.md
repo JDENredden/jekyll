@@ -7,8 +7,8 @@ title: Blog
 ---
 
 {% if paginator.page > 1 %}
-  <h2>Page paginator.page</h2>
-{% endif }
+  <h2>Page {{ paginator.page }}</h2>
+{% endif %}
 
 <p>This is my blog, I call it, The Gospel According to jden, I write about my projects, obersvations about technology and the arts and cultural sector, with a specific focus on the Australian realm.</p>
 
