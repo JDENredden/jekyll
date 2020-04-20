@@ -13,10 +13,23 @@ permalink: /blog/archive/tag/
 {% assign sortedTags = tags | split:' ' | sort %}
 
 <h3>By tag</h3>
+
 <nav>
+    
+  {% assign lastLetter = "" %}
+    
   <p>{% for tag in sortedTags %}
+        {% assign tmpLetter = tag | slice:0 | upcase %}
+
+        {% if tmpLetter != lastLetter %}
+            <h2>{{ tmpLetter }}</h2>
+        {% endif %}
+    
       <strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
-      {% endfor %}</p>
+      {% endfor %}
+    {% assign lastLetter = tmpLetter %}
+  </p>
+  
 </nav>
 
 <hr>
