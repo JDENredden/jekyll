@@ -7,7 +7,7 @@ layout: archive
 <h3 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/blog/tag/{{ tag }}">{{ tag }}</a></h3>
 
   <ul class="related-posts" aria-label="posts classified under {{ tag }}">
-  {% for post in site.tags[tag] %}
+  {% for post in page.posts %}
     <li class="archive-posts">
       {% include post-list.html %}
     </li>
