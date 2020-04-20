@@ -37,8 +37,6 @@ permalink: /blog/archive/tag/
 
 <p>Filter the archive by <a href="{{ site.baseurl }}/blog/archive/">year</a> or by <a href="{{ site.baseurl }}/blog/archive/category/">category</a>.</p>
 
-<hr>
-
 {% assign lastLetter = "" %}
 
 {% for tag in sortedTags %}
@@ -46,6 +44,7 @@ permalink: /blog/archive/tag/
   {% assign tmpLetter = tag | slice:0 | upcase %}
 
   {% if tmpLetter != lastLetter %}
+    <hr>
     <h2>{{ tmpLetter }}</h2>
   {% endif %}
   
@@ -56,10 +55,6 @@ permalink: /blog/archive/tag/
     <li class="archive-posts">
       {% include post-list.html %}
     </li>
-      
-  {% if tmpLetter != lastLetter %}
-    <hr>
-  {% endif %}
       
   {% assign lastLetter = tmpLetter %}
   {% endfor %}
