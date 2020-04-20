@@ -6,7 +6,7 @@ permalink: /blog/archive/
 
 <h2>By year by month</h2>
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-<nav aria-label="year">
+<nav class="archive-nav" aria-label="year">
   <p>{% for year in postsByYear %}
       <strong><a href="#{{ year.name }}">{{ year.name }}</a></strong>&nbsp;
       {% endfor %}</p>

@@ -4,9 +4,9 @@ layout: archive
 
 <h2>By tag</h2>
 
-<nav><p>
+<nav class="archive-nav"><p>
     {% assign letter = page.title | slice:0 | upcase %}
-    <h2><a href="{{ site.baseurl }}/blog/tag/#{{ letter }}">{{ letter }}</a></h2>
+    <h2 class="archive-header"><a href="{{ site.baseurl }}/blog/tag/#{{ letter }}">{{ letter }}</a></h2>
     
     <strong><a href="{{ site.baseurl }}/blog/tag/{{ page.title }}">{{ page.title }}</a></strong></p></nav>
 

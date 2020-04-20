@@ -13,10 +13,10 @@ permalink: /blog/archive/category/
 {% assign sortedCategories = categories | split:' ' | sort %}
 
 <h2>By category</h2>
-<nav>
-  <p>{% for tag in sortedCategories %}
+<nav class="archive-nav">
+  {% for tag in sortedCategories %}
       <strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
-      {% endfor %}</p>
+      {% endfor %}
 </nav>
 
 <hr>
