@@ -12,18 +12,18 @@ permalink: /blog/archive/category/
 {% endcapture %}
 {% assign sortedCategories = categories | split:' ' | sort %}
 
+<hr>
+
+<p>Filter the archive by <a href="{{ site.baseurl }}/blog/archive/">year</a> or by <a href="{{ site.baseurl }}/blog/archive/tag/">tag</a>.</p>
+
+<hr>
+
 <h3>By category</h3>
 <nav>
   <p>{% for tag in sortedCategories %}
       <strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
       {% endfor %}</p>
 </nav>
-
-<hr>
-
-<p>Filter the archive by <a href="{{ site.baseurl }}/blog/archive/">year</a> or by <a href="{{ site.baseurl }}/blog/archive/tag/">tag</a>.</p>
-
-<hr>
 
 {% for tag in sortedCategories %}
 <h2 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/blog/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548;</a></h2>
