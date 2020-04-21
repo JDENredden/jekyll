@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blog/
+permalink: /blog
 pagination:
   enabled: true
 title: Blog
