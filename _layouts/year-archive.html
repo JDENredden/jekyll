@@ -6,7 +6,7 @@ layout: archive
 
 <nav class="archive-nav" aria-label="year">
   <h2 class="archive-header">By year</h2>
-  <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/">{{ page.date | date: '%Y' }}</a></strong>&nbsp;
+  <strong><a href="{{ site.baseurl }}/{{ page.date | date: '%Y' }}/">{{ page.date | date: '%Y' }}</a></strong>&nbsp;
     
   <h3 class="archive-header">By month</h3>
     
@@ -17,10 +17,10 @@ layout: archive
 
 <hr>
 
-<h2 id="{{ page.date | date: '%Y' }}"><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</a></h2>
+<h2 id="{{ page.date | date: '%Y' }}"><a href="{{ site.baseurl }}/{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</a></h2>
 
 {% for month in postsByMonth %}
-<h3 id="{{ month.name | date: '%m' }}"><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/{{ month.name | date: '%m' }}/">{{ month.name }}</a> <a href="#top">&#10548;</a></h3>
+<h3 id="{{ month.name | date: '%m' }}"><a href="{{ site.baseurl }}/{{ page.date | date: '%Y' }}/{{ month.name | date: '%m' }}/">{{ month.name }}</a> <a href="#top">&#10548;</a></h3>
   <ul class="related-posts">
     {% for post in month.items %}
       <li class="archive-posts">{% include post-list.html %}</li>

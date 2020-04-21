@@ -8,11 +8,11 @@ layout: archive
     {% assign letter = page.title | slice:0 | upcase %}
     <h2 class="archive-header"><a href="{{ site.baseurl }}/blog/tag/#{{ letter }}">{{ letter }}</a></h2>
     
-    <strong><a href="{{ site.baseurl }}/blog/tag/{{ page.title }}">{{ page.title }}</a></strong></p></nav>
+    <strong><a href="{{ site.baseurl }}/tag/{{ page.title }}">{{ page.title }}</a></strong></nav>
 
 <hr>
 
-<h3><a href="{{ site.baseurl }}/blog/tag/{{ page.title }}">{{ page.title }}</a></h3>
+<h3><a href="{{ site.baseurl }}/tag/{{ page.title }}">{{ page.title }}</a></h3>
 
   <ul class="related-posts" aria-label="posts classified under {{ page.title }}">
   {% for post in page.posts %}
