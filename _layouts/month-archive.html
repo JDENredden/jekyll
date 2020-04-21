@@ -18,6 +18,7 @@ layout: archive
 <!--  {% assign postsByYear = page.posts | group_by_exp:"post", "page.date | date: '%Y'" %}-->
   {% assign postsByDay = page.posts | group_by_exp:"post", "page.date | date: '%Y %B %d'" %}
 
+    {{ page.date }}
     
   {% for day in postsByDay reversed %}
     <strong><a href="">{{ day.name }}</a></strong>&nbsp;
