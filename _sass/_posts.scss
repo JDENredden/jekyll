@@ -23,8 +23,12 @@
   margin-top: 0;
 }
 
-a.external-link:active {
-  text-decoration: underline;
+a.external-link {
+  &:link,
+  &:visited,
+  &:active, {
+    text-decoration: underline;
+  }
 }
 
 // Meta data line below post title
