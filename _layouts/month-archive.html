@@ -15,7 +15,6 @@ layout: archive
   
   <h4 class="archive-header">By day</h4>
     
-<!--  {% assign postsByYear = page.posts | group_by_exp:"post", "page.date | date: '%Y'" %}-->
   {% assign postsByDay = page.posts | group_by_exp:"post", "post.date | date: '%d'" %}
     
   {% for day in postsByDay reversed %}
@@ -25,21 +24,15 @@ layout: archive
 
 <hr>
 
-{% assign postsByYear = page.posts | group_by_exp:"post", "page.date | date: '%Y'" %}
-  {% for year in postsByYear %}
-    <h2 id="{{ year.name }}"><a href="{{ site.baseurl }}/blog/{{ year.name }}">{{ year.name }}</a></h2>
+<h2 id="{{ year.name }}"><a href="{{ site.baseurl }}/blog/{{ year.name }}">{{ year.name }}</a></h2>
 
-    {% assign postsByDay = year.items | group_by_exp:"post", "post.date | date: '%d'" %}
-    
-    <h3><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y/%m' }}/">{{ page.date | date: '%B' }}</a></h3>
+<h3><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y/%m' }}/">{{ page.date | date: '%B' }}</a></h3>
 
-    {% for day in postsByDay %}
-    <h4><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y/%m' }}/{{ day.name }}/">{{ day.name }}</a></h4>
-      <ul class="related-posts">
-        {% for post in day.items %}
-          <li class="archive-posts">{% include post-list.html %}</li>
-        {% endfor %}
-      </ul>
+{% for day in postsByDay %}
+<h4><a href="{{ site.baseurl }}/blog/{{ post.date | date: '%Y/%m/%d' }}/{{ day.name }}/">{{ day.name }}</a></h4>
+  <ul class="related-posts">
+    {% for post in day.items %}
+      <li class="archive-posts">{% include post-list.html %}</li>
     {% endfor %}
-  <hr>
-{% endfor %}
+  </ul>
+<hr>
