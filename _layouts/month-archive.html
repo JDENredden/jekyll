@@ -2,29 +2,27 @@
 layout: archive
 ---
 
-{% assign year = page.posts %}
+{% assign postsByDay = page.posts | group_by_exp:"post", "post.date | date: '%d'" %}
 
-<h2>By year</h2>
 <nav class="archive-nav" aria-label="year">
+  
+  <h2 class="archive-header">By year</h2>
+  
   <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/">{{ page.date | date: '%Y' }}</a></strong>
     
-<h3 class="archive-header">By month</h3>
-<strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y/%m' }}/">{{ page.date | date: '%B' }}</a></strong>
-    
-    <h4>Test: {{ year.name }} {{ month.name }} {{ day.name }}</h4>
-  
+  <h3 class="archive-header">By month</h3>
+  <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y/%m' }}/">{{ page.date | date: '%B' }}</a></strong>
+      
   <h4 class="archive-header">By day</h4>
-    
-  {% assign postsByDay = page.posts | group_by_exp:"post", "post.date | date: '%d'" %}
-    
+        
   {% for day in postsByDay reversed %}
-    <strong><a href="">{{ day.name }}</a></strong>&nbsp;
+    <strong><a href="{{ site.baseurl }}/blog/{{ post.date | date: '%Y/%m/%d' }}/">{{ day.name }}</a></strong>&nbsp;
   {% endfor %}
 </nav>
 
 <hr>
 
-<h2 id="{{ year.name }}"><a href="{{ site.baseurl }}/blog/{{ year.name }}">{{ year.name }}</a></h2>
+<h2 id="{{ page.date | date: '%Y' }}"><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</a></h2>
 
 <h3><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y/%m' }}/">{{ page.date | date: '%B' }}</a></h3>
 
