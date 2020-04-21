@@ -23,7 +23,7 @@ title: Blog
   {% for post in paginator.posts %}
   <article class="post">
       {% if post.external_url %}
-        <h1 class="post-title external-link">
+        <h1 class="post-title external">
         <a href="{{ post.external_url }}" onclick="captureOutboundLink(this); return false;">{{ post.title }}</a>&nbsp;&nbsp;
         <a href="{{ post.url }}">&#8734;</a>
         </h1>
