@@ -5,7 +5,6 @@ layout: archive
 {% assign postsByDay = page.posts | group_by_exp:"post", "post.date | date: '%d'" %}
 
 <nav class="archive-nav" aria-label="year">
-  
   <h2 class="archive-header">By year</h2>
   
   <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/">{{ page.date | date: '%Y' }}</a></strong>
