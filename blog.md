@@ -14,7 +14,7 @@ title: Blog
 
 <hr>
 
-<p>Filter the archive by: <a href="{{ site.baseurl }}/blog/archive/">year</a>, <a href="{{ site.baseurl }}/blog/archive/category/">category</a>, or by <a href="{{ site.baseurl }}/blog/archive/tag/">tag</a>.</p>
+<p>Filter the archive by: <a href="{{ site.baseurl }}/archive/">year</a>, <a href="{{ site.baseurl }}/archive/category/">category</a>, or by <a href="{{ site.baseurl }}/archive/tag/">tag</a>.</p>
 
 <hr>
 
@@ -23,12 +23,15 @@ title: Blog
   {% for post in paginator.posts %}
   <article class="post">
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
+      {% if post.external_url %}
+        <a href="{{ post.url }}">&#8734;</a>&nbsp;
+        <a href="{{ post.external_url }}" onclick="captureOutboundLink(this); return false;">{{ post.title }} &#8599;</a>&nbsp;
+      {% else %}
+        <a href="{{ post.url }}">{{ post.title }}</a>&nbsp;
+      {% endif %}
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A %-d %B %Y" }}</time>
+    <a href="{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A %-d %B %Y" }}</time></a>
 
     {{ post.content }}
     <hr>
