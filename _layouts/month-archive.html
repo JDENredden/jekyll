@@ -16,7 +16,7 @@ layout: archive
   <h4 class="archive-header">By day</h4>
         
   {% for day in postsByDay reversed %}
-    <strong><a href="{{ site.baseurl }}/blog/{{ day.post.date | date: '%Y/%m' }}/{{ day.name }}/">{{ day.name }}</a></strong>&nbsp;
+    <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y/%m' }}/{{ day.name }}/">{{ day.name }}</a></strong>&nbsp;
   {% endfor %}
 </nav>
 
