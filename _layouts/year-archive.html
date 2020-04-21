@@ -14,7 +14,7 @@ layout: archive
   <h3 class="archive-header">By month</h3>
     
   {% for month in months reversed %}
-    <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/">{{ month.name }}</a></strong>&nbsp;
+    <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/{{ month.name | date: '%m' }}">{{ month.name }}</a></strong>&nbsp;
   {% endfor %}
 </nav>
 
