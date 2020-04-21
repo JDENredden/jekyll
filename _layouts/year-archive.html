@@ -11,7 +11,7 @@ layout: archive
   <h3 class="archive-header">By month</h3>
     
   {% for month in postsByMonth reversed %}
-    <strong><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/{{ month.name | date: '%m' }}/">{{ month.name }}</a></strong>&nbsp;
+    <strong><a href="#{{ month.name | date: '%m' }}">{{ month.name }}</a></strong>&nbsp;
   {% endfor %}
 </nav>
 
@@ -20,7 +20,7 @@ layout: archive
 <h2 id="{{ page.date | date: '%Y' }}"><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</a></h2>
 
 {% for month in postsByMonth %}
-<h3><a href="{{ site.baseurl }}/blog/{{ year.name }}/{{ month.name | date: '%m' }}/">{{ month.name }}</a></h3>
+<h3 id="{{ page.date | date: '%m' }}"><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/{{ month.name | date: '%m' }}/">{{ month.name }}</a></h3>
   <ul class="related-posts">
     {% for post in month.items %}
       <li class="archive-posts">{% include post-list.html %}</li>
