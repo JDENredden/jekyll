@@ -20,7 +20,7 @@ layout: archive
 <h2 id="{{ page.date | date: '%Y' }}"><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</a></h2>
 
 {% for month in postsByMonth %}
-<h3 id="{{ month.name | date: '%m' }}"><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/{{ month.name | date: '%m' }}/">{{ month.name }}</a></h3>
+<h3 id="{{ month.name | date: '%m' }}"><a href="{{ site.baseurl }}/blog/{{ page.date | date: '%Y' }}/{{ month.name | date: '%m' }}/">{{ month.name }}</a> <a href="#top">&#10548;</a></h3>
   <ul class="related-posts">
     {% for post in month.items %}
       <li class="archive-posts">{% include post-list.html %}</li>
