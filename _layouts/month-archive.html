@@ -15,8 +15,8 @@ layout: archive
   
   <h4 class="archive-header">By day</h4>
     
-<!--  {% assign days = page.posts | group_by_exp:"post", "page.date | date: '%d'" %}-->
-      {% assign days = page.posts | page.date | date: '%d' %}
+  {% assign postsByYear = page.posts | group_by_exp:"post", "page.date | date: '%Y'" %}
+  {% assign days = postsByYear | group_by_exp:"post", "page.date | date: '%d'" %}
 
     
   {% for day in days reversed %}
