@@ -23,16 +23,12 @@
   margin-top: 0;
 }
 
-//.external-link a {
-//  &:link,
-//  &:visited,
-//  &:active {
-//    text-decoration: underline;
-//  }
-//}
-
-.external a {
-  text-decoration: underline;
+a.external-link {
+  &:link,
+  &:visited,
+  &:active {
+    text-decoration: underline;
+  }
 }
 
 // Meta data line below post title
