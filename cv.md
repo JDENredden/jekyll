@@ -53,6 +53,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 
 **Non-Executive Director, Board of Management, Carclew**  
 Appointed by Minister for Education, Hon. John Gardner MP.  
+Member, Finance Committee  
+Member, ROCO (Register of Cultural Organisations) Committee
 *Adelaide, Australia. 2019 - present.*
 
 **Independent Non-Executive Director, Board of Management, Access2Arts**  
