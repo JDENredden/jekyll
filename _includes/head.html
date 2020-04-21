@@ -17,4 +17,23 @@
   
   <script>window.sa_event=window.sa_event||function(){a=[].slice.call(arguments);sa_event.q?sa_event.q.push(a):sa_event.q=[a]};</script>
   <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+  
+  <script>
+  function captureOutboundLink(element) {
+    var timeout = 0;
+    if (element && window.sa_event) {
+      var href = element.getAttribute("href");
+      var hostname = href.indexOf("://") ? href.split("/")[2] : href;
+      var event = "outbound_" + hostname.replace(/[^a-z0-9]+/gi, "_");
+      sa_event(event);
+      console.info(
+        "Simple Analytics: captured outbound link as event: " + event
+      );
+      timeout = 250;
+    }
+    window.setTimeout(function () {
+      document.location = href;
+    }, timeout);
+  }
+</script>
 </head>
