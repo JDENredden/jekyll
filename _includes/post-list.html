@@ -1,7 +1,7 @@
 {% if post.external_url %}
 
 <!--<a href="{{ post.external_url }}" onclick="sa_event('linked-{{ post.external_url | remove: 'https://' | remove: 'http://' }}');">-->
-<h4><a href="{{ post.external_url }}" onclick="captureOutboundLink(this); return false;">{{ post.title }} &#8599;</a>&nbsp;<a href="{{ post.url }}"><small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></a>&nbsp;<a href="{{ post.url }}">&#2605;</a></h4>
+<h4><a href="{{ post.external_url }}" onclick="captureOutboundLink(this); return false;">{{ post.title }} &#8599;</a>&nbsp;<a href="{{ post.url }}"><small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></a>&nbsp;<a href="{{ post.url }}">&#9733;</a></h4>
 
 {% else %}
 
