@@ -1,6 +1,6 @@
 {% if post.external_url %}
 
-<a href="{{ post.external_url }}" onclick="sa_event("linked-{{ post.external_url }}");">
+<a href="{{ post.external_url }}" onclick="sa_event('linked-{{ post.external_url }}');">
   <h4>{{ post.title }}
   <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></h4>
 </a>
