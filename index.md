@@ -21,7 +21,7 @@ You can read my [blog here](/blog), or learn more [about me](/about), or check o
 <hr>
 
 <aside class="related">
-  <h3>Recent posts</h3>
+  <h3><a href="/blog">Recent posts</a></h3>
   <ul class="related-posts">
     {% for post in paginator.posts limit:5 %}
       <li class="archive-posts">

@@ -24,3 +24,19 @@ jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously 
 My email is [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;) or [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;) for you privacy nuts. 
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden), or on [Twitter](https://www.twitter.com/jden). 
+
+## Colophon
+
+### About this site
+
+The Gospel According to jden is writted and produced by jden redden.
+
+### Server Software
+
+This website is hosted on [Render](https://render.com) through continuous deployment with [GitHub]() and protected and served through the Cloudflare CDN.
+
+Blogging is powered by [Jekyll](https://jekyll.com) with a theme originally based on [Poole](https://github.com/poole/poole).
+
+Analytics are tracked by [Simple Analytics](https://referral.simpleanalytics.com/jden). 
+
+<a href="https://simpleanalytics.com/?utm_source=jden.me&utm_content=badge" referrerpolicy="origin" target="_blank"><img src="https://simpleanalyticsbadge.com/jden.me" loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" counter="true" /></a>
