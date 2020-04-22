@@ -31,6 +31,10 @@ a.external-link {
   }
 }
 
+.external-link::after {
+  content: "&#8599;";
+}
+
 // Meta data line below post title
 .post-date {
   display: block;
