@@ -7,7 +7,8 @@ non-blog: true
 
 <img class="about" src="/content/images/jden-redden-2019.jpg" alt="jden redden 2019">
 
-## Biography (in the third person)
+## Biography
+### Arts and Culture
 
 jden is a producer, creative consultant, non-executive director, and magician for his production company Fascinating Lies and Carclew. 
 
@@ -16,6 +17,16 @@ Previously jden has worked with and for ActNow Theatre as an Associate Producer,
 His critically acclaimed production *The Expert at the Card Table — How to Cheat at Cards* won the BankSA Best Magic of Adelaide Fringe Award in 2018 and again in 2019.  Previous productions include *Late Night Magic at the Sorcerer’s Bar* (2019), *SUBCONSCIOUS* (2018), *SUPERHUMAN* (2017), and *Reading Minds and Other Fascinating Lies* (2016). In 2018, jden directed *L’Importance D’Être Constant* (*The Importance of Being Earnest*) written by Oscar Wilde and adapted by him for the University of Adelaide French Club, which went onto a Fringe season in 2018 under the title *Monsieur Bunbury: A Tale of Two Men in Earnest*.
 
 jden holds a Graduate Diploma in Management (Arts and Cultural Management) at the University of South Australia, and is currently completing a Master of Fine Arts (Cultural Leadership) at the National Institute of Dramatic Arts (NIDA).
+
+jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously sitting on the Board of the University of Adelaide Theatre Guild. He is also an Associate Member of the Institute for Community Directors Australia.
+
+### Technology 
+
+Jden is an Operations Specialist at Apple, technology consultant, and privacy advocate. 
+
+Previously, Jden held the positions of Technical Specialist and Specialist at Apple and also a member of the Visual and Information Systems and Technology (IS&T) Teams. 
+
+Jden holds a Bachelor of Mathematical and Computer Sciences from the University of Adelaide and a Graduate Diploma in Management (Arts and Cultural Management) from the Univeristy of South Australia. Jden is also currently deferring a Bachelor of Science (Theoretical Physics) from the University of Adelaide. In 2014, Jden completed an Undergraduate Summer Research Project titled, *Explicit Solutions in Yang-Mills Gauge Theory*, under Professor Michael Murry and Dr. David Roberts.
 
 jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously sitting on the Board of the University of Adelaide Theatre Guild. He is also an Associate Member of the Institute for Community Directors Australia.
 
@@ -41,7 +52,7 @@ The Gospel According to jden is writted and produced by jden redden.
 
 #### Hosting
 
-This website is statically hosted on [Render](https://render.com) through continuous deployment with [GitHub](https://github.com) and protected and served through the [Cloudflare CDN](https://www.cloudflare.com/cdn/).
+This website is statically hosted on [Render](https://render.com){: onclick="sa_event('outbound_{{ post.external_url | remove: 'https://' | remove: 'http://' }}');"} through continuous deployment with [GitHub](https://github.com) and protected and served through the [Cloudflare CDN](https://www.cloudflare.com/cdn/).
 
 The entire source code for this website is available in this GitHub [repository](https://github.com/JDENredden/website).
 
