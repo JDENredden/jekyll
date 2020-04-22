@@ -5,7 +5,7 @@ layout: default
 <article class="post">
   
   <h1 class="post-title">
-    {% if post.external_url %}
+    {% if page.external_url %}
       <a class="external-link" href="{{ page.external_url }}" onclick="captureOutboundLink(this); return false;">{{ page.title }}</a>&nbsp;
       <a href="{{ page.url }}">&#8734;</a>
     {% else %}
