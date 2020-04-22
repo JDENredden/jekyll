@@ -18,16 +18,18 @@ layout: default
   {{ content }}
 </article>
 
-<hr>
+{% if page.categories %}
+  <hr>
 
-<nav class="archive-nav">
-  <h3 class="archive-header">By category</h3>
-  <p>
-  {% for tag in page.categories %}
-      <strong><a href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
-  {% endfor %}
-  </p>
-</nav>
+  <nav class="archive-nav">
+    <h3 class="archive-header">By category</h3>
+    <p>
+    {% for tag in page.categories %}
+        <strong><a href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
+    {% endfor %}
+    </p>
+  </nav>
+{% endif %}
 
 <hr>
 
