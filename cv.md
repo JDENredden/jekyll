@@ -17,7 +17,7 @@ Over 10 years experience in creative production, cultural leadership, and non-fo
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 
-[Download full PDF CV](/content/documents/jden-redden-CV.pdf). 
+[Download full PDF CV](/content/documents/jden-redden-CV.pdf){:: options onlclick="sa_event('download_cv');" /} 
 
 [Download one-page PDF Board CV](/content/documents/jden-redden-board-CV.pdf).
 
@@ -52,19 +52,22 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
 ### Boards	
 
 **Non-Executive Director, Board of Management, Carclew**  
-Appointed by Minister for Education, Hon. John Gardner MP.  
-Member, Finance Committee  
-Member, ROCO (Register of Cultural Organisations) Committee  
-*Adelaide, Australia. 2019 - present.*
+*Adelaide, Australia. 2019 - present.*  
+&emsp; Appointed by Minister for Education, Hon. John Gardner MP.  
+&emsp; Member, Finance Committee  
+&emsp; Member, ROCO (Register of Cultural Organisations) Committee
 
 **Independent Non-Executive Director, Board of Management, Access2Arts**  
 *Adelaide, Australia. 2019 - present.*
 
 **Independent Non-Executive Director, Board of Management, ActNow Theatre**  
+&emsp; Member, Programming Committee
 *Adelaide, Australia. 2019 - present.*
 
 **Non-Executive Director, Board of Management, the University of Adelaide Theatre Guild**  
-*Adelaide, Australia. 2018 - 2019.*
+*Adelaide, Australia. 2018 - 2019.*  
+&emsp; Member, Programming Committee  
+&emsp; Member, Philanthropy & Partnerships Committee
 
 ---
 
@@ -72,11 +75,11 @@ Member, ROCO (Register of Cultural Organisations) Committee
 
 **Fellow, Royal Society of the Arts**  
 *Fellow since 2020.*  
-FRSA
+&emsp; FRSA
 
 **Associate Member, Institute of Community Directors Australia**  
 *Member since 2018.*  
-AMICDA
+&emsp; AMICDA
 
 ---
 
@@ -84,14 +87,14 @@ AMICDA
 
 **National Institute of Dramatic Arts (NIDA), Graduate School**  
 *Master of Fine Arts (Cultural Leadership). 2021.*  
-MFACultLead *NIDA*
+&emsp; MFACultLead *NIDA*
 
 **University of South Australia, School of Management**  
 *Graduate Diploma in Management (Arts and Cultural Management). 2018. Graduated.*  
-GradDipMgmt(ArtsCult) *UniSA*
+&emsp; GradDipMgmt(ArtsCult) *UniSA*
 
 **University of Adelaide, School of Mathematical Sciences**  
 *Bachelor of Mathematical and Computer Sciences (Major in Pure Mathematics). 2017. Graduated.*  
-BMaCompSc *Adl*
+&emsp; BMaCompSc *Adl*
 
 ---
