@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-gist"
   gem "jekyll-archives"
+  gem 'jekyll-redirect-from'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
