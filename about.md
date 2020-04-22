@@ -47,7 +47,9 @@ The entire source code for this website is available in this GitHub [repository]
 
 #### Security
 
-The connection between Render and Cloudflare CDN is secured with a [Let's Encrypt](http://letsencrypt.org) SSL/TLS certificate, and the connection between Cloudflare CDN and you is secured with a [Cloudflare SSL/TLS](https://www.cloudflare.com/ssl/) certificate. 
+The connection between Render and Cloudflare CDN is secured with a [Let's Encrypt](http://letsencrypt.org) SSL/TLS certificate, and the connection between Cloudflare CDN and you is secured with a [Cloudflare SSL/TLS](https://www.cloudflare.com/ssl/) certificate.
+
+DNSSEC is not available on .me domains, otherwise it would be enabled.
 
 If you're connection to this website is not secure, please [let me know](#contact).
 
