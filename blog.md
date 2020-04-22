@@ -31,7 +31,7 @@ title: Blog
       {% endif %}
       </h1>
 
-    <a href="{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%A %-d %B %Y" }}</time></a>
+    <a class="post-date" href="{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A %-d %B %Y" }}</time></a>
 
     {{ post.content }}
     <hr>
