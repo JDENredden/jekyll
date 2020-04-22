@@ -35,7 +35,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden), o
 
 The Gospel According to jden is writted and produced by jden redden. 
 
-Note: Links below may have referral or affiliate links attached. 
+*Note: Links below may have referral or affiliate links attached, visit the websites directly if this is a concern.*
 
 ### Server Software
 
@@ -61,7 +61,7 @@ Blogging (and the entire site) is powered by [Jekyll](https://jekyll.com), with 
 
 The domain, [jden.me](https://jden.me), is registered with [Hover](https://hover.com/COgRpA0U) with DNS managed by [Cloudflare DNS](https://www.cloudflare.com/dns/).
 
-The email, [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;), is powered by [Mailbox.org](https://mailbox.org/en/) and [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;), by [ProtonMail](https://protonmail.com).
+The email, [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;), is powered by [Mailbox.org](https://mailbox.org/en/) and [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;), is powered by [ProtonMail](https://protonmail.com).
 
 #### Analytics
 
