@@ -15,11 +15,11 @@ BMaCompSc *Adl* GradDipMgmt(ArtsCult) *UniSA* FRSA AMICDA
 
 Over 10 years experience in creative production, cultural leadership, and non-for-profit governance with significant experience in the planning and delivery of cultural events including logistically and planning intensive product launches for Apple. A young arts and cultural leader, director, and manager looking to take on any challenge, connect people, and do the best work of my life.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden){:: options onclick="sa_event('linkedin');" /}.
 
-[Download full PDF CV](/content/documents/jden-redden-CV.pdf){:: options onlclick="sa_event('download_cv');" /} 
+[Download full PDF CV](/content/documents/jden-redden-CV.pdf){:: options onclick="sa_event('download_cv');" /}.
 
-[Download one-page PDF Board CV](/content/documents/jden-redden-board-CV.pdf).
+[Download one-page PDF Board CV](/content/documents/jden-redden-board-CV.pdf){:: options onclick="sa_event('download_board_cv');" /}.
 
 ---
 
