@@ -29,16 +29,16 @@ markdown: kramdown
 # theme: minima
 plugins:  
   - jekyll-feed
-#  - jekyll-paginate-v2
+  - jekyll-paginate-v2
   - jekyll-gist
   - jekyll-archives
 
-#pagination: 
-#    enabled: true
-#    per_page: 10
-#    sort_reverse: true
-#    permalink: '/page/:num/'
-#    title: ':title'
+pagination: 
+    enabled: true
+    per_page: 10
+    sort_reverse: true
+    permalink: '/page/:num/'
+    title: ':title'
     
 jekyll-archives:
   enabled: all
@@ -49,10 +49,10 @@ jekyll-archives:
     category: category-archive
     tag: tag-archive
   permalinks:
-    year: '/archive/:year/'
-    month: '/archive/:year/:month/'
-    day: '/archive/:year/:month/:day/'
-    tag: '/archive/tag/:name/'
+    year: '/blog/archive/:year/'
+    month: '/blog/archive/:year/:month/'
+    day: '/blog/archive/:year/:month/:day/'
+    tag: '/blog/archive/tag/:name/'
     category: '/blog/:name/'
 
 # Assets
