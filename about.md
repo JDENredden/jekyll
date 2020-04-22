@@ -35,18 +35,36 @@ Note: Links below may have referral or affiliate links attached.
 
 ### Server Software
 
-This website is hosted on [Render](https://render.com) through continuous deployment with [GitHub](https://github.com) and protected and served through the [Cloudflare CDN](https://www.cloudflare.com/cdn/).
+#### Hosting
+
+This website is statically hosted on [Render](https://render.com) through continuous deployment with [GitHub](https://github.com) and protected and served through the [Cloudflare CDN](https://www.cloudflare.com/cdn/).
 
 The entire source code for this website is available in this GitHub [repository](https://github.com/JDENredden/website).
 
-The connection between Render and Cloudflare is secured with a [Let's Encrypt](http://letsencrypt.org) SSL/TLS certificate, and the connection between Cloudflare's CDN and you is secured with a [Cloudflare SSL/TLS](https://www.cloudflare.com/ssl/) certificate. If you're connection to this website is not secure, please [let me know](/contact).
+#### Security
+
+The connection between Render and Cloudflare is secured with a [Let's Encrypt](http://letsencrypt.org) SSL/TLS certificate, and the connection between Cloudflare's CDN and you is secured with a [Cloudflare SSL/TLS](https://www.cloudflare.com/ssl/) certificate. 
+
+If you're connection to this website is not secure, please [let me know](#contact).
+
+#### Blogging
 
 Blogging is powered by [Jekyll](https://jekyll.com) with a theme originally based on [Poole](https://github.com/poole/poole). In addition this website utilises the following plugins: [jekyll-feed](https://github.com/jekyll/jekyll-feed), [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2), [jekyll-gist](https://github.com/jekyll/jekyll-gist), [jekyll-archives](https://github.com/jekyll/jekyll-archives).
+
+#### Miscellaneous
 
 This website domain is registered with [Hover](https://hover.com/COgRpA0U) with DNS managed by [Cloudflare DNS](https://www.cloudflare.com/dns/).
 
 My email is powered by [Mailbox.org](https://mailbox.org/en/) and [ProtonMail](https://protonmail.com).
 
+#### Analytics
+
 Analytics are tracked by [Simple Analytics](https://referral.simpleanalytics.com/jden). 
 
 <a href="https://referral.simpleanalytics.com/jden?utm_source=jden.me&utm_content=badge" referrerpolicy="origin" target="_blank"><img src="https://simpleanalyticsbadge.com/jden.me" loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" counter="true" /></a>
+
+### Web standards
+
+Web standards are important, and this website adheres to them. The HTML on this website adheres to [HTML5 semantics](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjden.me%2F) and is styled with [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=jden.me) and syndicated with a [valid Atom feed](https://www.feedvalidator.org/check.cgi?url=https%3A%2F%2Fjden.me%2Ffeed.xml). 
+
+If you have any issues, please [let me know](#contact).
