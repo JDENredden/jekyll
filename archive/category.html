@@ -1,8 +1,7 @@
 ---
 layout: archive
 title: Archive
-permalink: /category
-redirect_from: /archive/category
+permalink: /blog/category
 ---
 
 <!--Sorting Alphabetically-->
@@ -15,9 +14,11 @@ redirect_from: /archive/category
 
 <h2>By category</h2>
 <nav class="archive-nav">
+  <p>
   {% for tag in sortedCategories %}
       <strong><a href="#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
       {% endfor %}
+  </p>
 </nav>
 
 <hr>
