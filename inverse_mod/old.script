@@ -1,0 +1,40 @@
+//function start() {
+//	
+//	getData();
+//
+//	var base;
+//	var interations;
+//	var number;
+//
+//	function getData() {
+//		console.log("Done");
+		//Getting data from form 
+//		split = document.URL.split("=");
+		//Setting data
+//		prebase = split[1].toString();
+//		base = Number(prebase.split("&")[0]);
+//		
+//		preiter = split[2].toString();
+//		iter = Number(preiter.split("&")[0]);
+//		
+//		prenum = split[3].toString();
+//		num = Number(prenum.split("&")[0]);
+//		
+		//alert(base);
+//		integer(1);
+//	}
+//}	
+//
+//function integer(num) {
+//	if (num == NaN) {
+//	alert("Not");
+//	} 
+//	else alert("Is");
+//}
+
+//function integer(num) {
+//	if (NaN != true) {
+//		if (num % 1 == 0) {
+//		}
+//	} 
+//}

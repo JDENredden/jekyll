@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8 /> 
+	<title>Modular Multiplicative Inverse Calculator</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="apple-touch-icon" href="favicon.png">
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<meta name="description" content="A Modular Multiplicative Inverse Calculator, to help you find the inverses of numbers under and modular base." />
+	<meta name="keywords" content="modular,multiplicative,inverse,calculator,modular,arithematic,maths,mathematics,math,calc,Hill-Cipher,mod,modulo,base,modulus,inverse,inverses,find,numbers,integers,greatest common divisor,gcd,z field,set,z set,casio,jden redden,jden,redden,physics,cipher,decryption,encryption" />
+	<script src="script.js" type="text/javascript"></script>
+</head>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16046414-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    
+  <!-- Privacy friendly website statistics -->
+  <script data-skip-dnt="true" data-mode="hash" async defer src="https://api.jden.me/latest.js"></script>
+  <noscript><img src="https://api.jden.me/image.gif" alt=""></noscript>
+	
+<body>
+	
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=120067121429572";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<header>
+    	<div id="fb">
+    		<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+    		<script type="text/javascript">
+    			document.write('<fb:like href="https://www.facebook.com/TheGospelAccordingtoJden" layout="button_count" show_faces="false" ></fb:like>')
+    		</script>
+    	</div>
+	</header>
+		
+	<div id="content" class="fadeInDown">
+	
+		<div id="info">
+		
+		<h1>Modular Multiplicative Inverse Calculator</h1>
+		
+		<p>Using the equation<br /><br />
+		<img src="images/equa.gif" height="50px"><br />
+		<span>Where:</span><br /><br />
+		<img src="images/where.gif" height="100px">
+		</p>
+		
+		<form id="data" action="#">
+			<p>The modular base m = <input type="text" name="base" value="26" /><br />
+			The maximum number of iterations of n = <input type="text" name="iterations" value="1000" /><br />
+			Find the inverse of a = <input type="text" name="number" value="9" /></p>
+			
+			<input type="button" name="submit" class="submit" value="execute" onclick="return data(form);" />
+			
+		</form>
+        
+        <footer>
+    		<p>(c)  Jden Redden 2012</p>
+		</footer>
+    
+		</div>
+	
+		<div id="calc">
+		<!--Calc image from http://fivestarelectronics.com.pk/wp-content/uploads/calculator_fx_85es.jpg-->
+			<div id="screen">
+				<p id="top"><span id="num">a</span>^-1 (mod <span id="base">m</span>)</p>
+				<p id="output"></p>
+			</div>
+		</div>
+	
+	</div>
+		
+</body>
+	
+</html>
