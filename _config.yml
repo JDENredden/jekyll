@@ -22,7 +22,7 @@ baseurl: /blog # the subpath of your site, e.g. /blog
 url: https://jden.me # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jden
 github_username:  JDENredden
-permalink: /blog/:categories/:year/:month/:day/:title
+permalink: /blog/:categories/:title
 
 # Build settings
 markdown: kramdown
@@ -49,11 +49,11 @@ jekyll-archives:
     category: category-archive
     tag: tag-archive
   permalinks:
-    year: '/blog/:year/'
-    month: '/blog/:year/:month/'
-    day: '/blog/:year/:month/:day/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/:name/'
+    year: '/blog/archive/:year'
+    month: '/blog/archive/:year/:month'
+    day: '/blog/archive/:year/:month/:day'
+    tag: '/blog/archive/tag/:name'
+    category: '/blog/:name'
 
 # Assets
 #

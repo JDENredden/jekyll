@@ -7,26 +7,26 @@ layout: archive
 <nav class="archive-nav" aria-label="year">
   <h2 class="archive-header">By year</h2>
   
-  <strong><a href="{{ site.baseurl }}/{{ page.date | date: '%Y' }}/">{{ page.date | date: '%Y' }}</a></strong>
+  <strong><a href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</a></strong>
     
   <h3 class="archive-header">By month</h3>
-  <strong><a href="{{ site.baseurl }}/{{ page.date | date: '%Y/%m' }}/">{{ page.date | date: '%B' }}</a></strong>
+  <strong><a href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y/%m' }}">{{ page.date | date: '%B' }}</a></strong>
       
   <h4 class="archive-header">By day</h4>
         
   {% for day in postsByDay reversed %}
-    <strong><a href="{{ site.baseurl }}/{{ page.date | date: '%Y/%m' }}/{{ day.name }}/">{{ day.name }}</a></strong>&nbsp;
+    <strong><a href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y/%m' }}/{{ day.name }}">{{ day.name }}</a></strong>&nbsp;
   {% endfor %}
 </nav>
 
 <hr>
 
-<h2 id="{{ page.date | date: '%Y' }}"><a href="{{ site.baseurl }}/{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</a></h2>
+<h2 id="{{ page.date | date: '%Y' }}"><a href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</a></h2>
 
-<h3><a href="{{ site.baseurl }}/{{ page.date | date: '%Y/%m' }}/">{{ page.date | date: '%B' }}</a></h3>
+<h3><a href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y/%m' }}">{{ page.date | date: '%B' }}</a></h3>
 
 {% for day in postsByDay %}
-<h4><a href="{{ site.baseurl }}/{{ page.date | date: '%Y/%m' }}/{{ day.name }}/">{{ day.name }}</a></h4>
+<h4><a href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y/%m' }}/{{ day.name }}">{{ day.name }}</a></h4>
   <ul class="related-posts">
     {% for post in day.items %}
       <li class="archive-posts">{% include post-list.html %}</li>

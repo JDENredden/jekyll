@@ -44,7 +44,7 @@ permalink: /blog/archive/tag
     <h2 id="{{ tmpLetter }}"><a href="{{ site.baseurl }}/archive/tag/#{{ tmpLetter }}">{{ tmpLetter }}</a> <a href="#top">&#10548;</a></h2>
   {% endif %}
   
-  <h3 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548;</a></h3>
+  <h3 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/archive/tag/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548;</a></h3>
 
   <ul class="related-posts" aria-label="posts classified under {{ tag }}">
   {% for post in site.tags[tag] %}
