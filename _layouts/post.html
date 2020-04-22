@@ -22,9 +22,11 @@ layout: default
 
 <nav class="archive-nav">
   <h3 class="archive-header">By category</h3>
+  <p>
   {% for tag in page.categories %}
-      <strong><a class="archive-posts" href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
+      <strong><a href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
   {% endfor %}
+  </p>
 </nav>
 
 <hr>
