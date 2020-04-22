@@ -23,16 +23,16 @@
   margin-top: 0;
 }
 
-a.external-link {
-  &:link,
-  &:visited,
-  &:active {
-    text-decoration: underline;
-  }
-}
+//a.external-link {
+//  &:link,
+//  &:visited,
+//  &:active {
+//    text-decoration: underline;
+//  }
+//}
 
 .external-link::after {
-  content: "\2197";
+  content: "\00a0\2197";
 }
 
 // Meta data line below post title
