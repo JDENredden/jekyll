@@ -18,7 +18,9 @@ layout: default
   {{ content }}
 </article>
 
-<h2>By category</h2>
+<hr>
+
+<h3>By category</h3>
 <nav class="archive-nav">
   {% for tag in page.categories %}
       <strong><a href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
@@ -30,7 +32,7 @@ layout: default
   <h3>Related posts</h3>
   <ul class="related-posts">
   {% for post in posts %}
-    <li>
+    <li class="archive-posts">
       {% include post-list.html %}
     </li>
   {% endfor %}
