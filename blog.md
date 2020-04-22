@@ -24,7 +24,7 @@ title: Blog
   <article class="post">
       <h1 class="post-title">
       {% if post.external_url %}
-        <a class="external-link" href="{{ post.external_url }}" onclick="captureOutboundLink(this); return false;">{{ post.title }} &#8599;</a>&nbsp;&nbsp;
+        <a class="external-link" href="{{ post.external_url }}" onclick="captureOutboundLink(this); return false;">{{ post.title }} &#8599;</a>&nbsp;
         <a href="{{ post.url }}">&#8734;</a>
       {% else %}
       <a href="{{ post.url }}">{{ post.title }}</a>
