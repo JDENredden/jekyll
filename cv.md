@@ -61,8 +61,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden){:: options
 *Adelaide, Australia. 2019 - present.*
 
 **Independent Non-Executive Director, Board of Management, ActNow Theatre**  
+*Adelaide, Australia. 2019 - present.*  
 &emsp; Member, Programming Committee
-*Adelaide, Australia. 2019 - present.*
 
 **Non-Executive Director, Board of Management, the University of Adelaide Theatre Guild**  
 *Adelaide, Australia. 2018 - 2019.*  
