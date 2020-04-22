@@ -18,23 +18,12 @@ layout: default
   {{ content }}
 </article>
 
-<!--
-{% if site.related_posts != empty %}
-<aside class="related">
-  <h3>Related posts</h3>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <h4>{{ post.title }}
-              <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></h4>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
-{% endif %}
--->
+<h2>By category</h2>
+<nav class="archive-nav">
+  {% for tag in page.categories %}
+      <strong><a href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
+  {% endfor %}
+</nav>
 
 {% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:3 %}
 <aside class="related">
