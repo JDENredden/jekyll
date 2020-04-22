@@ -21,7 +21,7 @@ layout: default
 <hr>
 
 <nav class="archive-nav">
-  <h3>By category</h3>
+  <h3 class="archive-header">By category</h3>
   {% for tag in page.categories %}
       <strong><a class="archive-posts" href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
   {% endfor %}
