@@ -13,12 +13,12 @@ layout: default
     {% endif %}
   </h1>
 
-  <a class="post-date" href="{{ page.url }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A %-d %B %Y" }}</time></a>
+  <a class="post-date" href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y/%m/%d' }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A %-d %B %Y" }}</time></a>
   
   {{ content }}
 </article>
 
-{% if page.categories %}
+{% if page.categories | size > 0 %}
   <hr>
 
   <nav class="archive-nav">
