@@ -19,7 +19,7 @@ jden holds a Graduate Diploma in Management (Arts and Cultural Management) at th
 
 jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously sitting on the Board of the University of Adelaide Theatre Guild. He is also an Associate Member of the Institute for Community Directors Australia.
 
-## Contact {: #contact}
+## Contact
 
 My email is [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;) or [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;) for you privacy nuts. 
 
@@ -35,14 +35,18 @@ Note: Links below may have referral or affiliate links attached.
 
 ### Server Software
 
-This website is hosted on [Render](https://render.com) through continuous deployment with [GitHub](https://github.com) and protected and served through the Cloudflare CDN.
+This website is hosted on [Render](https://render.com) through continuous deployment with [GitHub](https://github.com) and protected and served through the [Cloudflare CDN](https://www.cloudflare.com/cdn/).
 
 The entire source code for this website is available in this GitHub [repository](https://github.com/JDENredden/website).
 
-The connection between Render and Cloudflare is secured with a Let's Encrypt SSL/TLS certificate, and the connection between Cloudflare's CDN and you is secured with a Cloudflare SSL/TLS certificate. If you're connection to this website is not secure, please [let me know](/contact).
+The connection between Render and Cloudflare is secured with a [Let's Encrypt](http://letsencrypt.org) SSL/TLS certificate, and the connection between Cloudflare's CDN and you is secured with a [Cloudflare SSL/TLS](https://www.cloudflare.com/ssl/) certificate. If you're connection to this website is not secure, please [let me know](/contact).
 
-Blogging is powered by [Jekyll](https://jekyll.com) with a theme originally based on [Poole](https://github.com/poole/poole).
+Blogging is powered by [Jekyll](https://jekyll.com) with a theme originally based on [Poole](https://github.com/poole/poole). In addition this website utilises the following plugins: [jekyll-feed](https://github.com/jekyll/jekyll-feed), [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2), [jekyll-gist](https://github.com/jekyll/jekyll-gist), [jekyll-archives](https://github.com/jekyll/jekyll-archives).
+
+This website domain is registered with [Hover](https://hover.com/COgRpA0U) with DNS managed by [Cloudflare DNS](https://www.cloudflare.com/dns/).
+
+My email is powered by [Mailbox.org](https://mailbox.org/en/) and [ProtonMail](https://protonmail.com).
 
 Analytics are tracked by [Simple Analytics](https://referral.simpleanalytics.com/jden). 
 
-<a href="https://simpleanalytics.com/?utm_source=jden.me&utm_content=badge" referrerpolicy="origin" target="_blank"><img src="https://simpleanalyticsbadge.com/jden.me" loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" counter="true" /></a>
+<a href="https://referral.simpleanalytics.com/jden?utm_source=jden.me&utm_content=badge" referrerpolicy="origin" target="_blank"><img src="https://simpleanalyticsbadge.com/jden.me" loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" counter="true" /></a>
