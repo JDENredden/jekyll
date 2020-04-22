@@ -16,7 +16,7 @@ You can read my [blog here](/blog), or learn more [about me](/about), or check o
 
 [Hire me or work with me](/cv). 
 
-[Twitter](https://www.twitter.com/jden) and [Instagram](https://www.instagram.com/jden).
+Get [in touch with me](/about#contact), or on [Twitter](https://www.twitter.com/jden) and [Instagram](https://www.instagram.com/jden).
 
 <hr>
 

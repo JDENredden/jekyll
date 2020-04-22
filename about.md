@@ -63,7 +63,7 @@ My email is powered by [Mailbox.org](https://mailbox.org/en/) and [ProtonMail](h
 
 #### Analytics
 
-Analytics are tracked by [Simple Analytics](https://referral.simpleanalytics.com/jden) — simple, clean, privacy-friendly analytics. 
+Statistics and analytics are tracked by [Simple Analytics](https://referral.simpleanalytics.com/jden) — simple, clean, privacy-friendly analytics. 
 
 Read about [what they track](https://docs.simpleanalytics.com/what-we-collect).
 
