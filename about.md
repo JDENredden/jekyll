@@ -37,6 +37,8 @@ Note: Links below may have referral or affiliate links attached.
 
 This website is hosted on [Render](https://render.com) through continuous deployment with [GitHub](https://github.com) and protected and served through the Cloudflare CDN.
 
+The entire source code for this website is available in this GitHub [repository](https://github.com/JDENredden/website).
+
 The connection between Render and Cloudflare is secured with a Let's Encrypt SSL/TLS certificate, and the connection between Cloudflare's CDN and you is secured with a Cloudflare SSL/TLS certificate. If you're connection to this website is not secure, please [let me know](/contact).
 
 Blogging is powered by [Jekyll](https://jekyll.com) with a theme originally based on [Poole](https://github.com/poole/poole).
