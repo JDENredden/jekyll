@@ -19,7 +19,7 @@ jden holds a Graduate Diploma in Management (Arts and Cultural Management) at th
 
 jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously sitting on the Board of the University of Adelaide Theatre Guild. He is also an Associate Member of the Institute for Community Directors Australia.
 
-## Contact
+## Contact {: #contact}
 
 My email is [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;) or [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;) for you privacy nuts. 
 
@@ -29,11 +29,15 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden), o
 
 ### About this site
 
-The Gospel According to jden is writted and produced by jden redden.
+The Gospel According to jden is writted and produced by jden redden. 
+
+Note: Links below may have referral or affiliate links attached. 
 
 ### Server Software
 
-This website is hosted on [Render](https://render.com) through continuous deployment with [GitHub]() and protected and served through the Cloudflare CDN.
+This website is hosted on [Render](https://render.com) through continuous deployment with [GitHub](https://github.com) and protected and served through the Cloudflare CDN.
+
+The connection between Render and Cloudflare is secured with a Let's Encrypt SSL/TLS certificate, and the connection between Cloudflare's CDN and you is secured with a Cloudflare SSL/TLS certificate. If you're connection to this website is not secure, please [let me know](/contact).
 
 Blogging is powered by [Jekyll](https://jekyll.com) with a theme originally based on [Poole](https://github.com/poole/poole).
 
