@@ -20,12 +20,12 @@ layout: default
 
 <hr>
 
-<h3>By category</h3>
-<aside class="archive-nav">
+<nav class="archive-nav">
+  <h3>By category</h3>
   {% for tag in page.categories %}
       <strong><a href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
   {% endfor %}
-</aside>
+</nav>
 
 {% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:3 %}
 <aside class="related">
