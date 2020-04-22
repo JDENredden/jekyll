@@ -5,7 +5,7 @@
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2rem;
 
   li + li {
     margin-top: .25rem;
@@ -63,6 +63,7 @@
 .related-posts {
   padding-left: 0;
   list-style: none;
+  margin-bottom: 0;
 
   h3 {
     margin-top: 0;
