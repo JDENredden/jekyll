@@ -3,8 +3,18 @@ layout: default
 ---
 
 <article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%A %-d %B %Y" }}</time>
+  
+  <h1 class="post-title">
+    {% if post.external_url %}
+      <a class="external-link" href="{{ page.external_url }}" onclick="captureOutboundLink(this); return false;">{{ page.title }}</a>&nbsp;
+      <a href="{{ page.url }}">&#8734;</a>
+    {% else %}
+    <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+  </h1>
+
+  <a class="post-date" href="{{ page.url }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A %-d %B %Y" }}</time></a>
+  
   {{ content }}
 </article>
 
