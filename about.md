@@ -53,7 +53,7 @@ If you're connection to this website is not secure, please [let me know](#contac
 
 #### Blogging
 
-Blogging (and the entire site) is powered by [Jekyll](https://jekyll.com) with a theme originally based on [Poole](https://github.com/poole/poole). In addition this website utilises the following plugins: [jekyll-feed](https://github.com/jekyll/jekyll-feed), [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2), [jekyll-gist](https://github.com/jekyll/jekyll-gist), [jekyll-archives](https://github.com/jekyll/jekyll-archives).
+Blogging (and the entire site) is powered by [Jekyll](https://jekyll.com), with a theme adapted by jden redden heavily based on and built upon [Poole](https://github.com/poole/poole). In addition this website utilises the following plugins: [jekyll-feed](https://github.com/jekyll/jekyll-feed), [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2), [jekyll-gist](https://github.com/jekyll/jekyll-gist), [jekyll-archives](https://github.com/jekyll/jekyll-archives).
 
 #### Miscellaneous
 
