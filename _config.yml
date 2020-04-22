@@ -49,7 +49,7 @@ jekyll-archives:
     category: category-archive
     tag: tag-archive
   permalinks:
-    year: '/blog/archive/:year'
+    year: '/blog/:year'
     month: '/blog/archive/:year/:month'
     day: '/blog/archive/:year/:month/:day'
     tag: '/blog/archive/tag/:name'
