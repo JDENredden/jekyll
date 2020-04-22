@@ -49,10 +49,10 @@ jekyll-archives:
     category: category-archive
     tag: tag-archive
   permalinks:
-    year: '/blog/:year'
-    month: '/blog/archive/:year/:month'
-    day: '/blog/archive/:year/:month/:day'
-    tag: '/blog/archive/tag/:name'
+    year: '/archive/:year'
+    month: '/archive/:year/:month'
+    day: '/archive/:year/:month/:day'
+    tag: '/archive/tag/:name'
     category: '/blog/:name'
 
 # Assets
