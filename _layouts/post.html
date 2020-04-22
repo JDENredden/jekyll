@@ -20,10 +20,10 @@ layout: default
 
 <hr>
 
-<nav class="related">
+<nav class="archive-nav">
   <h3>By category</h3>
   {% for tag in page.categories %}
-      <strong><a href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
+      <strong><a class="archive-posts" href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
   {% endfor %}
 </nav>
 
