@@ -7,10 +7,10 @@ permalink: /blog/archive/tag
 <!--Sorting Alphabetically-->
 {% capture tags %}
   {% for tag in site.tags %}
-    {{ tag[0] | slugify }}
+    {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedTags = tags | split:' ' | sort %}
+{% assign sortedTags = tags | split:',' | sort %}
 
 <h2>By tag</h2>
 
