@@ -6,7 +6,7 @@ permalink: /blog/archive/tag
 
 <!--Sorting Alphabetically-->
 {% capture tags %}
-  {% for tag in site.tags %}
+  {% for tag in site.tags | slugify %}
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
