@@ -30,7 +30,7 @@ tags:
 - cool
 - thinking laterally
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/42269367123/edithburger-light-graffiti-with-a-canon-650d-at
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_mhp1o7xt4U1qh9he3o1_r1_1280.jpg)  

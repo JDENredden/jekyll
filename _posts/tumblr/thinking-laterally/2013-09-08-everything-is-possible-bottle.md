@@ -26,7 +26,7 @@ tags:
 - anything is possible
 - inspire
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/60632493596/everything-is-possible-bottle-the-other-day-i-was
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_msswaedIgH1qh9he3o1_1280.jpg)  

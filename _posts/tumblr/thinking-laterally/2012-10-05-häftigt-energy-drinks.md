@@ -27,7 +27,7 @@ tags:
 - flag
 - sweden
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/32935891190/h%C3%A4ftigt-energy-drinks-product-mockup-its
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_mbf8quy7Sj1qh9he3o1_r1_1280.png)  

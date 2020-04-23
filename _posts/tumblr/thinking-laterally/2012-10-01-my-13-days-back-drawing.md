@@ -35,7 +35,7 @@ tags:
 - cards
 - cardistry
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/32664383426/my-13-days-back-drawing-13-days-ago
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_mb7r4cYo1i1qh9he3o1_500.jpg)  

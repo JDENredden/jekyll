@@ -16,7 +16,7 @@ tags:
 - thinking
 - laterally
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/9372385030/1000-cranes-for-japan-iphone-wallpaper-based-on
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_lqhgapIkty1qh9he3o1_640.jpg)  

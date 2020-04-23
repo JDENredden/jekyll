@@ -22,7 +22,7 @@ tags:
 - music
 - magna carta
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/56866325539/magna-carta-jden-grail-i-did-a-thing-i-thought
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_mqqugotqkm1qh9he3o1_1280.jpg)  

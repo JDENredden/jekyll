@@ -14,7 +14,7 @@ tags:
 - thinking
 - laterally
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/9369141923/watermelon-sans-was-cutting-some-yellow
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_lqh5klwDhl1qh9he3o2_1280.jpg)  

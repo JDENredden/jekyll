@@ -22,7 +22,7 @@ tags:
 - wall
 - street
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/31561791236/definite-integral-tape-art
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_maddw6gfrJ1qh9he3o1_r1_500.jpg)  

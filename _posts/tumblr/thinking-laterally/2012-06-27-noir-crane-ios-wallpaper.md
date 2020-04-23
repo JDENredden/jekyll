@@ -26,7 +26,7 @@ tags:
 - Iphone photography
 - iphoneography
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/25988907850/noir-crane-ios-wallpaper-tied-a-noose-with-an
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_m69mbl45u71qh9he3o1_1280.jpg)  

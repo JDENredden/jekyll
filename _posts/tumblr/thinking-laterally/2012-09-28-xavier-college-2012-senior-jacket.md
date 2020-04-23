@@ -20,7 +20,7 @@ tags:
 - senior
 - seniors
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/32453347048/xavier-college-2012-senior-jacket-commissioned-by
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_mb27atUKQI1qh9he3o7_1280.jpg)  

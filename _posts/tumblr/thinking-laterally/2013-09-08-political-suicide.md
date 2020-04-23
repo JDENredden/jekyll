@@ -31,7 +31,7 @@ tags:
 - jden
 - jden redden
 tumblr: Thinking Laterally
-tumblr_website_url: "https://thinkinglaterally.tumblr.com"
+tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/60631754058/political-suicide-australia
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_mssvvzm6U81qh9he3o2_1280.jpg)  
