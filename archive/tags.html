@@ -6,8 +6,8 @@ permalink: /blog/archive/tag
 
 <!--Sorting Alphabetically-->
 {% capture tags %}
-  {% for tag in site.tags | slugify %}
-    {{ tag[0] }}
+  {% for tag in site.tags %}
+    {{ tag[0] | slugify }}
   {% endfor %}
 {% endcapture %}
 {% assign sortedTags = tags | split:' ' | sort %}
