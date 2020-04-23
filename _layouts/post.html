@@ -15,6 +15,15 @@ layout: default
 
   <a class="post-date" href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y/%m/%d' }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A %-d %B %Y" }}</time></a>
   
+  {% if page.tumblr_url %}
+  
+  <hr>
+    <h3>Syndication</h3>
+  <p>This post was orignally posted on Tumblr on the blog <a href="{{ page.tumblr }}">{{ page.categories[1] }}</a>. View the <a href="{{ page.tumblr_url }}">original post.</a></p>
+  <hr>
+  
+  {% endif %}
+  
   {{ content }}
 </article>
 
