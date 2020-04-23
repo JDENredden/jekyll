@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: no title
+title: Paper Crane: Process
 date: '2011-04-10T16:23:00+09:30'
 tags:
 - drawing

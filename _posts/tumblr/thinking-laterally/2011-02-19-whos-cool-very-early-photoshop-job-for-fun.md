@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: whos cool very early photoshop job for fun
+title: Who's Cool?
 date: '2011-02-19T17:43:00+10:30'
 tags:
 - 3g

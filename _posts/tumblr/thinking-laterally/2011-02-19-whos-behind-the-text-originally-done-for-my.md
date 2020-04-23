@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: whos behind the text originally done for my
+title: Who's behind the text?
 date: '2011-02-19T17:54:00+10:30'
 tags:
 - cyber safety

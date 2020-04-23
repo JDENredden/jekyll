@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: magical poster quote 8 hours of drawing and
+title: Magical poster
 date: '2011-02-17T22:40:00+10:30'
 tags:
 - black

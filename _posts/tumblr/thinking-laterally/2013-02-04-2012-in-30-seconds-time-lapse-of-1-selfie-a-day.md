@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: no title
+title: 2012 in 30 seconds
 date: '2013-02-04T16:26:00+10:30'
 tags:
 - '2012'

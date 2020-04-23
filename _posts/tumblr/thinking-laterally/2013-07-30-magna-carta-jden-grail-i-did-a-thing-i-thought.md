@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: magna carta jden grail i did a thing i thought
+title: Magna Carta... Jden Grail
 date: '2013-07-30T19:30:24+09:30'
 tags:
 - Magna Carta... Jden Grail

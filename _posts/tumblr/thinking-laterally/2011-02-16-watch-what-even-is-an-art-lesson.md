@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: watch what even is an art lesson
+title: Watch
 date: '2011-02-16T21:48:00+10:30'
 tags:
 - watch

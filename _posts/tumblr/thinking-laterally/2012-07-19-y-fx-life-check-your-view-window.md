@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: y fx life check your view window
+title: y = f(x) + life
 date: '2012-07-19T18:56:44+09:30'
 tags:
 - maths

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: love cards saw a similar idea by jordan
+title: Love Cards
 date: '2011-02-16T20:05:00+10:30'
 tags:
 - love

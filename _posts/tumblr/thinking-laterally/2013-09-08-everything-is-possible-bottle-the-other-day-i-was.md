@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: everything is possible bottle the other day i was
+title: Everything is Possible Bottle
 date: '2013-09-08T19:12:00+09:30'
 tags:
 - Everything is Possible Bottle

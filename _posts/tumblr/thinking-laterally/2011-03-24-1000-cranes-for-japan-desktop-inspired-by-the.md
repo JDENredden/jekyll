@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: 1000 cranes for japan desktop inspired by the
+title: 1000 Cranes for Japan
 date: '2011-03-24T19:09:00+10:30'
 tags:
 - desktop

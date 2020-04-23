@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: remembrance day origami poppy
+title: Remembrance Day Origami Poppy
 date: '2011-11-11T16:48:08+10:30'
 tags:
 - Remembrance Day

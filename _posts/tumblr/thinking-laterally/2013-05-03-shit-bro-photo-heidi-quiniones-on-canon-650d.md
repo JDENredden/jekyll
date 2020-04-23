@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: shit bro photo heidi quiniones on canon 650d
+title: Shit Bro
 date: '2013-05-03T18:38:20+09:30'
 tags:
 - shit bro

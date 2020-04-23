@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: häftigt energy drinks product mockup its
+title: Häftigt Energy Drinks
 date: '2012-10-05T22:43:00+09:30'
 tags:
 - haftigt

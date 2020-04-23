@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: bulb vase blown a lightbulb repurposed as a
+title: Bulb vase
 date: '2012-10-05T21:17:00+09:30'
 tags:
 - lightbulb

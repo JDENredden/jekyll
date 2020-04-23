@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: no title
+title: I am the things of my past
 date: '2011-02-25T16:04:00+10:30'
 tags:
 - Typography

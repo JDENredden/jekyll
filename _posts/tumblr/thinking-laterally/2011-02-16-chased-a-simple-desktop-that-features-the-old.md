@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: chased a simple desktop that features the old
+title: CHaSeD
 date: '2011-02-16T20:15:00+10:30'
 tags:
 - simple desktops

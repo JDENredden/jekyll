@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: misc drawings april 2013
+title: Misc drawings April 2013
 date: '2013-05-04T15:39:22+09:30'
 tags:
 - drawing

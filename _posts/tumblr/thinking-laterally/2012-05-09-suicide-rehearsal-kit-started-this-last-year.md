@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: suicide rehearsal kit started this last year
+title: Suicide Rehearsal Kit
 date: '2012-05-09T17:27:00+09:30'
 tags:
 - Suicide Rehearsal Kit

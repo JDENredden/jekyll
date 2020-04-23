@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: thecardistmag issue 1 cover the worlds first
+title: TheCardistMag Issue #1 Cover
 date: '2011-03-24T00:18:00+10:30'
 tags:
 - cardistry

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: noir crane ios wallpaper tied a noose with an
+title: Noir Crane iOS wallpaper
 date: '2012-06-27T17:03:00+09:30'
 tags:
 - Noir Crane

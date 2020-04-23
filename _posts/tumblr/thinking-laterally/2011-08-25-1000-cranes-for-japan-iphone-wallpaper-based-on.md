@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: 1000 cranes for japan iphone wallpaper based on
+title: 1000 Cranes for Japan iPhone wallpaper
 date: '2011-08-25T21:36:25+09:30'
 tags:
 - iphone

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: thecardistmag website the worlds first cardistry
+title: TheCardistMag website
 date: '2011-03-26T12:22:00+10:30'
 tags:
 - css3

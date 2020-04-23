@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: definite integral tape art
+title: Definite integral tape art
 date: '2012-09-15T02:33:00+09:30'
 tags:
 - definite

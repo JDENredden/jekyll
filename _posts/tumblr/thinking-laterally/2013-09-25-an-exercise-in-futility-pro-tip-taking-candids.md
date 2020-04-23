@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: an exercise in futility pro tip taking candids
+title: An exercise in futility
 date: '2013-09-25T18:33:00+09:30'
 tags:
 - an excercise in futility

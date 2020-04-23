@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: my 13 days back drawing 13 days ago
+title: My 13 days back drawing
 date: '2012-10-01T21:39:00+09:30'
 tags:
 - fail draw lyf stories

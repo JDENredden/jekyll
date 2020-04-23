@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: political suicide australia
+title: Political Suicide
 date: '2013-09-08T19:03:00+09:30'
 tags:
 - Poltical Suicide

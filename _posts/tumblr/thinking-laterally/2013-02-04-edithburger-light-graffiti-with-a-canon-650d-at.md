@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr thinking-laterally
-title: edithburger light graffiti with a canon 650d at
+title: Edithburger
 date: '2013-02-04T22:08:00+10:30'
 tags:
 - light
