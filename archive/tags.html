@@ -11,7 +11,7 @@ permalink: /blog/archive/tag
   {% endfor %}
 {% endcapture %}
 <!--{% assign sortedTags = tags | split:' ' | sort %}-->
-{% assign sortedTags = (site.tags | sort:0) %}
+{% assign sortedTags = tags | sort:0 %}
 
 
 <h2>By tag</h2>
