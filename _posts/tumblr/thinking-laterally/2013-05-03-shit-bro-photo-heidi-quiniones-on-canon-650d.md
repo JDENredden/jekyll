@@ -1,0 +1,39 @@
+---
+layout: post
+categories: tumblr thinking-laterally
+title: shit bro photo heidi quiniones on canon 650d
+date: '2013-05-03T18:38:20+09:30'
+tags:
+- shit bro
+- apocoalypse
+- fire
+- sky
+- sky on fire
+- disater
+- disaster movie
+- world ending
+- end of world
+- backpack
+- photo
+- photography
+- adelaide
+- anzac day parade
+- explosion
+- thousand suns
+- canon 650d
+- exploding
+- jden
+- jden redden
+- heidi quiniones
+- thinking
+- laterally
+- thinking laterally
+tumblr_url: https://thinkinglaterally.tumblr.com/post/49501838286/shit-bro-photo-heidi-quiniones-on-canon-650d
+---
+ ![](/content/images/tumblr/thinking-laterally/tumblr_mm7tdw3xz51qh9he3o1_1280.jpg)  
+
+**Shit Bro.**
+
+> Photo: Heidi Quiniones on Canon 650D.  
+> Manipulations: Self.
+

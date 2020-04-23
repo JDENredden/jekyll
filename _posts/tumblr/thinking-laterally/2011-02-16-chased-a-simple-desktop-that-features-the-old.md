@@ -1,0 +1,25 @@
+---
+layout: post
+categories: tumblr thinking-laterally
+title: chased a simple desktop that features the old
+date: '2011-02-16T20:15:00+10:30'
+tags:
+- simple desktops
+- photoshop
+- blue
+- suits
+- cards
+- chased
+- desktop
+- wallpaper
+tumblr_url: https://thinkinglaterally.tumblr.com/post/3324775669/chased-a-simple-desktop-that-features-the-old
+---
+ ![](/content/images/tumblr/thinking-laterally/tumblr_lgpf36Lv0V1qh9he3o1_1280.png)  
+
+CHaSeD.
+
+> A simple desktop that features the old magicians mnemonic for remembering stacked cards.
+
+Also seen.  
+[Simple Desktops](http://simpledesktops.com/browse/desktops/2010/dec/30/chased/)
+

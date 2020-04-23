@@ -1,0 +1,35 @@
+---
+layout: post
+categories: tumblr thinking-laterally
+title: no title
+date: '2013-02-04T16:26:00+10:30'
+tags:
+- '2012'
+- 2012 in 30 seconds
+- time lapse
+- selfie
+- self portrait
+- photo a day
+- '365'
+- 365 project
+- everyday app
+- iphone
+- photo
+- photography
+- cool
+- jden
+- jden redden
+- video
+- vimeo
+- selfie a day
+tumblr_url: https://thinkinglaterally.tumblr.com/post/42258280411/2012-in-30-seconds-time-lapse-of-1-selfie-a-day
+---
+<iframe src="https://player.vimeo.com/video/58858056?title=0&amp;byline=0&amp;portrait=0&amp;app_id=122963" width="400" height="225" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+
+**2012 in 30 seconds**
+
+> Time lapse of 1 selfie a day for 2012.  
+> I only started February 20. So not complete.  
+> Captured with Everyday.app for iPhone.  
+> everyday-app.com/
+

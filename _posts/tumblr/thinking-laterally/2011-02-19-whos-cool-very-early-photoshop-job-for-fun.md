@@ -1,0 +1,27 @@
+---
+layout: post
+categories: tumblr thinking-laterally
+title: whos cool very early photoshop job for fun
+date: '2011-02-19T17:43:00+10:30'
+tags:
+- 3g
+- face
+- iphone
+- justin kredible
+- photoshop
+- screen
+- see through
+- two
+- whos cool
+- self portrait
+tumblr_url: https://thinkinglaterally.tumblr.com/post/3377804116/whos-cool-very-early-photoshop-job-for-fun
+---
+ ![](/content/images/tumblr/thinking-laterally/tumblr_lgus2rNyKo1qh9he3o1_1280.jpg)  
+
+Who’s Cool?
+
+> Very early photoshop job, for fun. Inspired by a Justin Kredible Twitter avatar.
+
+Also seen.  
+[Facebook&nbsp;](http://www.facebook.com/photo.php?pid=770281&l=b34ab0de27&id=1523777631)
+
