@@ -12,6 +12,8 @@ tags:
 - fish
 - shark
 - tank
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/3324797207/sydney-aquarium-short-video-of-the-shark-tank
 ---
 <iframe src="https://player.vimeo.com/video/19475122?title=0&amp;byline=0&amp;portrait=0&amp;app_id=122963" width="400" height="225" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="Sydney Aquarium"></iframe>  

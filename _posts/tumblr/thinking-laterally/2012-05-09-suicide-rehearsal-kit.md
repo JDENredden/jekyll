@@ -21,6 +21,8 @@ tags:
 - affairs
 - set your affairs in order
 - directions
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/22707033066/suicide-rehearsal-kit-started-this-last-year
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_m3qwsdGegs1qh9he3o1_1280.jpg)  

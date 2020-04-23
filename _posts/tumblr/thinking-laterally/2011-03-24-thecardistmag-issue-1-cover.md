@@ -10,6 +10,8 @@ tags:
 - thecardistmag
 - website
 - xmin designs
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/4044063626/thecardistmag-issue-1-cover-the-worlds-first
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_liijoueSPM1qh9he3o1_400.png)  

@@ -20,6 +20,8 @@ tags:
 - illustrator
 - Typography
 - face
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/3377909685/whos-behind-the-text-originally-done-for-my
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_lgusk5hNz51qh9he3o1_1280.png)  

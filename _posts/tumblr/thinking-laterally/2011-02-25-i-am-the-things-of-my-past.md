@@ -14,6 +14,8 @@ tags:
 - flash
 - cs5
 - 20 hours
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/3497836632/i-am-the-things-of-my-past-kinetic-typography
 ---
 <iframe src="https://player.vimeo.com/video/20326153?title=0&amp;byline=0&amp;portrait=0&amp;app_id=122963" width="400" height="225" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="I am the things of my past."></iframe>  

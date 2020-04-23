@@ -12,6 +12,8 @@ tags:
 - quote
 - si scott
 - typography
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/3343590404/magical-poster-quote-8-hours-of-drawing-and
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_lgrggzKIl41qh9he3o1_1280.jpg)  

@@ -30,6 +30,8 @@ tags:
 - thinking laterally
 - jden redden
 - jden
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/49574291798/misc-drawings-april-2013
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_mm9frmL4lW1qh9he3o1_1280.jpg)  

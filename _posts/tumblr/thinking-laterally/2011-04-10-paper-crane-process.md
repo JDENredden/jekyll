@@ -16,6 +16,8 @@ tags:
 - design
 - photoshop
 - inspired
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/4488677873/paper-crane-process-a-time-lapse-video-of-a-si
 ---
 <iframe src="https://player.vimeo.com/video/22185904?title=0&amp;byline=0&amp;portrait=0&amp;app_id=122963" width="400" height="225" frameborder="0" allow="autoplay; fullscreen" allowfullscreen title="Paper Crane: Process"></iframe>  

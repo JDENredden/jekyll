@@ -12,6 +12,8 @@ tags:
 - thecardistmag
 - website
 - xmin designs
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/4097194116/thecardistmag-website-the-worlds-first-cardistry
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_lin6k9Rk5q1qh9he3o1_1280.png)  

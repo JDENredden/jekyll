@@ -9,6 +9,8 @@ tags:
 - google
 - doodle
 - photoshop
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/3324417753/valentines-day-glee-day-when-i-first-saw-this
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_lgpci2y6pa1qh9he3o1_400.png)  

@@ -16,6 +16,8 @@ tags:
 - earthquake
 - photoshop
 - illustrator
+tumblr: Thinking Laterally
+tumblr_website_url: "https://thinkinglaterally.tumblr.com"
 tumblr_url: https://thinkinglaterally.tumblr.com/post/4060680250/1000-cranes-for-japan-desktop-inspired-by-the
 ---
  ![](/content/images/tumblr/thinking-laterally/tumblr_lik02aazXu1qh9he3o1_1280.png)  
