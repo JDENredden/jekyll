@@ -53,7 +53,7 @@ jekyll-archives:
     month: '/blog/archive/:year/:month/'
     day: '/blog/archive/:year/:month/:day/'
     tag: '/blog/archive/tag/:name/'
-    category: '/blog/:name/'
+    category: '/blog/archive/:name/'
 
 # Assets
 #
