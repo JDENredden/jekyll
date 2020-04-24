@@ -4,7 +4,7 @@ categories: tumblr thinking-laterally
 title: An exercise in futility
 date: '2013-09-25T18:33:00+09:30'
 tags:
-- an excercise in futility
+- an-excercise-in-futility
 - Ortega
 - futility
 - candids
@@ -12,25 +12,25 @@ tags:
 - photo
 - candid
 - library
-- barr smith library
-- university of adelaide
+- barr-smith-library
+- university-of-adelaide
 - shutters
 - loud
 - awkward
 - canon
-- canon 650d
+- canon-650d
 - 650d
 - jden
-- jden redden
+- jden-redden
 - jdenredden
 - photos
 - blue
 - cool
 - pro-tip
-- thinking laterally
+- thinking-laterally
 - lateral thinking
 - adelaide
-- barr smith
+- barr-smith
 - iphone
 - girl
 tumblr: Thinking Laterally

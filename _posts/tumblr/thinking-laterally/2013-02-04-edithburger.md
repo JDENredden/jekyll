@@ -5,30 +5,30 @@ title: Edithburger
 date: '2013-02-04T22:08:00+10:30'
 tags:
 - light
-- light graffiti
-- light graff
+- light-graffiti
+- light-graff
 - canon
 - 650d
-- canon 650d
+- canon-650d
 - edithberg
 - edithburger
 - photos
 - photography
-- '2013'
+- 2013
 - jden
-- jden redden
+- jden-redden
 - dbz
-- dragon ball z
+- dragon-ball-z
 - Kamehameha
 - graff
 - fight
-- swedish house mafia
+- swedish-house-mafia
 - stars
 - night
-- long exposure
+- long-exposure
 - exposure
 - cool
-- thinking laterally
+- thinking-laterally
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/42269367123/edithburger-light-graffiti-with-a-canon-650d-at

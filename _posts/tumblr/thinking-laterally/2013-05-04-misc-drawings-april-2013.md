@@ -7,28 +7,28 @@ tags:
 - drawing
 - draw
 - sharpie
-- sharpie pen
-- pen drawing
-- pen drawings
-- black and white
+- sharpie-pen
+- pen-drawing
+- pen-drawings
+- black-and-white
 - paper
 - converse
 - bunny
 - lindt
 - tie
-- 50 shades of grey
-- 50 shades
+- 50-shades-of-grey
+- 50-shades
 - vase
 - glass
 - feet
 - lamp
 - shapes
-- si scott
+- si-scott
 - sketch
 - cool
 - art
-- thinking laterally
-- jden redden
+- thinking-laterally
+- jden-redden
 - jden
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com

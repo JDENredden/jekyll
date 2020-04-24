@@ -4,23 +4,22 @@ categories: tumblr thinking-laterally
 title: Magna Carta... Jden Grail
 date: '2013-07-30T19:30:24+09:30'
 tags:
-- Magna Carta... Jden Grail
-- Magna Carta... Holy Grail
+- Magna-Carta-Jden-Grail
+- Magna-Carta-Holy-Grail
 - Jay-Z
-- Jay Z
-- Ari Marcopoulos
+- Ari-Marcopoulos
 - Jden
-- Jden Redden
-- thinking laterally
+- Jden-Redden
+- thinking-laterally
 - photoshop
 - font
 - typography
-- Franklin Gothic
-- News Gothic
-- News Gothic Bold
-- album art
+- Franklin-Gothic
+- News-Gothic
+- News-Gothic-Bold
+- album-art
 - music
-- magna carta
+- magna-carta
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/56866325539/magna-carta-jden-grail-i-did-a-thing-i-thought

@@ -4,7 +4,7 @@ categories: tumblr thinking-laterally
 title: My 13 days back drawing
 date: '2012-10-01T21:39:00+09:30'
 tags:
-- fail draw lyf stories
+- fail-draw-lyf-stories
 - drawing
 - pen
 - 13 days
@@ -21,7 +21,7 @@ tags:
 - wilbur
 - pig
 - monster
-- barrack obama
+- barrack-obama
 - face
 - cunt
 - hands

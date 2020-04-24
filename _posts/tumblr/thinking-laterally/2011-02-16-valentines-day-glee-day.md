@@ -5,7 +5,7 @@ title: Valentines Day — Glee day
 date: '2011-02-16T19:19:00+10:30'
 tags:
 - glee
-- valentines day
+- valentines-day
 - google
 - doodle
 - photoshop

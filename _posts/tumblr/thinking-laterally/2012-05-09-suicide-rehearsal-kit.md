@@ -4,22 +4,22 @@ categories: tumblr thinking-laterally
 title: Suicide Rehearsal Kit
 date: '2012-05-09T17:27:00+09:30'
 tags:
-- Suicide Rehearsal Kit
-- practice makes perfect
+- Suicide-Rehearsal-Kit
+- practice-makes-perfect
 - pills
 - goodbye
 - suicide
 - taboo
 - idea
-- Life Line
+- LifeLine
 - help
-- keep out of reach of children
-- thinking laterally
+- keep-out-of-reach-of-children
+- thinking-laterally
 - dark
-- sticky notes
+- sticky-notes
 - pencil
 - affairs
-- set your affairs in order
+- set-your-affairs-in-order
 - directions
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com

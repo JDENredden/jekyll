@@ -4,12 +4,12 @@ categories: tumblr thinking-laterally
 title: Noir Crane iOS wallpaper
 date: '2012-06-27T17:03:00+09:30'
 tags:
-- Noir Crane
+- Noir-Crane
 - noir
 - noosed
 - crane
 - paper
-- paper crane
+- paper-crane
 - ios
 - wallpaper
 - desktop
@@ -23,7 +23,7 @@ tags:
 - death
 - iphone
 - ipad
-- Iphone photography
+- iphone-photography
 - iphoneography
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com

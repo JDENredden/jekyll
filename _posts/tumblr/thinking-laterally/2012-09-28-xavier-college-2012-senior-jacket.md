@@ -4,9 +4,9 @@ categories: tumblr thinking-laterally
 title: Xavier College 2012 senior jacket
 date: '2012-09-28T21:43:00+09:30'
 tags:
-- year 12
+- year-12
 - jacket
-- xavier college
+- xavier-college
 - design
 - fashion
 - Sublimated

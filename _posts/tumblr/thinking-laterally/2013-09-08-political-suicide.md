@@ -4,32 +4,32 @@ categories: tumblr thinking-laterally
 title: Political Suicide
 date: '2013-09-08T19:03:00+09:30'
 tags:
-- Poltical Suicide
+- Poltical-Suicide
 - politics
 - auspol
 - ausvotes
-- tony abbott
+- tony-abbott
 - abbott
-- liberal party
+- liberal-party
 - liberal
-- liberal national
+- liberal-national
 - lnp
 - coalition
 - australia
-- prime minister
+- prime-minister
 - suicide
 - response
 - commited
 - aec
-- thinking laterally
-- lateral thinking
+- thinking-laterally
+- lateral-thinking
 - creative
 - photo
-- canon 650d
+- canon-650d
 - photoshop
 - ballot
 - jden
-- jden redden
+- jden-redden
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/60631754058/political-suicide-australia

@@ -4,7 +4,7 @@ categories: tumblr thinking-laterally
 title: Who's behind the text?
 date: '2011-02-19T17:54:00+10:30'
 tags:
-- cyber safety
+- cyber-safety
 - cyber
 - awareness
 - technology
@@ -12,11 +12,11 @@ tags:
 - twitter
 - formspring
 - bebo
-- social networking
+- social-networking
 - commerical
 - ipod
 - competition
-- xavier college
+- xavier-college
 - illustrator
 - Typography
 - face

@@ -4,7 +4,7 @@ categories: tumblr thinking-laterally
 title: Watermelon Sans
 date: '2011-08-25T17:44:43+09:30'
 tags:
-- Watermelon Sans
+- Watermelon-Sans
 - watermelon
 - font
 - typography

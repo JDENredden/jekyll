@@ -4,26 +4,25 @@ categories: tumblr thinking-laterally
 title: Everything is Possible Bottle
 date: '2013-09-08T19:12:00+09:30'
 tags:
-- Everything is Possible Bottle
-- everything is possible
+- Everything-is-Possible-Bottle
+- everything-is-possible
 - impossible
 - bottle
 - magic
 - tic-tacs
-- impossible bottle
-- anything is possible bottle
-- jamie d grant
-- jamie grant
-- send wonder
+- impossible-bottle
+- anything-is-possible-bottle
+- jamie-d-grant
+- send-wonder
 - illusion
 - typo
 - design
 - cool
-- thinking laterally
-- lateral thinking
+- thinking-laterally
+- lateral-thinking
 - jden
-- jden redden
-- anything is possible
+- jden-redden
+- anything-is-possible
 - inspire
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com

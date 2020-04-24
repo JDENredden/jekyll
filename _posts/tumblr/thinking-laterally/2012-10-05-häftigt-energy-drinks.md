@@ -6,23 +6,23 @@ date: '2012-10-05T22:43:00+09:30'
 tags:
 - haftigt
 - energy drinks
-- Häftigt Energy Drinks
+- Häftigt-Energy-Drinks
 - product
 - packaging
 - mockup
 - creative
-- creative arts
+- creative-arts
 - school
 - assignment
 - creating
-- qr codes
-- real life
+- qr-codes
+- real-life
 - design
 - jden
-- thinking laterally
+- thinking-laterally
 - swedish
 - awesome
-- its swedish for awesome
+- its swedish-for-awesome
 - ikea
 - flag
 - sweden

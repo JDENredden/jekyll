@@ -5,12 +5,12 @@ title: 1000 Cranes for Japan
 date: '2011-03-24T19:09:00+10:30'
 tags:
 - desktop
-- simple desktops
+- simple-desktops
 - wallpaper
 - crane
-- paper crane
-- 1000 cranes for japan
-- black and white
+- paper-crane
+- 1000-cranes-for-japan
+- black-and-white
 - simple
 - tsunami
 - earthquake

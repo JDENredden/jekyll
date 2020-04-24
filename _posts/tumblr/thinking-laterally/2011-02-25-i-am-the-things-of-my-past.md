@@ -5,7 +5,7 @@ title: I am the things of my past
 date: '2011-02-25T16:04:00+10:30'
 tags:
 - Typography
-- kinetic typography
+- kinetic-typography
 - animation
 - video
 - philter
@@ -13,7 +13,7 @@ tags:
 - english
 - flash
 - cs5
-- 20 hours
+- 20-hours
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/3497836632/i-am-the-things-of-my-past-kinetic-typography

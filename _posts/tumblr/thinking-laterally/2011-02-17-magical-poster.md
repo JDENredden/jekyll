@@ -10,7 +10,7 @@ tags:
 - magical
 - photoshop
 - quote
-- si scott
+- si-scott
 - typography
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com

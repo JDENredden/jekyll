@@ -14,7 +14,7 @@ tags:
 - thinking
 - laterally
 - deisgn
-- sticky tape
+- sticky-tape
 - stucky
 - tape
 - fluro

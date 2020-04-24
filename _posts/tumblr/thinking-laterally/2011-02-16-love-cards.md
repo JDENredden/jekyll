@@ -5,13 +5,13 @@ title: Love Cards
 date: '2011-02-16T20:05:00+10:30'
 tags:
 - love
-- love cards
+- love-cards
 - cards
 - red
 - iphone
 - photoshop
-- valentines day
-- Moran Prizes
+- valentines-day
+- Moran-Prizes
 tumblr: Thinking Laterally
 tumblr_website_url: https://thinkinglaterally.tumblr.com
 tumblr_url: https://thinkinglaterally.tumblr.com/post/3324714505/love-cards-saw-a-similar-idea-by-jordan

@@ -6,7 +6,7 @@ date: '2011-02-16T20:26:00+10:30'
 tags:
 - video
 - vimeo
-- time lapse
+- time-lapse
 - sydney
 - iphone
 - harbour
