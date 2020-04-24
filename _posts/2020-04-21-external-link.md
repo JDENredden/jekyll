@@ -6,6 +6,7 @@ external_url: https://daringfireball.net
 tags:
 - 12-things
 - 12-months
+hidden: true
 ---
 
 This is an external link log.
