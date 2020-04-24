@@ -11,7 +11,13 @@ permalink: /blog/archive/tag
   {% endfor %}
 {% endcapture %}
 {% assign sortedTags = tags | split:',' | sort %}
-{% assign sortedTagsSlugs = sortedTags | slugify %}
+
+{% capture tagsSlugged %}
+  {% for tag in site.tags %}
+    {{ tag[0] | slugify }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedTagsSlugs = tagsSlugged | split:',' | sort %}
 <!--{% assign sortedTags = tags | sort_natural %}-->
 
 
@@ -50,7 +56,8 @@ permalink: /blog/archive/tag
   <h3 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/archive/tag/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548;</a></h3>
 
   <ul class="related-posts" aria-label="posts classified under {{ tag }}">
-  {% for post in site.tags[tag] %}
+<!--  {% for post in site.tags[tag] %}-->
+    {% for post in site.tags[sortedTags[forloop.index]] %}
     <li class="archive-posts">
       {% include post-list.html %}
     </li>
