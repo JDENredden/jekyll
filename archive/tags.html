@@ -7,11 +7,11 @@ permalink: /blog/archive/tag
 <!--Sorting Alphabetically-->
 {% capture tags %}
   {% for tag in site.tags %}
-    {{ tag[0] }}
+    {{ tag[0] | join: ','}}
   {% endfor %}
 {% endcapture %}
-<!--{% assign sortedTags = tags | split:' ' | sort %}-->
-{% assign sortedTags = tags | sort_natural %}
+{% assign sortedTags = tags | split:',' | sort %}
+<!--{% assign sortedTags = tags | sort_natural %}-->
 
 
 <h2>By tag</h2>
