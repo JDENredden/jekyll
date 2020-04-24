@@ -45,7 +45,8 @@ Basic SEO 101, add meta keywords, but we’ll leverage off of Tumblr to dynamica
 Add meta tags for title and description.&nbsp;  
   
 {% highlight html %}
-  <meta name=”title” content=”{block:PostSummary}{PostSummary} - {/block:PostSummary}{Title}” /> <meta name=”description” content=”{MetaDescription}” />
+  <meta name=”title” content=”{block:PostSummary}{PostSummary} - {/block:PostSummary}{Title}” />
+  <meta name=”description” content=”{MetaDescription}” />
 {% endhighlight %}
   
 4. **Upload your sitemap.xml to Google Webmaster Tools.**  
@@ -56,14 +57,26 @@ Tumblr builds sitemaps automatically, [http://yourname.tumblr.com/sitemap.xml](h
 Delve into your themes custom HTML and find the {block:Title} and replace it with this.  
   
 {% highlight html %}
-  {block:Title}<h1>{Title}</h1>{/block:Title}
+  {block:Title}
+    <h1>{Title}</h1>
+  {/block:Title}
 {% endhighlight %}
 
 6. **Add a social button.**  
 Search engines rank sites higher by the the amount of sites that link to a page, so make it easy for people to link to you.  
   
 {% highlight html %}
-  <!-- AddThis Button BEGIN --><div class="addthis_toolbox addthis_default_style " addthis:title="{Title}" addthis:url="{Permalink}"><a class="addthis_button_preferred_1"></a><a class="addthis_button_preferred_2"></a><a class="addthis_button_preferred_3"></a><a class="addthis_button_preferred_4"></a><a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4d9c5506633045a3"></script><!-- AddThis Button END -->
+  <!-- AddThis Button BEGIN -->
+  <div class="addthis_toolbox addthis_default_style " addthis:title="{Title}" addthis:url="{Permalink}">
+    <a class="addthis_button_preferred_1"></a>
+    <a class="addthis_button_preferred_2"></a>
+    <a class="addthis_button_preferred_3"></a>
+    <a class="addthis_button_preferred_4"></a>
+    <a class="addthis_button_compact"></a>
+    <a class="addthis_counter addthis_bubble_style"></a>
+  </div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4d9c5506633045a3"></script>
+  <!-- AddThis Button END -->
 {% endhighlight %}
 
 7. **Piggy back on Tumblr’s limited SEO.**  
