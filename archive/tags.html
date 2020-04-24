@@ -16,7 +16,7 @@ permalink: /blog/archive/tag
 <!--{% assign sortedTags = tags | sort_natural %}-->
 
 {% capture tags %}
-  {% for tag in site.tags %}{{ tags[0] }}{% unless forloop.last %},{% endunless %}{% endfor %}
+  {% for tag in site.tags %}{{ tag[0] }}{% unless forloop.last %},{% endunless %}{% endfor %}
 {% endcapture %}
 
 
