@@ -26,3 +26,4 @@ Sydney Time Lapse.
 > 17 floors up. 500 photos. Every 15 secs. 10fps. 50 secs raw.&nbsp;  
 > iPhone 4 + TimeLapse.app + Time Lapse Assembler + iMovie ‘11 + Vimeo&nbsp;
 
+ 

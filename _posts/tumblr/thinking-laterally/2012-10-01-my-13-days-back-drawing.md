@@ -7,7 +7,7 @@ tags:
 - fail-draw-lyf-stories
 - drawing
 - pen
-- 13 days
+- 13-days
 - art
 - biro
 - draw
