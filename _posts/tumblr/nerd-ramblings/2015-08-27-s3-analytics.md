@@ -6,12 +6,12 @@ date: '2015-08-27T08:53:36+09:30'
 tags:
 - S3Stat
 - Amazon
-- Amazon AWS
+- Amazon-AWS
 - AWS
 - S3
-- Amazon Web Services
-- Amazon S3
-- Google Analytics
+- Amazon-Web-Services
+- Amazon-S3
+- Google-Analytics
 - Analytics
 - statistics
 - stat

@@ -6,7 +6,7 @@ title: Fix "This iPhone cannot be used because the Apple Mobile Device Service i
 date: '2011-12-09T00:53:00+10:30'
 tags:
 - Apple
-- Apple Mobile Device
+- Apple-Mobile-Device
 - service
 - iphone
 - ipod
@@ -18,7 +18,7 @@ tags:
 - computer
 - nerd
 - ramblings
-- nerd ramblings
+- nerd-ramblings
 - solution
 - fix
 - cannot

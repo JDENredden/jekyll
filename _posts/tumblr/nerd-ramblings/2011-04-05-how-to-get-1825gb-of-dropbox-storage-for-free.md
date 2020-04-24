@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr nerd-ramblings
-title: How to get 18.25GB of Dropbox storage for free.
+title: How to get 18.25 GB of Dropbox storage for free
 date: '2011-04-05T05:41:29+09:30'
 tags:
 - Dropbox
@@ -21,7 +21,7 @@ tags:
 - drop
 - box
 - tech
-- how to
+- how-to
 - guid
 tumblr: Nerd Ramblings
 tumblr_website_url: https://nerdramblings.tumblr.com

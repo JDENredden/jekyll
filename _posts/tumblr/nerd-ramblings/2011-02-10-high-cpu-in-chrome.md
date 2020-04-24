@@ -15,8 +15,8 @@ tags:
 - web
 - browser
 - fix
-- task manager
-- activity monitor
+- task-manager
+- activity-monitor
 - battery
 tumblr: Nerd Ramblings
 tumblr_website_url: https://nerdramblings.tumblr.com

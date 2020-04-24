@@ -7,8 +7,8 @@ tags:
 - html5
 - html
 - web
-- web design
-- web code
+- web-design
+- web-code
 - valid
 - facebook
 - fbml

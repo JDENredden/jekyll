@@ -1,10 +1,10 @@
 ---
 layout: post
 categories: tumblr nerd-ramblings
-title: How to upgrade all songs to 256kbps AAC with iTunes Match.
+title: How to upgrade all songs to 256kbps AAC with iTunes Match
 date: '2011-12-19T05:46:40+10:30'
 tags:
-- iTunes Match
+- iTunes-Match
 - upgrade
 - all
 - songs
@@ -17,7 +17,7 @@ tags:
 - tips
 - itsfv
 - TuneUp
-- how to
+- how-to
 - icloud
 - iphone
 - mac

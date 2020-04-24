@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr nerd-ramblings
-title: Fix Apple Firewall asking for permissions.
+title: Fix Apple Firewall asking for permissions
 date: '2011-05-19T09:55:00+09:30'
 tags:
 - iTunes
@@ -12,7 +12,7 @@ tags:
 - permissions
 - keeps
 - fix
-- how to
+- how-to
 - tutorial
 - tech
 - dropbox

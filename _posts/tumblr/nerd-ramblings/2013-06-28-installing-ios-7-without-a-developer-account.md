@@ -1,21 +1,21 @@
 ---
 layout: post
 categories: tumblr nerd-ramblings
-title: Installing iOS 7 without a Developer Account.
+title: Installing iOS 7 without a Developer Account
 date: '2013-06-28T04:24:00+09:30'
 tags:
 - iOS7
-- ios 7
+- ios-7
 - how to
 - install
-- install ios7
+- install-ios7
 - without
 - developer
-- developer account
+- developer-account
 - Apple
 - iPad
-- Iphone
-- ipod touch
+- iPhone
+- iPod-touch
 - idevice
 - itunes
 - mac
@@ -23,8 +23,8 @@ tags:
 - udid
 - registration
 - nerdramblings
-- nerd ramblings
-- nerd talk
+- nerd-ramblings
+- nerd-talk
 - tutorial
 tumblr: Nerd Ramblings
 tumblr_website_url: https://nerdramblings.tumblr.com

@@ -1,13 +1,13 @@
 ---
 layout: post
 categories: tumblr nerd-ramblings
-title: dash by kapeli im currently studied a honours
+title: Dash by Kapeli
 date: '2013-08-10T06:21:28+09:30'
 tags:
 - Dash
 - Dash.app
 - Kapeli
-- documentation browser
+- documentation-browser
 - api
 - language
 - c++
@@ -19,7 +19,7 @@ tags:
 - integration
 - popclip
 - coding
-- nerd ramblings
+- nerd-ramblings
 tumblr: Nerd Ramblings
 tumblr_website_url: https://nerdramblings.tumblr.com
 tumblr_url: https://nerdramblings.tumblr.com/post/57871517372/dash-by-kapeli-im-currently-studied-a-honours

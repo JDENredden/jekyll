@@ -1,24 +1,24 @@
 ---
 layout: post
 categories: tumblr nerd-ramblings
-title: youve probably already seen these os x ivericks
+title: OS X Ivericks
 date: '2013-08-10T06:09:11+09:30'
 tags:
-- OS X
-- Mac OS X
+- OS-X
+- Mac-OS-X
 - iOS
-- iOS 7
+- iOS-7
 - Mavericks
 - Ivericks
 - concept
 - UI
 - design
-- design language
-- Stu Crew
+- design-language
+- Stu-Crew
 - Mac
 - Macintosh
 - Apple
-- nerd ramblings
+- nerd-ramblings
 tumblr: Nerd Ramblings
 tumblr_website_url: https://nerdramblings.tumblr.com
 tumblr_url: https://nerdramblings.tumblr.com/post/57871117595/youve-probably-already-seen-these-os-x-ivericks

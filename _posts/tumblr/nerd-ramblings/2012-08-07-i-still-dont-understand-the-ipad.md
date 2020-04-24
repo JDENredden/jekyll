@@ -1,12 +1,12 @@
 ---
 layout: post
 categories: tumblr nerd-ramblings
-title: I still dont understand the iPad.
+title: I still dont understand the iPad
 date: '2012-08-07T04:24:40+09:30'
 tags:
 - iPad
 - tech
-- nerd ramblings
+- nerd-ramblings
 - apple
 - opinion
 tumblr: Nerd Ramblings

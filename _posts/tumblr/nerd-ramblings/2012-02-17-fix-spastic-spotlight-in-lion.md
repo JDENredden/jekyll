@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: tumblr nerd-ramblings
-title: Fix Spastic Spotlight in Lion.
+title: Fix Spastic Spotlight in Lion
 date: '2012-02-17T01:45:00+10:30'
 tags:
 - Fix
@@ -14,7 +14,7 @@ tags:
 - '10.7'
 - terminal
 - finder
-- 3rd party
+- 3rd-party
 - sudo
 - re
 - reindex
@@ -26,8 +26,8 @@ tags:
 - delete
 - nerd
 - ramblings
-- nerd ramblings
-- jden redden
+- nerd-ramblings
+- jden-redden
 tumblr: Nerd Ramblings
 tumblr_website_url: https://nerdramblings.tumblr.com
 tumblr_url: https://nerdramblings.tumblr.com/post/17756328563/fix-spastic-spotlight-in-lion

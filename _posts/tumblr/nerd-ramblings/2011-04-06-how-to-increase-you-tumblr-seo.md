@@ -1,19 +1,19 @@
 ---
 layout: post
 categories: tumblr nerd-ramblings
-title: How to increase you Tumblr SEO.
+title: How to increase you Tumblr SEO
 date: '2011-04-06T08:02:00+09:30'
 tags:
 - tumblr
 - SEO
 - wordpress
 - blogger
-- search engine optimisation
+- search-engine-optimisation
 - web
 - html
 - code
 - blog
-- get more visitors
+- get-more-visitors
 - traffic
 - google
 - bing
