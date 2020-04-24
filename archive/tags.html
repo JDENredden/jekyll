@@ -26,7 +26,7 @@ permalink: /blog/archive/tag
 <nav class="archive-nav">
       {% assign lastLetter = "" %}
     
-  {% for tag in sortedTagsSlugs %}
+  {% for tag in sortedTags %}
         {% assign tmpLetter = tag | slice:0 | upcase %}
 
         {% if tmpLetter != lastLetter %}
@@ -44,7 +44,7 @@ permalink: /blog/archive/tag
 
 {% assign lastLetter = "" %}
 
-{% for tag in sortedTagsSlugs %}
+{% for tag in sortedTags %}
 
   {% assign tmpLetter = tag | slice:0 | upcase %}
 
@@ -56,8 +56,7 @@ permalink: /blog/archive/tag
   <h3 id="{{ tag | slugify }}"><a href="{{ site.baseurl }}/archive/tag/{{ tag }}">{{ tag }}</a> <a href="#top">&#10548;</a></h3>
 
   <ul class="related-posts" aria-label="posts classified under {{ tag }}">
-<!--  {% for post in site.tags[tag] %}-->
-    {% for post in site.tags[sortedTags[forloop.index]] %}
+  {% for post in site.tags[tag] %}
     <li class="archive-posts">
       {% include post-list.html %}
     </li>
