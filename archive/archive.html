@@ -10,7 +10,6 @@ permalink: /blog/archive
 <nav class="archive-nav" aria-label="year">
   <p>
   {% for year in postsByYear %}
-    {% unless year.items}
     <strong><a href="#{{ year.name }}">{{ year.name }}</a></strong>&nbsp;
   {% endfor %}
   </p>
