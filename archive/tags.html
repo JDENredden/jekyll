@@ -5,15 +5,22 @@ permalink: /blog/archive/tag
 ---
 
 <!--Sorting Alphabetically-->
+<!--
 {% capture tags %}
   {% for tag in site.tags %}
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
 {% assign sortedTags = tags | split:',' | sort %}
+-->
 <!--{% assign sortedTags = tags | sort_natural %}-->
 
-{% assign sortedTags = site.tags | sort %}
+{% capture tags %}
+  {% for tag in site.tags %}{{ tags | first }}{% unless forloop.last %},{% endunless %}{% endfor %}
+{% endcapture %}
+
+
+{% assign sortedTags = site.tags | split: ',' | sort %}
 
 
 <h2>By tag</h2>
