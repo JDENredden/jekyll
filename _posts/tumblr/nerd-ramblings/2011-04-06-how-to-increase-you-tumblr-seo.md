@@ -30,21 +30,21 @@ Tumblr does not have very good SEO built in, compared to blog sites like Wordpre
 1. **Beef up the \<title\> tag.**  
 Add the Post Summary to the Title, as its more likely to gain you search spots than the title alone.  
   
-{% highlight html %}
+{% highlight smartly %}
   <title>{block:PostSummary}{PostSummary} - {/block:PostSummary}{Title}</title>
 {% endhighlight %}
 
 2. **Use your tags as keywords.**  
 Basic SEO 101, add meta keywords, but we’ll leverage off of Tumblr to dynamically add them.  
   
-{% highlight html %}
+{% highlight smartly %}
   <meta name=”keywords” content=”{block:Permalink}{block:Posts}{block:Tags}{Tag}, {/block:Tags}{/block:Posts}{/block:Permalink}” />
 {% endhighlight %}
 
 3. **Meta it more.&nbsp;**  
 Add meta tags for title and description.&nbsp;  
   
-{% highlight html %}
+{% highlight smartly %}
   <meta name=”title” content=”{block:PostSummary}{PostSummary} - {/block:PostSummary}{Title}” />
   <meta name=”description” content=”{MetaDescription}” />
 {% endhighlight %}
@@ -56,7 +56,7 @@ Tumblr builds sitemaps automatically, [http://yourname.tumblr.com/sitemap.xml](h
 5. **Use \<h1\>.**  
 Delve into your themes custom HTML and find the {block:Title} and replace it with this.  
   
-{% highlight html %}
+{% highlight smartly %}
   {block:Title}
     <h1>{Title}</h1>
   {/block:Title}

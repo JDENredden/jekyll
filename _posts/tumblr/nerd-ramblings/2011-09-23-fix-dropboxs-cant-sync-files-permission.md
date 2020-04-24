@@ -26,7 +26,9 @@ Whip open _Terminal.app_.
 
 Write these lines in, one at a time, return key&nbsp;in-between.&nbsp;
 
-`sudo chown -R $USER ~/Dropboxsudo chmod -R u+rw ~/Dropboxsudo chown -R $USER ~/.dropboxsudo chmod -R u+rw ~/.dropbox`
+{% highlight shell %}
+  sudo chown -R $USER ~/Dropboxsudo chmod -R u+rw ~/Dropboxsudo chown -R $USER ~/.dropboxsudo chmod -R u+rw ~/.dropbox
+{% endhighlight %}
 
 Notes: Replace _~/Dropbox_&nbsp;with your location of Dropbox folder if you have moved it from default location.
 
