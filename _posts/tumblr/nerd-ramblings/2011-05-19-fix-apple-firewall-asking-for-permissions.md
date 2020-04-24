@@ -28,15 +28,21 @@ After some Googling I found out that probably it was not signed properly and tha
 
 So do a check for this, fire up Terminal.app and write this command.
 
-`codesign -vvv /Applications/iTunes.app `
+{% highlight shell %}
+  codesign -vvv /Applications/iTunes.app
+{% endhighlight %}
 
 It should return this string.
 
-`/Applications/iTunes.app: valid on disk/Applications/iTunes.app: satisfies its Designated Requirement`
+{% highlight shell %}
+  /Applications/iTunes.app: valid on disk/Applications/iTunes.app: satisfies its Designated Requirement
+{% endhighlight %}
 
 Mine returned this.
 
-`/Applications/iTunes.app: a sealed resource is missing or invalid/Applications/iTunes.app/Contents/Resources/iTunesASUHelper: resource modified/Applications/iTunes.app/Contents/Resources/iTunesHelper.app/Contents/MacOS/iTunesHelper: resource modified`
+{% highlight shell %}
+  /Applications/iTunes.app: a sealed resource is missing or invalid/Applications/iTunes.app/Contents/Resources/iTunesASUHelper: resource modified/Applications/iTunes.app/Contents/Resources/iTunesHelper.app/Contents/MacOS/iTunesHelper: resource modified
+{% endhighlight %}
 
 So this means it is not a trusted signed piece of software. How do we fix this? We simply uninstall&nbsp;iTunes and download a clean copy and install. Don’t worry about deleting iTunes, all your music and media will stay intact.
 
