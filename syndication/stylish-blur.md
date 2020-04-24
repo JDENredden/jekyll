@@ -7,13 +7,22 @@ pagination:
 title: Stylish Blur
 ---
 
+# Stylish Blur
+
 {% if paginator.page > 1 %}
-  <h2>Page {{ paginator.page }}</h2>
+  ## Page {{ paginator.page }}
 {% endif %}
 
-<p>This is my blog, I call it, The Gospel According to jden, I write about my projects, obersvations about technology and the arts and cultural sector, with a specific focus on the Australian realm.</p>
+---
 
-<hr>
+### Syndication
+This is the full syndication of the blog: [Stylish Blur](https://stylishblur.tumblr.com), which was orignally posted on [Tumblr](https://tumblr.com).
+
+---
+
+iPhoneography of [jden redden](https://instagram.com/jden). Shot, edited and uploaded from an iPhone 4.
+
+---
 
 <p>Filter the archive by: <a href="{{ site.baseurl }}/archive">year</a>, <a href="{{ site.baseurl }}/archive/category">category</a>, or by <a href="{{ site.baseurl }}/archive/tag">tag</a>.</p>
 
