@@ -43,12 +43,12 @@ title: Stylish Blur
 <div class="pagination">
   {% if paginator.total_pages > 1 %}
       {% if paginator.next_page %}
-        <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+        <a class="pagination-item older" href="{{ paginator.next_page_path }}">Older</a>
       {% else %}
         <span class="pagination-item older">Older</span>
       {% endif %}
       {% if paginator.previous_page %}
-        <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+        <a class="pagination-item newer" href="{{ paginator.previous_page_path }}">Newer</a>
       {% else %}
         <span class="pagination-item newer">Newer</span>
       {% endif %}
