@@ -10,7 +10,7 @@ permalink: /blog/archive/tag
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedTags = tags | split:' ' | sort %}
+{% assign sortedTags = tags | split:' ' | sort_natural %}
 
 <h2>By tag</h2>
 
