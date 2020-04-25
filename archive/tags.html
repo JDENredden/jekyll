@@ -12,7 +12,8 @@ permalink: /blog/archive/tag
     {% endfor %}
   {% endfor %}
 {% endcapture %}
-{% assign sortedTags = tags | slugify | split:' ' | uniq | sort_natural %}
+{% assign tagSlugs = tags[0] | slugify %}
+{% assign sortedTags = tagSlugs | split:' ' | uniq | sort_natural %}
 
 <h2>By tag</h2>
 
