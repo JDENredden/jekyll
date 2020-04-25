@@ -90,4 +90,8 @@ The HTML on this website adheres to [HTML5 semantics](https://validator.w3.org/n
 
 If you have any issues, please [let me know](#contact).
 
+### Last Updated
+
+This website was last built {{ site.time }}.
+
 ---
