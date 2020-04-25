@@ -9,7 +9,7 @@ permalink: /blog/archive/tag
 {% capture tags %}
 {% for post in postsNotHidden %}
   {% for tag in post.tags %}
-    {{ tag[0] }}
+    {{ tag }}
   {% endfor %}
 {% endfor %}
 {% endcapture %}
