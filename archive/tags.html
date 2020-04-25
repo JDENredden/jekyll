@@ -4,9 +4,10 @@ title: Archive
 permalink: /blog/archive/tag
 ---
 
-<!--Sorting Alphabetically-->
+{% assign postsNotHidden = site.posts | where_exp: "item", "item.hidden != true" %}
+
 {% capture tags %}
-  {% for tag in site.tags %}
+  {% for tag in postsNotHidden %}
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
