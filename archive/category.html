@@ -4,13 +4,15 @@ title: Archive
 permalink: /blog/archive/category
 ---
 
-<!--Sorting Alphabetically-->
+{% assign postsNotHidden = site.posts | where_exp: "item", "item.hidden != true" %}
 {% capture categories %}
-  {% for categories in site.categories %}
-    {{ categories[0] }}
+{% for post in postsNotHidden %}
+  {% for categories in post.categories %}
+    {{ categories }}
   {% endfor %}
+{% endfor %}
 {% endcapture %}
-{% assign sortedCategories = categories | split:' ' | sort %}
+{% assign sortedCategories = categories | split:' ' | uniq | sort_natural %}
 
 <h2>By category</h2>
 <nav class="archive-nav">
