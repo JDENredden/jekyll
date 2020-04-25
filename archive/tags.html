@@ -13,7 +13,7 @@ permalink: /blog/archive/tag
   {% endfor %}
 {% endfor %}
 {% endcapture %}
-{% assign sortedTags = tags | split:' ' | sort_natural %}
+{% assign sortedTags = tags | split:' ' | uniq | sort_natural %}
 
 <h2>By tag</h2>
 

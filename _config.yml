@@ -26,6 +26,7 @@ permalink: /blog/:categories/:title
 
 # Build settings
 markdown: kramdown
+incremental: true
 # theme: minima
 plugins:  
   - jekyll-feed
