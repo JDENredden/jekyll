@@ -16,7 +16,7 @@ permalink: /blog/archive/tag
 {% endcapture %}
 <!--{% assign tagSlugs = tags[0] | slugify %}-->
 {% assign sortedTags = tags | split:' ' | uniq | sort_natural %}
-{% assign sortedTagSlugs = tagSlugs | split:' ' | uniq | sort_natural %}
+{% assign sortedTagSlugs = tagSlugs | uniq | sort_natural %}
 
 <h2>By tag</h2>
 
