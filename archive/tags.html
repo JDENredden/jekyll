@@ -7,9 +7,11 @@ permalink: /blog/archive/tag
 <!--Sorting Alphabetically-->
 {% assign postsNotHidden = site.posts | where_exp: "item", "item.hidden != true" %}
 {% capture tags %}
-  {% for tag in postsNotHidden.tags %}
+{% for post in postsNotHidden %}
+  {% for tag in post.tags %}
     {{ tag[0] }}
   {% endfor %}
+{% endfor %}
 {% endcapture %}
 {% assign sortedTags = tags | split:' ' | sort_natural %}
 
