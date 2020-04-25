@@ -10,7 +10,7 @@ permalink: /blog/archive/tag
   {% for post in postsNotHidden %}
     {% for tag in post.tags %}
       {{ tag }}
-      {% assign tagSlugs = tagSlugs | concat: tag | slugify %}
+      {% assign tagSlugs = tagSlugs | push: tag | slugify %}
     {% endfor %}
   {% endfor %}
 {% endcapture %}
