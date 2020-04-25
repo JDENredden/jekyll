@@ -5,7 +5,7 @@ permalink: /blog/archive
 ---
 
 <h2>By year</h2>
-{% assign postsNotHidden = site.posts | where_exp: "item", "item.hidden != true" %}
+{% assign postsNotHidden = site.posts | where_exp: "hidden", "false" %}
 {% assign postsByYear = postsNotHidden | group_by_exp:"post", "post.date | date: '%Y'" %}
 <nav class="archive-nav" aria-label="year">
   <p>
