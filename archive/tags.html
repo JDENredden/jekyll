@@ -5,7 +5,7 @@ permalink: /blog/archive/tag
 ---
 
 {% assign postsNotHidden = site.posts | where_exp: "item", "item.hidden != true" %}
-{% assign tagSlugs = '' | split: ' ' %}
+{% assign tagSlugs = '' %}
 {% capture tags %}
   {% for post in postsNotHidden %}
     {% for tag in post.tags %}
