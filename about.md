@@ -80,7 +80,7 @@ Statistics and analytics are tracked by [Simple Analytics](https://referral.simp
 
 Read about [what they track](https://docs.simpleanalytics.com/what-we-collect).
 
-<a href="https://referral.simpleanalytics.com/jden?utm_source=jden.me&utm_content=badge" referrerpolicy="origin" target="_blank"><img src="https://simpleanalyticsbadge.com/jden.me" loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" counter="true" /></a>
+<a href="https://simpleanalytics.com/jden.me?utm_source=jden.me&utm_content=badge" referrerpolicy="origin" target="_blank"><img src="https://simpleanalyticsbadge.com/jden.me" loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous" counter="true" /></a>
 
 ### Web standards
 
@@ -92,6 +92,6 @@ If you have any issues, please [let me know](#contact).
 
 ### Last Updated
 
-This website was last built {{ site.time | date: "%A, %-d %B %Y at %l:%M %P %Z %z"}}.
+This website was last built [{{ site.time | date: "%A, %-d %B %Y at %l:%M %P (%Z %z)"}}](https://github.com/JDENredden/website).
 
 ---
