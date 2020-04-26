@@ -31,7 +31,7 @@ title: Blog
       {% endif %}
     </h1>
 
-    <a class="post-date" href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A %-d %B %Y" }}</time></a>
+    <a class="post-date" href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A, %-d %B %Y" }}</time></a>
 
     {{ post.content }}
     <hr>

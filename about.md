@@ -92,6 +92,6 @@ If you have any issues, please [let me know](#contact).
 
 ### Last Updated
 
-This website was last built {{ site.time }}.
+This website was last built {{ site.time | date: "%A, %-d %B %Y at %l:%M %P %Z %z"}}.
 
 ---
