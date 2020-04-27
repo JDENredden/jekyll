@@ -56,10 +56,7 @@
       var a = document.getElementsByTagName("a");
       
       // remove subdomain of current site's url and setup regex
-//      var internal = location.host.replace("www.", "");
-//          internal = new RegExp(internal, "i");
-        var internal = new RegExp(location.host.replace("www.", ""), "i");
-//          internal = new RegExp(internal, "i");
+      var internal = new RegExp(location.host.replace("www.", ""), "i");
 
       // Loop over all links on the page
       for (var i = 0; i < a.length; i++) {
