@@ -64,7 +64,7 @@
         var link = a[i]
 
         // Test is a link does start with http
-        if (/^http/i.test(link.href) && !internal.test(href)) {
+        if (/^http/i.test(link.href) && !internal.test(link.href)) {
 
           // Set event name with host of link without the www
           var event = "outbound_" + link.host.replace(/^www\./, "");
