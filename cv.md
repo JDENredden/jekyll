@@ -17,7 +17,7 @@ Over 10 years experience in creative production, cultural leadership, and non-fo
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden){:: options onclick="sa_event('linkedin');" /}.
 
-[Download full PDF CV](/content/documents/jden-redden-CV.pdf){:: options onclick="sa_event('download_cv');" /}.
+[Download full PDF CV](/content/documents/jden-redden-CV.pdf){: .download}.
 
 [Download one-page PDF Board CV](/content/documents/jden-redden-board-CV.pdf){:: options onclick="sa_event('download_board_cv');" /}.
 
