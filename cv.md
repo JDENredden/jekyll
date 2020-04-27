@@ -24,7 +24,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden){:: options
 ---
 
 ## Experience
- 
+
 **Producer and Partner, Fascinating Lies**  
 *Adelaide, Australia. 2012 - present.*
 
