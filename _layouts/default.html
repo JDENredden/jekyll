@@ -63,16 +63,24 @@
       for (var i = 0; i < a.length; i++) {
         var link = a[i]
           
-        if (link.className === "download") {
-          var event = "download_" + link.pathname.split("/").pop().replace(/[^a-z0-9]+/gi, "_");
-          link.setAttribute("target", "_blank");
-          link.setAttribute("onclick", "sa_event('" + event + "');");
-        } else if (/^http/i.test(link.href) && !internal.test(link.href)) {
+        // Test if link is http and external
+        if (/^http/i.test(link.href) && !internal.test(link.href)) {
           // Set event name with host of link without the www
           var event = "outbound_" + link.host.replace(/^(?:https?:\/\/)?(?:www\.)?/i, "") + link.pathname.replace(/[^a-z0-9]+/gi, "_");
           link.setAttribute("target", "_blank");
           link.setAttribute("onclick", "sa_event('" + event + "');");
         }
+        // Download
+        else if (link.className === "download") {
+          var event = "download_" + link.pathname.split("/").pop().replace(/[^a-z0-9]+/gi, "_");
+          link.setAttribute("target", "_blank");
+          link.setAttribute("onclick", "sa_event('" + event + "');");
+        }
+        // Email
+        else if (/^mailto:/i.text(link.href)) {
+          var event = "email_" + link.host;
+          link.setAttribute("onclick", "sa_event('" + event + "');");
+        } 
       }
     })();
     
