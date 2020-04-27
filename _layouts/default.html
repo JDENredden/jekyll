@@ -78,7 +78,7 @@
         }
         // Email
         else if (/^mailto:/i.test(link.href)) {
-          var event = "email_" + link.host;
+          var event = "email_" + link.href.split(":").pop();
           link.setAttribute("onclick", "sa_event('" + event + "');");
         } 
       }
