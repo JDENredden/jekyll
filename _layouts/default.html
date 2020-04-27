@@ -63,7 +63,7 @@
       for (var i = 0; i < a.length; i++) {
         var link = a[i]
           
-        if (link.className == "download") {
+        if (link.className === "download") {
           var event = "download_" + link.pathname.replace(/[^a-z0-9]+/gi, "_");
           link.setAttribute("target", "_blank");
           link.setAttribute("onclick", "sa_event('" + event + "');");
