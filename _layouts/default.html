@@ -67,7 +67,7 @@
         if (/^http/i.test(link.href) && !internal.test(link.href)) {
 
           // Set event name with host of link without the www
-          var event = "outbound_" + link.host.replace(/^www\./, "");
+          var event = "outbound_" + link.href.replace(/^www\./, "");
           link.setAttribute("target", "_blank");
           link.setAttribute("onclick", "sa_event('" + event + "');");
         }
