@@ -77,7 +77,7 @@
           link.setAttribute("onclick", "sa_event('" + event + "');");
         }
         // Email
-        else if (/^mailto:/i.text(link.href)) {
+        else if (/^mailto:/i.test(link.href)) {
           var event = "email_" + link.host;
           link.setAttribute("onclick", "sa_event('" + event + "');");
         } 
