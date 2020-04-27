@@ -51,24 +51,25 @@
   <noscript><img src="https://api.jden.me/image.gif" alt=""></noscript>
 
   <script>
-    (function createEvents() {
-      // Get all links on the page
-      var a = document.getElementsByTagName("a");
+(function createEvents() {
+  // Get all links on the page
+  var a = document.getElementsByTagName("a");
 
-      // Loop over all links on the page
-      for (var i = 0; i < a.length; i++) {
-        var link = a[i]
+  // Loop over all links on the page
+  for (var i = 0; i < a.length; i++) {
+    var link = a[i]
 
-        // Test is a link does start with http
-        if (/^http/i.test(link.href)) {
+    // Test is a link does start with http
+    if (/^http/i.test(link.href)) {
 
-          // Set event name with host of link without the www
-          var event = "outbound_" + link.host.replace(replace(/^www\./, "");
-          link.setAttribute("target", "_blank");
-          link.setAttribute("onclick", "sa_event('" + event + "');");
-        }
-      }
-    })();
+      // Set event name with host of link without the www
+      var event = "outbound_" + link.host.replace(/^www\./, "");
+      link.setAttribute("target", "_blank");
+      link.setAttribute("onclick", "sa_event('" + event + "');");
+    }
+  }
+})();
+
   </script>
   </body>
 </html>
