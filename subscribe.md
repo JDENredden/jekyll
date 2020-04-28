@@ -5,7 +5,7 @@ permalink: /subscribe/
 non-blog: true
 ---
 
-Subscribe to mailing list to recieve an email once a week with new blog posts.
+Subscribe to the newsletter to recieve an email once a week with new blog posts.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

@@ -12,7 +12,7 @@ title: Blog
 
 <p>This is my blog, I call it, The Gospel According to jden, I write about my projects, obersvations about technology and the arts and cultural sector, with a specific focus on the Australian realm.</p>
 
-<p><a href="/subscribe">Subscribe</a> to mailing list to recieve an email once a week with new blog posts.</p>
+<p><a href="/subscribe">Subscribe</a> to the newsletter to recieve an email once a week with new blog posts.</p>
 
 <hr>
 
