@@ -3,6 +3,7 @@ layout: post
 categories: tumblr thinking-laterally
 title: An exercise in futility
 date: '2013-09-25T18:33:00+09:30'
+hidden: true
 tags:
 - an-excercise-in-futility
 - Ortega
