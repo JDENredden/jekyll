@@ -12,6 +12,8 @@ title: Blog
 
 <p>This is my blog, I call it, The Gospel According to jden, I write about my projects, obersvations about technology and the arts and cultural sector, with a specific focus on the Australian realm.</p>
 
+<p><a href="/subscribe">Subscribe</a> to mailing list to recieve an email once a week with new blog posts.</p>
+
 <hr>
 
 <p>Filter the archive by: <a href="{{ site.baseurl }}/archive">year</a>, <a href="{{ site.baseurl }}/archive/category">category</a>, or by <a href="{{ site.baseurl }}/archive/tag">tag</a>.</p>
