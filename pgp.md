@@ -9,7 +9,7 @@ Here is my PGP Public Key for [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&
 
 Download the [Key](/content/keys/iam-jden-me-public.asc){: .download}.
 
-{% highlight %}
+```
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: BCPG v1.61
@@ -43,7 +43,7 @@ Wit4KK4=
 =Ld/e
 -----END PGP PUBLIC KEY BLOCK-----
 
-{% endhighlight %}
+```
 
 ---
 
@@ -51,7 +51,7 @@ Here is my PGP Public Key for [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&
 
 Download the [Key](/content/keys/jdenredden-protonmail-ch-public.asc){: .download}.
 
-{% highlight %}
+```
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v4.10.1
@@ -88,4 +88,4 @@ gl9+9FMYBBAVXRi0UQ/H9rJh1lCksyOIHHWDMjTRuwbsKrRnRe5jH9Lh/iDy
 =LA4Q
 -----END PGP PUBLIC KEY BLOCK-----
 
-{% endhighlight %}
+```
