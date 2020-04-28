@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PGP Key
+title: PGP Keys
 permalink: /pgp/
 non-blog: true
 ---
