@@ -1,13 +1,15 @@
 ---
 layout: default
-permalink: /blog/stylish-blur/
+permalink: /blog/tumblr/stylish-blur/
 pagination:
   enabled: true
   category: stylish-blur
 title: Stylish Blur
+description: "iPhoneography of <a href="https://instagram.com/jden">jden redden</a>. Shot, edited and uploaded from an iPhone 4."
+syndication_url: https://stylishblur.tumblr.com
 ---
 
-<h1 id="stylish-blur"><a href="{{ site.baseurl }}/stylish-blur">Stylish Blur</a></h1>
+<h1 id="stylish-blur"><a href="{{ site.baseurl }}/{{ page.pagination.category }}">{{ page.title }}</a></h1>
   
 {% if paginator.page > 1 %}
   <h2 id="page-paginator-page-">Page {{ paginator.page }}</h2>
@@ -16,12 +18,12 @@ title: Stylish Blur
 <hr>
 
 <h3>Description</h3>
-<p>iPhoneography of <a href="https://instagram.com/jden">jden redden</a>. Shot, edited and uploaded from an iPhone 4.</p>
+<p>{{ page.description }}</p>
 
 <hr>
 
 <h3 id="syndication">Syndication</h3>
-<p>This is the full syndication of the blog: <a href="https://stylishblur.tumblr.com">Stylish Blur</a>, which was orignally posted on <a href="https://tumblr.com">Tumblr</a>.</p>
+<p>This is the full syndication of the blog: <a href="{{ syndication.url }}">{{ page.title }}</a>, which was orignally posted on <a href="https://tumblr.com">Tumblr</a>.</p>
 
 <hr>
 
