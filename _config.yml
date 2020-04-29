@@ -34,6 +34,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-gist
   - jekyll-archives
+  - jekyll-admin
 
 pagination: 
     enabled: true
