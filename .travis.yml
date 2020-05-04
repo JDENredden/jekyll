@@ -2,7 +2,10 @@ language: ruby
 rvm:
   - 2.6.3
 cache: bundler
-#install: gem install s3_website
+install: 
+  - bundle install
+  - gem install s3_website
+  - gem install jekyll
 script: bundle exec jekyll build
 after_success: s3_website push
 #deploy:
