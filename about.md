@@ -60,9 +60,9 @@ The entire source code for this website is available in this GitHub [repository]
 
 #### Security
 
-The connection between Render and Cloudflare CDN is secured with a [Let's Encrypt](http://letsencrypt.org) SSL/TLS certificate, and the connection between Cloudflare CDN and you is secured with a [Cloudflare SSL/TLS](https://www.cloudflare.com/ssl/) certificate.
+The connection between Render and Cloudflare CDN is secured with a [Let's Encrypt](http://letsencrypt.org) SSL/TLS certificate, and the connection between Cloudflare CDN and you is secured with a [Cloudflare SSL/TLS](https://cloudflare.com/ssl/) certificate.
 
-DNSSEC is enabled on this website with algorithm [13 (ECDSA Curve P-256 with SHA-256)](https://www.cloudflare.com/dns/dnssec/ecdsa-and-dnssec/).
+DNSSEC is enabled on this website with algorithm [13 (ECDSA Curve P-256 with SHA-256)](https://cloudflare.com/dns/dnssec/ecdsa-and-dnssec/).
 
 If you're connection to this website is not secure, please [let me know](#contact).
 
@@ -72,7 +72,7 @@ Blogging (and the entire site) is powered by [Jekyll](https://jekyll.com), with 
 
 #### Miscellaneous
 
-The domain, [jden.me](https://jden.me), is registered with [Gandi](https://gandi.link/f/8377d3c5) with DNS hosted by [Cloudflare DNS](https://www.cloudflare.com/dns/).
+The domain, [jden.me](https://jden.me), is registered with [Gandi](https://gandi.link/f/8377d3c5) with DNS hosted by [Cloudflare DNS](https://cloudflare.com/dns/).
 
 The email, [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;), is powered by [Mailbox.org](https://mailbox.org/en/) and [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;), is powered by [ProtonMail](https://protonmail.com).
 

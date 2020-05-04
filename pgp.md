@@ -7,7 +7,7 @@ non-blog: true
 
 Here is my PGP Public Key for [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;).
 
-Download the [Key](/content/keys/iam-jden-me-public.asc){: .download}.
+Download the [key](/content/keys/iam-jden-me-public.asc){: .download}.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -48,7 +48,7 @@ R2ri6iU1+KxlW+aHU2HcEC4MkfMVJk7dPogUsQU3m9cgDdHt2D+McroBlRnA
 
 Here is my PGP Public Key for [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;).
 
-Download the [Key](/content/keys/jdenredden-protonmail-ch-public.asc){: .download}.
+Download the [key](/content/keys/jdenredden-protonmail-ch-public.asc){: .download}.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
