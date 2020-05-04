@@ -21,7 +21,7 @@ deploy:
   secret_access_key: be6732abe63548d18bf3b640132359ff
   bucket: "jden-me"
   local_dir: _site
-  endpoint: https://object.api.ams.fuga.cloud
+  endpoint: object.api.ams.fuga.cloud
   acl: public_read
   on:
     branch: poole
