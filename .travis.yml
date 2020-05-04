@@ -16,5 +16,6 @@ deploy:
   bucket: "jden-me"
   local_dir: _site
   endpoint: https://sos-ch-dk-2.exo.io
+  acl: public_read
   on:
     branch: poole
