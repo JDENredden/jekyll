@@ -72,7 +72,7 @@ Blogging (and the entire site) is powered by [Jekyll](https://jekyll.com), with 
 
 #### Miscellaneous
 
-The domain, [jden.me](https://jden.me), is registered with [Gandi](https://gandi.link/f/8377d3c5) with DNS managed by [Cloudflare DNS](https://www.cloudflare.com/dns/).
+The domain, [jden.me](https://jden.me), is registered with [Gandi](https://gandi.link/f/8377d3c5) with DNS hosted by [Cloudflare DNS](https://www.cloudflare.com/dns/).
 
 The email, [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;), is powered by [Mailbox.org](https://mailbox.org/en/) and [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;), is powered by [ProtonMail](https://protonmail.com).
 
