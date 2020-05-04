@@ -34,7 +34,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-gist
   - jekyll-archives
-  - jekyll-admin
 
 pagination: 
     enabled: true
@@ -56,7 +55,7 @@ jekyll-archives:
     month: '/blog/archive/:year/:month/'
     day: '/blog/archive/:year/:month/:day/'
     tag: '/blog/archive/tag/:name/'
-    category: '/blog/archive/:name/'
+    category: '/blog/archive/category/:name/'
 
 # Assets
 #
