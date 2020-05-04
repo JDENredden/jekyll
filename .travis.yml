@@ -14,14 +14,25 @@ script: bundle exec jekyll build
 #  acl: public_read
 #  on:
 #    branch: poole
+#deploy:
+#  provider: s3
+#  skip_cleanup: true
+#  access_key_id: ab591d88700441028540b470a930f6fc
+#  secret_access_key: be6732abe63548d18bf3b640132359ff
+#  bucket: "jden-me"
+#  local_dir: _site
+#  endpoint: object.api.ams.fuga.cloud
+#  acl: public_read
+#  on:
+#    branch: poole
 deploy:
   provider: s3
   skip_cleanup: true
-  access_key_id: ab591d88700441028540b470a930f6fc
-  secret_access_key: be6732abe63548d18bf3b640132359ff
+  access_key_id: mErfvZXNtGfd
+  secret_access_key: qm4W7v38n2VvykjntcbyAtXaWNBaXPp5
   bucket: "jden-me"
   local_dir: _site
-  endpoint: object.api.ams.fuga.cloud
+  endpoint: https://object.api.ams.fuga.cloud
   acl: public_read
   on:
     branch: poole
