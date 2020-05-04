@@ -32,7 +32,7 @@ deploy:
   secret_access_key: "05c173b90f5e4720a4abc6aeb9e88f2d"
   bucket: "jden"
   local_dir: _site
-  endpoint: https://jden.storage.sbg.cloud.ovh.net
+  endpoint: https://storage.sbg.cloud.ovh.net/v1/AUTH_4cdbb35ba5294cc9a8a7ce70b67bb440
   region: "sbg"
   acl: public_read
   on:
