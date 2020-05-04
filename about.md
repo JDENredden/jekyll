@@ -8,7 +8,7 @@ non-blog: true
 <img class="about" src="/content/images/jden-redden-2019.jpg" alt="jden redden 2019">
 
 ## Biography
-### Arts and Culture
+### [Arts and Culture](#arts-and-culture)
 
 jden is a producer, creative consultant, non-executive director, and magician for his production company Fascinating Lies and Carclew. 
 
@@ -20,7 +20,7 @@ jden holds a Graduate Diploma in Management (Arts and Cultural Management) at th
 
 jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously sitting on the Board of the University of Adelaide Theatre Guild. He is also an Associate Member of the Institute for Community Directors Australia.
 
-### Technology 
+### [Technology](#technology) 
 
 Jden is an Operations Specialist at Apple, technology consultant, and privacy advocate. 
 
@@ -32,7 +32,7 @@ jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously 
 
 ---
 
-## Contact
+## [Contact](#contact)
 
 My email is [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;) or [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;) for you privacy nuts. 
 
@@ -42,7 +42,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden), o
 
 ---
 
-## Colophon
+## [Colophon](#colophon)
 
 ### About this site
 
@@ -54,7 +54,7 @@ The Gospel According to jden is writted and produced by jden redden.
 
 #### Hosting
 
-This website is statically hosted on [Render](https://render.com){: onclick="sa_event('outbound_{{ post.external_url | remove: 'https://' | remove: 'http://' }}');"} through continuous deployment with [GitHub](https://github.com) and protected and served through the [Cloudflare CDN](https://www.cloudflare.com/cdn/).
+This website is statically hosted on [Render](https://render.com) through continuous deployment with [GitHub](https://github.com) and protected and served through the [Cloudflare CDN](https://www.cloudflare.com/cdn/).
 
 The entire source code for this website is available in this GitHub [repository](https://github.com/JDENredden/website).
 
@@ -62,7 +62,7 @@ The entire source code for this website is available in this GitHub [repository]
 
 The connection between Render and Cloudflare CDN is secured with a [Let's Encrypt](http://letsencrypt.org) SSL/TLS certificate, and the connection between Cloudflare CDN and you is secured with a [Cloudflare SSL/TLS](https://www.cloudflare.com/ssl/) certificate.
 
-DNSSEC is not available on .me domains, otherwise it would be enabled.
+DNSSEC is enabled on this website with algorithm [13 (ECDSA Curve P-256 with SHA-256)](https://www.cloudflare.com/dns/dnssec/ecdsa-and-dnssec/).
 
 If you're connection to this website is not secure, please [let me know](#contact).
 
@@ -72,7 +72,7 @@ Blogging (and the entire site) is powered by [Jekyll](https://jekyll.com), with 
 
 #### Miscellaneous
 
-The domain, [jden.me](https://jden.me), is registered with [Hover](https://hover.com/COgRpA0U) with DNS managed by [Cloudflare DNS](https://www.cloudflare.com/dns/).
+The domain, [jden.me](https://jden.me), is registered with [Gandi](https://gandi.link/f/8377d3c5) with DNS managed by [Cloudflare DNS](https://www.cloudflare.com/dns/).
 
 The email, [&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#097;&#109;&#064;&#106;&#100;&#101;&#110;&#046;&#109;&#101;), is powered by [Mailbox.org](https://mailbox.org/en/) and [&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;](&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#106;&#100;&#101;&#110;&#114;&#101;&#100;&#100;&#101;&#110;&#064;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#097;&#105;&#108;&#046;&#099;&#104;), is powered by [ProtonMail](https://protonmail.com).
 
