@@ -30,10 +30,10 @@ deploy:
   skip_cleanup: true
   access_key_id: "c0a741e841784b0d818d0f3d3d5416a9"
   secret_access_key: "05c173b90f5e4720a4abc6aeb9e88f2d"
-  bucket: "jden-me"
+  bucket: "jden"
   local_dir: _site
   endpoint: https://storage.sbg.cloud.ovh.net
-  region: sbg
+  region: "sbg"
   acl: public_read
   on:
     branch: poole
