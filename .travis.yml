@@ -2,13 +2,14 @@ language: ruby
 rvm:
   - 2.6.3
 cache: bundler
+install: gem install s3_website
 script: bundle exec jekyll build
-deploy:
-  provider: s3
-  access_key_id: EXO0121b3275df2939cd372956d
-  secret_access_key: uGTRmHHzxq0kRoKUq5MWa5jGQUpOMjZOeIYZwrbHoPI
-  bucket: "jden-me"
-  endpoint: https://sos-ch-dk-2.exo.io
-  local_dur: ./home/travis/build/JDENredden/website/_site
-  on:
-    branch: poole
+after_success: s3_website push
+#deploy:
+#  provider: s3
+#  access_key_id: EXO0121b3275df2939cd372956d
+#  secret_access_key: uGTRmHHzxq0kRoKUq5MWa5jGQUpOMjZOeIYZwrbHoPI
+#  bucket: "jden-me"
+#  endpoint: https://sos-ch-dk-2.exo.io
+#  on:
+#    branch: poole
