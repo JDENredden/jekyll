@@ -9,6 +9,6 @@ deploy:
   secret_access_key: uGTRmHHzxq0kRoKUq5MWa5jGQUpOMjZOeIYZwrbHoPI
   bucket: "jden-me"
   endpoint: https://sos-ch-dk-2.exo.io
-  local_dur: ./build/_site
+  local_dur: ./home/travis/build/JDENredden/website/_site
   on:
     branch: poole
