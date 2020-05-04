@@ -11,9 +11,10 @@ after_success: s3_website push
 deploy:
   provider: s3
   skip_cleanup: true
-  access_key_id: EXO0121b3275df2939cd372956d
-  secret_access_key: uGTRmHHzxq0kRoKUq5MWa5jGQUpOMjZOeIYZwrbHoPI
+  access_key_id: S3_ACCESS_KEY_ID
+  secret_access_key: S3_SECRET_KEY
   bucket: "jden-me"
+  local_dir: _site
   endpoint: https://sos-ch-dk-2.exo.io
   on:
     branch: poole
