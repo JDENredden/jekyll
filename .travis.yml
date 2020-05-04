@@ -4,9 +4,9 @@ rvm:
 script: bundle exec jekyll build
 deploy:
   provider: s3
-  access_key_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
-  secret_access_key: <%= ENV['S3_SECRET_KEY'] %>
-  bucket: "jden.me"
+  access_key_id: S3_ACCESS_KEY_ID
+  secret_access_key: S3_SECRET_KEY
+  bucket: "jden-me"
   endpoint: https://sos-ch-dk-2.exo.io
   on:
     branch: poole
