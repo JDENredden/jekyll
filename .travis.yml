@@ -17,8 +17,8 @@ script: bundle exec jekyll build
 deploy:
   provider: s3
   skip_cleanup: true
-  access_key_id: ab591d88700441028540b470a930f6fc
-  secret_access_key: be6732abe63548d18bf3b640132359ff
+  access_key_id: 1234968f138843be9bb7c16be48833f6
+  secret_access_key: d23051404f1f42be98277d58e39e5350
   bucket: "jden-me"
   local_dir: _site
   endpoint: https://object.api.ams.fuga.cloud
