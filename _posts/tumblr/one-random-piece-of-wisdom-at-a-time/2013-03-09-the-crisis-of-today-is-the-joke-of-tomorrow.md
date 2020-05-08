@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The crisis of today is the joke of tomorrow.
 date: '2013-03-09T15:23:15+10:30'
 hidden: true
-tags:
+hidden-tags:
 - H.-G.-Wells
 - the
 - crisis

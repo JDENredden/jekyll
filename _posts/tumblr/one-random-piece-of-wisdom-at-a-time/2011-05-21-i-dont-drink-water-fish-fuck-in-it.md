@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I dont drink water, fish fuck in it.
 date: '2011-05-21T16:13:55+09:30'
 hidden: true
-tags:
+hidden-tags:
 - quote
 - W.-C-.-Fields
 - funny

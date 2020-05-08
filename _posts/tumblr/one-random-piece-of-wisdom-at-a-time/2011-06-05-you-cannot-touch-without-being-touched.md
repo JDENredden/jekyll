@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You cannot touch without being touched.
 date: '2011-06-05T20:18:09+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Isaac-Newton
 - Laws-of-Motion
 - cannot

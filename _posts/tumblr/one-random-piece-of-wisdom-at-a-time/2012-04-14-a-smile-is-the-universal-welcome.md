@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A smile is the universal welcome.
 date: '2012-04-14T20:14:41+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Max-Eastman
 - a
 - smile

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Death may be the greatest of all human blessings.
 date: '2013-08-29T23:04:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Socrates
 - death
 - may

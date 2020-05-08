@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Be faithful to that which exists within yourself.
 date: '2012-07-21T11:59:43+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Andre-Gide
 - be
 - faithful

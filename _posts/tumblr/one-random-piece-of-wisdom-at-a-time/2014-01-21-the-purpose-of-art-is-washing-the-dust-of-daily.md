@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The purpose of art is washing the dust of daily life off our souls.
 date: '2014-01-21T22:23:47+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Pablo-Picasso
 - the
 - purpose

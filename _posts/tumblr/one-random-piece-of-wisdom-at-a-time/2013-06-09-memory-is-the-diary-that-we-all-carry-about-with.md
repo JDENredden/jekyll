@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Memory… is the diary that we all carry about with us.
 date: '2013-06-09T23:02:07+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - memory
 - is

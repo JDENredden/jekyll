@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Failure and mistakes are necessary steps to achieve greatness
 date: '2011-09-09T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Joshua-Yang
 - failure
 - and

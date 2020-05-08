@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I think, therefore I am.
 date: '2013-04-12T15:07:31+09:30'
 hidden: true
-tags:
+hidden-tags:
 - René-Descartes
 - Rene-Descartes
 - i

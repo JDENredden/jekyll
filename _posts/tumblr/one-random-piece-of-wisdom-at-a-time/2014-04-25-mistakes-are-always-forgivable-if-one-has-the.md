@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Mistakes are always forgivable, if one has the courage to admit them.
 date: '2014-04-25T00:35:48+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bruce-Lee
 - mistakes
 - are

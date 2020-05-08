@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The duty of youth is to challenge corruption.
 date: '2013-02-20T11:31:34+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Kurt-Cobain
 - the
 - duty

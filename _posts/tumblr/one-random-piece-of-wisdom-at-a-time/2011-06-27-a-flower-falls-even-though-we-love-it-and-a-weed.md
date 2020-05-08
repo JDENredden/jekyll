@@ -5,7 +5,7 @@ title: A flower falls, even though we love it; and a weed grows, even though we 
   not love it.
 date: '2011-06-27T20:38:46+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Dogen
 - flower
 - falls

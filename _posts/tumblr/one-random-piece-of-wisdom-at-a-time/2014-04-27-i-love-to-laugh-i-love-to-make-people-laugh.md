@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I love to laugh. I love to make people laugh.
 date: '2014-04-27T01:31:31+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Dreama-Walker
 - i
 - love

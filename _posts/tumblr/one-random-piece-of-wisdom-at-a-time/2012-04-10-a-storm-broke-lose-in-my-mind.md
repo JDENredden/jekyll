@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A storm broke lose in my mind.
 date: '2012-04-10T21:26:18+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - a
 - storm

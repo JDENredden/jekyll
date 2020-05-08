@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A good head and a good heart are always a formidable combination.
 date: '2013-12-29T23:01:22+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Nelson-Mandela
 - a
 - good

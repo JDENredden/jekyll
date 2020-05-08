@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: There is an immeasurable distance between late and too late.
 date: '2013-05-24T01:23:54+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Og-Mandino
 - there
 - is

@@ -5,7 +5,7 @@ title: Whether or not you can become great at something, you can always become b
   at it.
 date: '2012-05-11T12:02:07+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Neil-deGrasse-Tyson
 - whether
 - or

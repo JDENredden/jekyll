@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I’ve failed over and over and over again in my life and that is why I succeed.
 date: '2013-01-16T17:31:24+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Michael-Jordan
 - ive
 - failed

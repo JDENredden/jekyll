@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t let yesterday use up too much of today.
 date: '2013-11-27T23:46:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Will-Rogers
 - dont
 - let

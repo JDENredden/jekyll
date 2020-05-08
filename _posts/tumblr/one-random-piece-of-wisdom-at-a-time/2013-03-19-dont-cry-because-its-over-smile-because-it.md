@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t cry because it’s over, smile because it happened.
 date: '2013-03-19T22:41:37+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Dr.-Seuss
 - dont
 - cry

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To begin, begin.
 date: '2011-07-10T20:29:35+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Wordsworth
 - to-begin
 - begin

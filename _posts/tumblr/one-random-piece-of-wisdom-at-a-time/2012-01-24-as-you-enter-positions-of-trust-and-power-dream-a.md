@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: As you enter positions of trust and power, dream a little before you think.
 date: '2012-01-24T20:36:46+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Toni-Morrison
 - as
 - you

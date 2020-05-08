@@ -5,7 +5,7 @@ title: No iron can pierce the heart with such force as a period put just at the 
   place.
 date: '2012-10-20T21:48:27+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Isaac-Babel
 - 'no'
 - iron

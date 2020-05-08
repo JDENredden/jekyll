@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nothing is miserable unless you think it is so.
 date: '2013-06-19T12:00:21+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Boethius
 - nothing
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I think that right now popular music is the worst it’s ever been in history.
 date: '2012-05-20T20:28:59+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Billie-Joe-Armstrong
 - i
 - think

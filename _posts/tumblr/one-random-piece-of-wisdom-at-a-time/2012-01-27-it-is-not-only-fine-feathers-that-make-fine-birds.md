@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It is not only fine feathers that make fine birds.
 date: '2012-01-27T12:11:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Aesop
 - it
 - is

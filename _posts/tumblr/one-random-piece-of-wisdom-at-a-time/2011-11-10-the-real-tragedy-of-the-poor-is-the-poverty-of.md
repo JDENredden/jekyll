@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The real tragedy of the poor is the poverty of their aspirations
 date: '2011-11-10T17:25:28+10:30'
 hidden: true
-tags:
+hidden-tags:
 - the
 - real
 - tragedy

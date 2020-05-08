@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t have any shame.
 date: '2013-05-28T23:17:19+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Conrad-Black
 - I
 - dont

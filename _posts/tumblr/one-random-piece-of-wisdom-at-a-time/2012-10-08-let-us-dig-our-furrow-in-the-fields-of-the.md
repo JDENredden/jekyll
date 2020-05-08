@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Let us dig our furrow in the fields of the commonplace.
 date: '2012-10-08T20:01:37+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jean-Henri-Fabre
 - let
 - us

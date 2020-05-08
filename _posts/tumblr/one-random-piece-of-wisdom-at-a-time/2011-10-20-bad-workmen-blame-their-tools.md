@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Bad workmen blame their tools.
 date: '2011-10-20T20:43:56+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Indian-proverbs
 - bad
 - workmen

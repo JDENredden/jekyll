@@ -5,7 +5,7 @@ title: Money and success don’t change people; they merely amplify what is alre
   there.
 date: '2013-12-04T22:39:37+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Will-Smith
 - money
 - and

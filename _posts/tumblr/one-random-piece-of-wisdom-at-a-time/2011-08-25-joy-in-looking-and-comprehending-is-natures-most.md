@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Joy in looking and comprehending is nature’s most beautiful gift.
 date: '2011-08-25T12:01:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - joy
 - in

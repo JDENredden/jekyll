@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Beauty awakens the soul to act.
 date: '2013-05-31T23:20:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Dante-Alighieri
 - beauty
 - awakens

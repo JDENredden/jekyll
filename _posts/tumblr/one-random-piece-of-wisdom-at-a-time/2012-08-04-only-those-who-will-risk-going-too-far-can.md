@@ -5,7 +5,7 @@ title: Only those who will risk going too far can possibly find out how far one 
   go
 date: '2012-08-04T11:55:49+09:30'
 hidden: true
-tags:
+hidden-tags:
 - T.S.-Eliot
 - only
 - those

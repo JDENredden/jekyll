@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Sometimes the heart sees what is invisible to the eye.
 date: '2013-10-14T00:34:25+10:30'
 hidden: true
-tags:
+hidden-tags:
 - H.-Jackson-Brown-Jr.
 - sometimes
 - the

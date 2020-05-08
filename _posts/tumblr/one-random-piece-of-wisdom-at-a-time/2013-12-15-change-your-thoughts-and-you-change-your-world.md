@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Change your thoughts and you change your world.
 date: '2013-12-15T00:06:38+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Norman-Vincent-Peale
 - change
 - your

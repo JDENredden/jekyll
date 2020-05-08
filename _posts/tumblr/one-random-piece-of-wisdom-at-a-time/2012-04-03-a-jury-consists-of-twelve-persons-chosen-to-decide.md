@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A jury consists of twelve persons chosen to decide who has the better lawyer.
 date: '2012-04-03T23:08:07+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Frost
 - A
 - jury

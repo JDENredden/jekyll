@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I’ve never been afraid to fail.
 date: '2013-05-18T14:00:34+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Michael-Jordan
 - ive
 - never

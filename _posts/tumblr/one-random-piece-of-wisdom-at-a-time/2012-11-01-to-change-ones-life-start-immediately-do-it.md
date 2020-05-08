@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'To change ones life: Start immediately. Do it flamboyantly.'
 date: '2012-11-01T22:07:45+10:30'
 hidden: true
-tags:
+hidden-tags:
 - William-James
 - to
 - change

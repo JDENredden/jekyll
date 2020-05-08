@@ -5,7 +5,7 @@ title: An optimist may see a light where there is none, but why must the pessimi
   always run to blow it out?
 date: '2011-07-27T13:21:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Rene-Descartes
 - an
 - optimist

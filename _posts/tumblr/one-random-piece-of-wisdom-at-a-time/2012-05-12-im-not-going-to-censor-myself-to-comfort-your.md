@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I’m not going to censor myself to comfort your ignorance.
 date: '2012-05-12T12:01:33+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jon-Stewart
 - im
 - not

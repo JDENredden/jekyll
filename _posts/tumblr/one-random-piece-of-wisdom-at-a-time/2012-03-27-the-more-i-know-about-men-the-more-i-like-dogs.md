@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The more I know about men the more I like dogs.
 date: '2012-03-27T22:04:48+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Gloria-Allred
 - the
 - more

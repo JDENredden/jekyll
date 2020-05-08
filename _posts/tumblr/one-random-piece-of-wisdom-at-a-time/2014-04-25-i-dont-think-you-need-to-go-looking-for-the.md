@@ -5,7 +5,7 @@ title: I don’t think you need to go looking for the enemy. He’s going to loo
   you.
 date: '2014-04-25T00:36:45+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Willie-Aames
 - i
 - dont

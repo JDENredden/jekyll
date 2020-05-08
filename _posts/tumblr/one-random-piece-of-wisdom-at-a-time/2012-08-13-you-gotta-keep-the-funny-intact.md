@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You gotta keep the funny intact.
 date: '2012-08-13T18:09:34+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Seth-MacFarlane
 - you
 - gotta

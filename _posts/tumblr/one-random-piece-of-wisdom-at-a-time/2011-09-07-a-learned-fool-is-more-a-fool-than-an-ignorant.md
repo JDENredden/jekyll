@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A learned fool is more a fool than an ignorant fool.
 date: '2011-09-07T12:23:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - a
 - learned
 - fool

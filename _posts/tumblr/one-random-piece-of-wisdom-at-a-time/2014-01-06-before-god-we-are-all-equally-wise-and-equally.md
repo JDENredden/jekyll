@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Before God we are all equally wise - and equally foolish.
 date: '2014-01-06T23:45:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - before
 - god

@@ -5,7 +5,7 @@ title: Every moment and every event of every man’s life on earth plants someth
   in his soul.
 date: '2013-11-17T23:38:53+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Merton
 - every
 - moment

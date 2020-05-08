@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Friendship is a single soul dwelling in two bodies.
 date: '2013-04-22T13:19:12+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Aristotle
 - friendship
 - is

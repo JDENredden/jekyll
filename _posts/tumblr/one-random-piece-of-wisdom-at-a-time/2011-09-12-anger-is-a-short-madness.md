@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Anger is a short madness.
 date: '2011-09-12T23:45:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Horace
 - anger
 - is

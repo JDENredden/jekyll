@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Beware of false knowledge; it is more dangerous than ignorance.
 date: '2014-02-19T00:49:15+10:30'
 hidden: true
-tags:
+hidden-tags:
 - George-Bernard-Shaw
 - beware
 - of

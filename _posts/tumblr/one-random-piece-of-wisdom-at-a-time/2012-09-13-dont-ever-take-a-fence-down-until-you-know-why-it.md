@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t ever take a fence down until you know why it was put up.
 date: '2012-09-13T23:14:59+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Frost
 - dont
 - ever

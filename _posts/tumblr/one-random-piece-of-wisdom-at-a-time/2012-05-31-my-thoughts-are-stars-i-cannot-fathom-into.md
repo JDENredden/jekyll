@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: My thoughts are stars I cannot fathom into constellations.
 date: '2012-05-31T06:01:03+09:30'
 hidden: true
-tags:
+hidden-tags:
 - I
 - John-Green
 - are

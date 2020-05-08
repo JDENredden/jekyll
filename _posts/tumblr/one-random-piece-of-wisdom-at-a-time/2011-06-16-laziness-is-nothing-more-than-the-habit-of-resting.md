@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Laziness is nothing more than the habit of resting before you get tired.
 date: '2011-06-16T22:13:02+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jules-Renard
 - quote
 - wisdom

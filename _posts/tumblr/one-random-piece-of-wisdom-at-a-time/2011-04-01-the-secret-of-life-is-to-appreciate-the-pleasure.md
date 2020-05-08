@@ -5,7 +5,7 @@ title: The secret of life is to appreciate the pleasure of being terribly, terri
   deceived.
 date: '2011-04-01T22:57:02+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - quote
 - wisdom

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All change is not growth, as all movement is not forward.
 date: '2011-04-13T23:57:35+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ellen-Glasgow
 - growth
 - change

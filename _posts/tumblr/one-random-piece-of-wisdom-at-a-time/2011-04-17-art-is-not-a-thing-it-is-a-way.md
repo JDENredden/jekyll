@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Art is not a thing; it is a way.
 date: '2011-04-17T16:41:29+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Elbert-Hubbard
 - art
 - way

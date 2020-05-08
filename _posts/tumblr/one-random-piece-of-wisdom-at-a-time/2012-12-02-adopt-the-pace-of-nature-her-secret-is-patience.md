@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'Adopt the pace of nature: her secret is patience.'
 date: '2012-12-02T15:57:09+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ralph-Waldo-Emerson
 - adopt
 - the

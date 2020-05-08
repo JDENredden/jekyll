@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life beats down and crushes the soul and art reminds you that you have one.
 date: '2012-03-04T11:22:17+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Stella-Adler
 - life
 - beats

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you are just safe about the choices you make, you don’t grow.
 date: '2012-08-25T09:23:45+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Heath-Ledger
 - if
 - you

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I owe my solitude to other people.
 date: '2012-09-24T14:30:32+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Alan-Watts
 - i
 - owe

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nothing haunts us like the things we don’t say.
 date: '2013-06-03T20:56:29+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mitch-Albom
 - nothing
 - haunts

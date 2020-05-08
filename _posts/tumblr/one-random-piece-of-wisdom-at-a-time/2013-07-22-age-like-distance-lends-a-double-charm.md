@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Age, like distance lends a double charm.
 date: '2013-07-22T23:59:07+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oliver-Herford
 - age
 - like

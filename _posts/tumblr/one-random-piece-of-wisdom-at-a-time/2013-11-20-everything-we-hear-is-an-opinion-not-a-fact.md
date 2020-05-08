@@ -5,7 +5,7 @@ title: Everything we hear is an opinion, not a fact. Everything we see is a pers
   not the truth.
 date: '2013-11-20T22:52:49+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Marcus-Aurelius
 - everything
 - we

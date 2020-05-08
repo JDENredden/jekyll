@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A man who wants to lead the orchestra must turn his back on the crowd.
 date: '2011-05-21T16:18:42+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Max-Lucado
 - man
 - orchestra

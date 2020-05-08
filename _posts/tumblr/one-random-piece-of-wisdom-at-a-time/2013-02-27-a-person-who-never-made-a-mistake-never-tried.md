@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A person who never made a mistake never tried anything new.
 date: '2013-02-27T23:23:09+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - a
 - person

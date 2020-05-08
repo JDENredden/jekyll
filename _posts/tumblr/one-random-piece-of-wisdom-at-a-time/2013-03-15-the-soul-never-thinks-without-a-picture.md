@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The soul never thinks without a picture.
 date: '2013-03-15T23:50:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Aristotle
 - the
 - soul

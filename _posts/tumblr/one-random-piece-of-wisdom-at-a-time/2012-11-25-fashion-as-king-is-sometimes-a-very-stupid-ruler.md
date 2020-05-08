@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Fashion as King is sometimes a very stupid ruler.
 date: '2012-11-25T18:21:31+10:30'
 hidden: true
-tags:
+hidden-tags:
 - E.-T.-Bell
 - fashion
 - as

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The distance is nothing when one has a motive.
 date: '2012-05-28T11:57:40+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jane-Austen
 - the
 - distance

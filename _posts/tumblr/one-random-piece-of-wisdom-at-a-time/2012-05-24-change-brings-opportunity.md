@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Change brings opportunity.
 date: '2012-05-24T12:01:18+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Nido-Qubein
 - change
 - brings

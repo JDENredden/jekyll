@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Feelings are environmental, love is heredity.
 date: '2011-08-16T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - feelings
 - are

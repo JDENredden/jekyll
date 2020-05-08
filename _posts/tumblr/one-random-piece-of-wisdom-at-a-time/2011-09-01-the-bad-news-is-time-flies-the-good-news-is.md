@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The bad news is time flies. The good news is you’re the pilot.
 date: '2011-09-01T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Michael-Althsuler
 - the
 - bad

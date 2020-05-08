@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Great dreams of great dreamers are always transcended.
 date: '2014-03-31T22:47:25+10:30'
 hidden: true
-tags:
+hidden-tags:
 - A.-P.-J.-Abdul-Kalam
 - great
 - dreams

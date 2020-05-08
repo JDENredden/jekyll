@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Be yourself; everyone else is already taken.
 date: '2013-09-21T22:44:17+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - be
 - yourself

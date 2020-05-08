@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Fear cannot be without hope nor hope without fear.
 date: '2012-08-15T22:10:22+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Baruch-Spinoza
 - fear
 - cannot

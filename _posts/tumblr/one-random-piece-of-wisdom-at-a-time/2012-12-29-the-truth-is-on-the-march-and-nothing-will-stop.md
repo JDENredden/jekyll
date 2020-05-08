@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The truth is on the march and nothing will stop it.
 date: '2012-12-29T22:56:08+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Emile-Zola
 - the
 - truth

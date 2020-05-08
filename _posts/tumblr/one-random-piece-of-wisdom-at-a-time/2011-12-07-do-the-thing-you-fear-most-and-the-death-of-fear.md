@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Do the thing you fear most and the death of fear is certain.
 date: '2011-12-07T13:10:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mark-Twain
 - do
 - the

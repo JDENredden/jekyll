@@ -5,7 +5,7 @@ title: Bluffs are the result of the inability to wait. You get tired of waiting 
   the right hand, so you start to lie. Have patience good things will come.
 date: '2011-05-04T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - bluffs
 - metaphor

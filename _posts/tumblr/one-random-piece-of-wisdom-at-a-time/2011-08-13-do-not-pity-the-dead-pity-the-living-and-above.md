@@ -5,7 +5,7 @@ title: Do not pity the dead. Pity the living and above all, those who live witho
   love.
 date: '2011-08-13T12:01:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albus-Dumbledore
 - do
 - not

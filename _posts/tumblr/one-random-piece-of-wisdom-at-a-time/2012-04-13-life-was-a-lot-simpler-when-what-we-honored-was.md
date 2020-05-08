@@ -5,7 +5,7 @@ title: Life was a lot simpler when what we honored was father and mother rather 
   all major credit cards.
 date: '2012-04-13T23:06:39+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Orben
 - life
 - was

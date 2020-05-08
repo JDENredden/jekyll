@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you’re good at something, never do it for free.
 date: '2011-09-05T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - The-Joker
 - Heath-Ledger
 - Jonathan-Nolan

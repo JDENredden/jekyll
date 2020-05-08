@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The way is not in the sky. The way is in the heart.
 date: '2013-03-23T23:03:45+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Buddha
 - the
 - way

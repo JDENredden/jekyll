@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The jealous are troublesome to others, but a torment to themselves.
 date: '2013-06-10T22:02:10+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Penn
 - the
 - jealous

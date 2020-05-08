@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All societies are historical.
 date: '2012-03-27T22:08:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Raymond-Queneau
 - all
 - societies

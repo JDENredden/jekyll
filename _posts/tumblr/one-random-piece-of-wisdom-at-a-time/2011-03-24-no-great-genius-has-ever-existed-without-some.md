@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: No great genius has ever existed without some touch of madness.
 date: '2011-03-24T21:31:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - aristotle
 - existed
 - genius

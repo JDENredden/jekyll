@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Why be normal, when you can be; not.
 date: '2012-05-01T23:22:23+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Unknown-Author
 - why
 - be

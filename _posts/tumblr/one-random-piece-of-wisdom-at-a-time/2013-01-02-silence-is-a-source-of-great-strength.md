@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Silence is a source of great strength.
 date: '2013-01-02T23:20:27+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Lao-Tzu
 - silence
 - is

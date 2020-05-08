@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you want to make enemies, try to change something.
 date: '2014-01-21T22:25:30+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Woodrow-Wilson
 - if
 - you

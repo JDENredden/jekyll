@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I have decided to stick with love. Hate is too great a burden to bear.
 date: '2013-10-10T23:00:11+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Martin-Luther-King-Jr.
 - i
 - have

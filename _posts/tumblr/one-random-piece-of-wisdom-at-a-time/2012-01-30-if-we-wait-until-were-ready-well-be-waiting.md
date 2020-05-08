@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If we wait until we’re ready, we’ll be waiting for the rest of our lives.
 date: '2012-01-30T12:01:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Lemony-Snicket
 - if
 - we

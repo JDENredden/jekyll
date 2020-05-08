@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love is an irresistible desire to be irresistibly desired.
 date: '2013-06-09T15:57:23+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Frost
 - love
 - is

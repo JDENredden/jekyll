@@ -5,7 +5,7 @@ title: While I thought that I was learning how to live, I have been learning how
   die.
 date: '2013-06-09T16:00:34+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Leonardo-da-Vinci
 - while
 - i

@@ -5,7 +5,7 @@ title: I’ve begun to realize that you can listen to silence and learn from it.
   has a quality and a dimension all its own.
 date: '2012-06-18T11:54:18+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Chaim-Potok
 - ive
 - began

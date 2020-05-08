@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Art is not what you see, but what you make others see.
 date: '2012-03-01T23:43:52+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Edgar-Degas
 - art
 - is

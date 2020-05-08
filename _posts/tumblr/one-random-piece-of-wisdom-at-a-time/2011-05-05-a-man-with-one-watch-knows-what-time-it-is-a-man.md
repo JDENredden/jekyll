@@ -5,7 +5,7 @@ title: A man with one watch knows what time it is; a man with two watches is nev
   quite sure.
 date: '2011-05-05T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lee-Segall
 - man
 - watch

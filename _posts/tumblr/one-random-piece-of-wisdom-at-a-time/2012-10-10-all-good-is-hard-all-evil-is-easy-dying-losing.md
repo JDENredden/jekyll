@@ -5,7 +5,7 @@ title: All good is hard. All evil is easy. Dying, losing, cheating, and mediocri
   is easy. Stay away from easy.
 date: '2012-10-10T22:40:25+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Scott-Alexander
 - all
 - good

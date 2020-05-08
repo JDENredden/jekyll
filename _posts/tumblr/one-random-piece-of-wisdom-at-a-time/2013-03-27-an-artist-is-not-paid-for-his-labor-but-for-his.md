@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: An artist is not paid for his labor but for his vision.
 date: '2013-03-27T20:16:52+10:30'
 hidden: true
-tags:
+hidden-tags:
 - James-Whistler
 - an
 - artist

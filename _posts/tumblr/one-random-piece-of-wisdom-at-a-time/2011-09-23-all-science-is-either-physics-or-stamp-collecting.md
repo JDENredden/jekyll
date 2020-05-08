@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All science is either physics or stamp collecting.
 date: '2011-09-23T20:00:55+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ernest-Rutherford
 - all
 - science

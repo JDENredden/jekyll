@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A flower cannot blossom without sunshine, and man cannot live without love.
 date: '2012-10-12T22:41:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Max-Muller
 - a
 - flower

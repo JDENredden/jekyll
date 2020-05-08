@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I never think of the future. It comes soon enough.
 date: '2011-03-20T21:50:44+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - quote
 - wisdom

@@ -9,7 +9,7 @@ title: |-
   Watch your character; it becomes your destiny.
 date: '2011-10-14T18:22:14+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Lao-Tze
 - watch
 - your

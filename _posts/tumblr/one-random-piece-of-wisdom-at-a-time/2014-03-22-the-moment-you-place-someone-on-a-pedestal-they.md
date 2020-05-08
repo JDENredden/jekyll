@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The moment you place someone on a pedestal they will look down upon you.
 date: '2014-03-22T16:51:01+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Charlie-Shaw
 - the
 - moment

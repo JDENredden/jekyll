@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Measure what is measurable, and make measurable what is not so.
 date: '2011-05-08T22:50:20+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Galileo-Galilei
 - measurable
 - measure

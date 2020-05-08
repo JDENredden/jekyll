@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You do not really understand something unless you can explain it to your grandmother.
 date: '2011-08-31T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - you
 - dont

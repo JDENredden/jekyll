@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: One’s ignorance is one’s chief asset.
 date: '2012-11-03T22:10:26+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Wallace-Stevens
 - ones
 - ignorance

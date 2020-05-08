@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nothing is impossible, the word itself says ‘I’m possible’.
 date: '2013-03-23T23:05:11+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Audrey-Hepburn
 - nothing
 - is

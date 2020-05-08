@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The best way to escape from a problem is to solve it.
 date: '2011-06-10T17:51:24+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Alan-Saporta
 - best-way
 - escape

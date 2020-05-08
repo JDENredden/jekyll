@@ -5,7 +5,7 @@ title: The paradox of education is precisely this - that as one begins to become
   one begins to examine the society in which he is being educated.
 date: '2013-01-29T15:11:39+10:30'
 hidden: true
-tags:
+hidden-tags:
 - James-A.-Baldwin
 - the
 - paradox

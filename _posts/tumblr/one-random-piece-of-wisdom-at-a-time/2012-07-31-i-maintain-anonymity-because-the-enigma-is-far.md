@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I maintain anonymity because the enigma is far more intriguing than the known
 date: '2012-07-31T16:38:39+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jimmy-P.-Hopton
 - i
 - maintain

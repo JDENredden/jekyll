@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Deceiving others. That is what the world calls a romance.
 date: '2012-05-14T17:31:39+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - deceiving
 - others

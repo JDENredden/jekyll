@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I’m far from being God, but I work God damn hard.
 date: '2011-09-16T12:02:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jay-Z
 - im
 - far

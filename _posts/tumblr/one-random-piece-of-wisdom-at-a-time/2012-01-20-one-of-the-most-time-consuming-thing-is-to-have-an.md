@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: One of the most time-consuming thing is to have an enemy.
 date: '2012-01-20T23:02:49+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Eb-White
 - one
 - of

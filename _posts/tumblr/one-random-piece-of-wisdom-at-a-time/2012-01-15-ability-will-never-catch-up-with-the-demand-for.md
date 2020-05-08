@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Ability will never catch up with the demand for it.
 date: '2012-01-15T12:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Confucius
 - ability
 - will

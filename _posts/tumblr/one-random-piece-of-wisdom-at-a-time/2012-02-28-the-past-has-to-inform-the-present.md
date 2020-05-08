@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The past has to inform the present.
 date: '2012-02-28T22:17:30+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Turturro
 - the
 - past

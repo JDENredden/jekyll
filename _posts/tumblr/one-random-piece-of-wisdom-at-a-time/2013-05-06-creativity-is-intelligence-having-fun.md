@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Creativity is intelligence having fun.
 date: '2013-05-06T22:33:25+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - creativity
 - is

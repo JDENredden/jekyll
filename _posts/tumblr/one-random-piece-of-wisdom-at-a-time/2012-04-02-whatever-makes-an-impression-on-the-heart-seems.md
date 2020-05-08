@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Whatever makes an impression on the heart seems lovely in the eye.
 date: '2012-04-02T22:39:46+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Sa'Di
 - whatever
 - makes

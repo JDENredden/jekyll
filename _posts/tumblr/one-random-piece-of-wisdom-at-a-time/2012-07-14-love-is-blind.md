@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love is blind.
 date: '2012-07-14T17:44:15+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Geoffrey-Chaucer
 - love
 - is

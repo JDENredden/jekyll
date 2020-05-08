@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A word to the wise ain’t necessary - it’s the stupid ones that need the advice.
 date: '2012-09-11T23:46:02+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bill-Cosby
 - a
 - word

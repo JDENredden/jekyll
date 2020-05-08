@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Cinema is the most beautiful fraud in the world.
 date: '2012-11-29T20:26:02+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jean-Luc-Godard
 - cinema
 - is

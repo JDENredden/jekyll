@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Friendship is always a sweet responsibility, never an opportunity.
 date: '2013-09-09T23:35:17+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Khalil-Gibran
 - friendship
 - is

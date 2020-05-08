@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Never play cards with a man named Doc.
 date: '2012-04-27T23:04:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Nelson-Algren
 - never
 - play

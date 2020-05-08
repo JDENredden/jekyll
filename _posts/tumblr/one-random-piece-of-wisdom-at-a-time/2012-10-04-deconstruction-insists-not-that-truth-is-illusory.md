@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Deconstruction insists not that truth is illusory but that it is institutional.
 date: '2012-10-04T23:02:48+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Terry-Eagleton
 - deconstruction
 - insists

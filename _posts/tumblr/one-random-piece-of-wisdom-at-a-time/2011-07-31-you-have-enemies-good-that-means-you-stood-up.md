@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You have enemies? Good, that means you stood up for something.
 date: '2011-07-31T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eminem
 - you
 - have

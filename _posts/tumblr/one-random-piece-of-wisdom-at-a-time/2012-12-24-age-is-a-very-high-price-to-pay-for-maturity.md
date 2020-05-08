@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Age is a very high price to pay for maturity.
 date: '2012-12-24T11:37:01+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Tom-Stoppard
 - age
 - is

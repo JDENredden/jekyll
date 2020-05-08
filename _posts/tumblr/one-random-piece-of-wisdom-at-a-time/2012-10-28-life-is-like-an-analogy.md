@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life is like an analogy.
 date: '2012-10-28T00:17:26+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Aaron-Allston
 - life
 - is

@@ -5,7 +5,7 @@ title: We keep moving forward, opening new doors, and doing new things, because 
   curious and curiosity keeps leading us down new paths
 date: '2011-10-07T16:08:26+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Walt-Disney
 - we
 - keep

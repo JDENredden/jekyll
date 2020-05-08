@@ -5,7 +5,7 @@ title: My life is just a series of embarrassing incidents strung together by tel
   people about those embarrassing incidents.
 date: '2012-05-09T12:01:31+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Russell-Brand
 - my
 - life

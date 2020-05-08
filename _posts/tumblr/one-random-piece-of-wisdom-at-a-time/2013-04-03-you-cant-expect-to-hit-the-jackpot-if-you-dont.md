@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You can’t expect to hit the jackpot if you don’t put a few nickels in the machine.
 date: '2013-04-03T22:49:08+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Flip-Wilson
 - you
 - cant

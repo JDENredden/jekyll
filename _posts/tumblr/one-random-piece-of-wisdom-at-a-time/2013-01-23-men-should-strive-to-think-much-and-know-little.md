@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Men should strive to think much and know little.
 date: '2013-01-23T15:39:21+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Democritus
 - men
 - should

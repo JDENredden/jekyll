@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Your heart’s desire is to be told some mystery.
 date: '2011-11-23T12:56:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Cormac-McCarthy
 - your
 - hearts

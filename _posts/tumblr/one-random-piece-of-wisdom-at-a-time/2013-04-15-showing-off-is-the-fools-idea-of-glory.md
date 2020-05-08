@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Showing off is the fool’s idea of glory.
 date: '2013-04-15T22:20:58+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bruce-Lee
 - showing
 - 'off'

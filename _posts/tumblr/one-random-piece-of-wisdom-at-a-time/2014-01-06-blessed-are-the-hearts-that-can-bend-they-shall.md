@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Blessed are the hearts that can bend; they shall never be broken.
 date: '2014-01-06T23:41:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Camus
 - blessed
 - are

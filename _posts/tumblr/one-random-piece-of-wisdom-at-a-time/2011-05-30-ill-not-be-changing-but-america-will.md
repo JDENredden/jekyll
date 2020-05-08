@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I’ll not be changing, but America will.
 date: '2011-05-30T22:46:42+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Russell-Brand
 - quote
 - america

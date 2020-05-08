@@ -5,7 +5,7 @@ title: Seduction is about intelligence and wit. Someone who makes me laugh has e
   chance to seduce me.
 date: '2012-12-15T20:01:39+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Riccardo-Tisci
 - seduction
 - is

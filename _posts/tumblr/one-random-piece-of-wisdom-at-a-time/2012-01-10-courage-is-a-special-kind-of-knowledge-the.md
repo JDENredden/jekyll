@@ -5,7 +5,7 @@ title: 'Courage is a special kind of knowledge: the knowledge of how to fear wha
   ought to be feared and how not to fear what ought not to be feared.'
 date: '2012-01-10T12:02:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - David-Ben-Gurion
 - courage
 - is

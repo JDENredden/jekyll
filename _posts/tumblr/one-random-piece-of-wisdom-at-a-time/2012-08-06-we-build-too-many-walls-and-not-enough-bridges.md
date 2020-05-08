@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We build too many walls and not enough bridges.
 date: '2012-08-06T11:47:20+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Sir-Isaac-Newton
 - Isaac-Newton
 - we

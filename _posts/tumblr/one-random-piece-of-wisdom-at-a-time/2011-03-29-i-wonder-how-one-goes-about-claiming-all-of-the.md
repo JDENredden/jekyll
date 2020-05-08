@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I wonder how one goes about claiming all of the ‘Unknown Author’ quotes.
 date: '2011-03-29T21:43:54+10:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - irony
 - claiming

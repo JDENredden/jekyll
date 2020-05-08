@@ -5,7 +5,7 @@ title: The fear of death follows from the fear of life. A man who lives fully is
   to die at any time.
 date: '2013-08-16T20:22:21+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mark-Twain
 - the
 - fear

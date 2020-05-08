@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Failure is the key to success; each mistake teaches us something.
 date: '2012-09-08T20:55:32+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Morihei-Ueshiba
 - failure
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Go to Heaven for the climate, Hell for the company.
 date: '2014-01-09T19:07:35+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mark-Twain
 - go
 - to

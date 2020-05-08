@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To die will be an awfully big adventure.
 date: '2011-08-24T20:07:46+09:30'
 hidden: true
-tags:
+hidden-tags:
 - James-M.-Barrie
 - to
 - die

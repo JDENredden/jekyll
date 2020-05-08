@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Words can inspire.
 date: '2011-10-31T12:00:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Barrack-Obama
 - words
 - can

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: People inspire you, or they drain you — pick them wisely.
 date: '2013-02-01T20:14:52+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Hans-F.-Hansen
 - people
 - inspire

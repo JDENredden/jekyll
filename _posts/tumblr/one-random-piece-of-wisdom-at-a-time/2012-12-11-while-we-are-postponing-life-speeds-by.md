@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: While we are postponing, life speeds by.
 date: '2012-12-11T20:06:12+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Lucius-Annaeus-Seneca
 - while
 - we

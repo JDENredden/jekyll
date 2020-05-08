@@ -5,7 +5,7 @@ title: Because the people who are crazy enough to think they can change the worl
   are the ones who do.
 date: '2011-10-06T14:02:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - RIP
 - Steve-Jobs
 - ""

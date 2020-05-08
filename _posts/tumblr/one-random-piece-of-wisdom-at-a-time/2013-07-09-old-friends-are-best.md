@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Old friends are best.
 date: '2013-07-09T22:59:58+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Selden
 - old
 - friends

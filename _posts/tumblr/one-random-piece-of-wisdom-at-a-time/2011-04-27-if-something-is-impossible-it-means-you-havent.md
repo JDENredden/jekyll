@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If something is impossible, it means you haven’t tried hard enough.
 date: '2011-04-27T12:05:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - impossible
 - something

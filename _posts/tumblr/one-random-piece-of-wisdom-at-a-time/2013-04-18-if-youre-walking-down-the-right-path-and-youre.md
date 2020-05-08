@@ -5,7 +5,7 @@ title: If you’re walking down the right path and you’re willing to keep walk
   you’ll make progress.
 date: '2013-04-18T00:03:32+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Barack-Obama
 - if
 - youre

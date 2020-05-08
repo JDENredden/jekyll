@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Politics is the art of postponing decisions until they are no longer relevant.
 date: '2011-08-08T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Henri-Queuille
 - politics
 - is

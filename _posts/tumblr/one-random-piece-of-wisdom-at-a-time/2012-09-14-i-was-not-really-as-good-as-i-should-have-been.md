@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I was not really as good as I should have been.
 date: '2012-09-14T22:08:24+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eddie-Albert
 - i
 - was

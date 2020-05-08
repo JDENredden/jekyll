@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A man is not old until regrets take the place of dreams.
 date: '2011-12-15T12:15:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Barrymore
 - a
 - man

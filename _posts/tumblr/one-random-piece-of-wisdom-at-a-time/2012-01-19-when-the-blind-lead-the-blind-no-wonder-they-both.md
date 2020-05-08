@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When the blind lead the blind, no wonder they both fall into - matrimony.
 date: '2012-01-19T12:03:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - George-Farquhar
 - when
 - the

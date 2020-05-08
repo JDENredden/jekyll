@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s easier to ask for forgiveness than it is to get permission
 date: '2011-04-03T20:35:38+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Grace-Hopper
 - easier
 - forgiveness

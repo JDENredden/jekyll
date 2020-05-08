@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Curiosity is the lust of the mind.
 date: '2011-05-16T17:35:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Hobbes
 - curiosity
 - lust

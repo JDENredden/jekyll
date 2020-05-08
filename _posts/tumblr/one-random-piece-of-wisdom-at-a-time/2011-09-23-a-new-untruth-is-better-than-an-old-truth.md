@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A new untruth is better than an old truth.
 date: '2011-09-23T19:45:10+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oliver-Wendell-Holmes
 - a
 - new

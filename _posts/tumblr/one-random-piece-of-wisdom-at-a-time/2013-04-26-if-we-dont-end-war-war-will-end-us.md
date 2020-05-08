@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If we don’t end war, war will end us.
 date: '2013-04-26T23:34:48+09:30'
 hidden: true
-tags:
+hidden-tags:
 - H.-G.-Wells
 - if
 - we

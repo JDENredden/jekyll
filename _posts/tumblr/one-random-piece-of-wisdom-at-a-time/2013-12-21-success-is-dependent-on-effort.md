@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Success is dependent on effort.
 date: '2013-12-21T21:28:32+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Sophocles
 - success
 - is

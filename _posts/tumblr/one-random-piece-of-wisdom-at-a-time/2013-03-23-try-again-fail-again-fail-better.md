@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Try again. Fail again. Fail better.
 date: '2013-03-23T23:03:03+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Samuel-Beckett
 - try
 - again

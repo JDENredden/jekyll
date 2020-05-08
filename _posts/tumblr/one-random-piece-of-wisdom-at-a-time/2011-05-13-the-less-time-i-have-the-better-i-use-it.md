@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The less time I have, the better I use it.
 date: '2011-05-13T17:35:41+09:30'
 hidden: true
-tags:
+hidden-tags:
 - time
 - less
 - better

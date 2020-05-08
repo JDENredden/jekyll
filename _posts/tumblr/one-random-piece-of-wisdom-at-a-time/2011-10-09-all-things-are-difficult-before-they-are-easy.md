@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All things are difficult before they are easy.
 date: '2011-10-09T21:42:29+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Fuller
 - all
 - things

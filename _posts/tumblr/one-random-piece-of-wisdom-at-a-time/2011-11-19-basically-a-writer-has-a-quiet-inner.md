@@ -5,7 +5,7 @@ title: Basically, a writer has a quiet, inner motivation, and doesn’t seek val
   in the outwardly visible.
 date: '2011-11-19T12:37:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Haruki-Murakami
 - basically
 - a

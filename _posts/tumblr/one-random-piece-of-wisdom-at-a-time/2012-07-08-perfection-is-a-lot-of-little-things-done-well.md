@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Perfection is a lot of little things done well.
 date: '2012-07-08T18:22:45+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Marco-Pierre-White
 - perfection
 - is

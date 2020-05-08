@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A fool flatters himself, a wise man flatters the fool.
 date: '2013-08-10T23:43:16+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Edward-G.-Bulwer-Lytton
 - a
 - fool

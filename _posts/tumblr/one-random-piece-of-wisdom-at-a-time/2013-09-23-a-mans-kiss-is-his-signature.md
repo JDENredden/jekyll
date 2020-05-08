@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A man’s kiss is his signature.
 date: '2013-09-23T01:05:46+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mae-West
 - a
 - mans

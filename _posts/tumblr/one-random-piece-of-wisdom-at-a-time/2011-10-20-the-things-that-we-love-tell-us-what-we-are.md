@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The things that we love tell us what we are.
 date: '2011-10-20T20:48:17+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Aquinas
 - the
 - things

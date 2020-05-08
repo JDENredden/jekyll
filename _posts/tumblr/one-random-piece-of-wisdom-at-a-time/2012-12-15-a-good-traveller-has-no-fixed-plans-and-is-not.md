@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A good traveller has no fixed plans, and is not intent on arriving.
 date: '2012-12-15T23:20:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Lao-Tzu
 - a
 - good

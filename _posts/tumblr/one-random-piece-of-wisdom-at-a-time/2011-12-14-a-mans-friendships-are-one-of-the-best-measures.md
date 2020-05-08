@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A man’s friendships are one of the best measures of his worth.
 date: '2011-12-14T12:20:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-Darwin
 - a
 - mans

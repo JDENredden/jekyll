@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Only a life lived for others is a life worthwhile.
 date: '2013-10-21T00:01:38+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - only
 - a

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Difficulties are just things to overcome, after all.
 date: '2013-09-26T23:48:04+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ernest-Shackleton
 - difficulties
 - are

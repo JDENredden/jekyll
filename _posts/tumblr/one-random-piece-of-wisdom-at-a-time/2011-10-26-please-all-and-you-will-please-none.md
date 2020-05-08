@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Please all, and you will please none.
 date: '2011-10-26T19:11:55+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Aesop
 - please
 - all

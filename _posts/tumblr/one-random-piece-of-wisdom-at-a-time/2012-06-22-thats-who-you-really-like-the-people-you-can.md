@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: That’s who you really like. The people you can think out loud in front of.
 date: '2012-06-22T11:57:01+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Green
 - thats
 - who

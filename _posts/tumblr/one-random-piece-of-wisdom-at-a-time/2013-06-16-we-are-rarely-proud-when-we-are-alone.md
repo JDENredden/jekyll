@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We are rarely proud when we are alone.
 date: '2013-06-16T12:00:42+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Voltaire
 - we
 - are

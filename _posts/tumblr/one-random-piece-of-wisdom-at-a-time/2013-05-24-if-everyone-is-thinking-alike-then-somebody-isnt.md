@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If everyone is thinking alike, then somebody isn’t thinking.
 date: '2013-05-24T01:23:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - George-S.-Patton
 - if
 - everyone

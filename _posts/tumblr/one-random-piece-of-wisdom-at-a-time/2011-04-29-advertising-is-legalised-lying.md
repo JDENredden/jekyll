@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Advertising is legalised lying.
 date: '2011-04-29T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - H.-G.-Wells
 - advertising
 - legalised

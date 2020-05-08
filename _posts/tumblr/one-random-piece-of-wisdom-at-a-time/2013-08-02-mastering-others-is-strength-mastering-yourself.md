@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Mastering others is strength. Mastering yourself is true power.
 date: '2013-08-02T15:43:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lao-Tzu
 - mastering
 - others

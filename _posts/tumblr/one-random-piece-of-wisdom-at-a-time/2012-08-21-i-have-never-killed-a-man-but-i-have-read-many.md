@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I have never killed a man, but I have read many obituaries with great pleasure.
 date: '2012-08-21T20:43:24+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Clarence-Darrow
 - i
 - have

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nothing to do with anything, something to do with everything.
 date: '2012-11-20T18:35:57+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Eric-San
 - nothing
 - to

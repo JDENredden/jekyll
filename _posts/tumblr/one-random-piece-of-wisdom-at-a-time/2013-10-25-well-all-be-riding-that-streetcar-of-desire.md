@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We’ll all be riding that streetcar of desire.
 date: '2013-10-25T22:50:23+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-J.-Dole
 - well
 - all

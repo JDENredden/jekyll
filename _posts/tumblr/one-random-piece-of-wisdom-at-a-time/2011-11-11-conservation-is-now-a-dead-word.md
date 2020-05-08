@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Conservation is now a dead word.
 date: '2011-11-11T22:07:03+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Marjory-Stoneman-Douglas
 - conservation
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Perspective is worth 80 IQ points.
 date: '2012-09-28T20:39:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Alan-Kay
 - perspective
 - is

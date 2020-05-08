@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The glow of one warm thought is to me worth more than money.
 date: '2013-09-09T23:34:37+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Jefferson
 - the
 - glow

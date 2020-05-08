@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t care about money. I really don’t care. I just want to do what I do.
 date: '2012-03-30T21:52:50+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Galliano
 - I
 - don't

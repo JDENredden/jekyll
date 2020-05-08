@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To be is to be the value of a variable.
 date: '2012-05-25T12:02:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - W.V.O.-Quine
 - to
 - be

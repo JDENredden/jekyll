@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Touch seems to be as essential as sunlight.
 date: '2013-09-13T16:01:40+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Diane-Ackerman
 - touch
 - seems

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A jug fills drop by drop.
 date: '2012-02-13T12:01:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Buddha
 - a
 - jug

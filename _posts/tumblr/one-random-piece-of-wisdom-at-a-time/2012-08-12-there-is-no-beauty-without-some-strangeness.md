@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: There is no beauty without some strangeness.
 date: '2012-08-12T19:02:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Edgar-Allan-Poe
 - there
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Ah, women. They make the highs higher and the lows more frequent.
 date: '2013-11-11T22:58:52+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Friedrich-Nietzsche
 - ah
 - women

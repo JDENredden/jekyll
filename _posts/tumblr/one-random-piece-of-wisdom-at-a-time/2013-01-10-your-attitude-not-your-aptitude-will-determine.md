@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Your attitude, not your aptitude, will determine your altitude.
 date: '2013-01-10T09:54:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Zig-Ziglar
 - your
 - attitue

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Roses are red, violets are blue, I’m schizophrenic, and so am I.
 date: '2012-09-20T23:10:26+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Levant
 - roses
 - are

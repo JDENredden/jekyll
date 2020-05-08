@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It matters if you just don’t give up.
 date: '2011-06-01T15:29:58+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Stephen-W.-Hawking
 - giving-up
 - matters

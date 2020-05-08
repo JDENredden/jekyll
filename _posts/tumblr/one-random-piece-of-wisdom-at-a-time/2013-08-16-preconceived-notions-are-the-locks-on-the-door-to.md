@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Preconceived notions are the locks on the door to wisdom.
 date: '2013-08-16T20:19:09+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mary-Browne
 - preconceived
 - notions

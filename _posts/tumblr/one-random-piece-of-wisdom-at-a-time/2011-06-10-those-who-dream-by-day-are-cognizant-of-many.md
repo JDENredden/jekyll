@@ -5,7 +5,7 @@ title: Those who dream by day are cognizant of many things which escape those wh
   dream only by night.
 date: '2011-06-10T17:45:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Edgar-Allan-Poe
 - are
 - cognizant

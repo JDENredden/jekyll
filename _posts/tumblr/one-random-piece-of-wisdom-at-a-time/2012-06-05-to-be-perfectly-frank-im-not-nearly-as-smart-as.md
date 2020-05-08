@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To be perfectly frank, I’m not nearly as smart as you seem to think I am.
 date: '2012-06-05T11:57:37+09:30'
 hidden: true
-tags:
+hidden-tags:
 - W.B.-Park
 - to
 - be

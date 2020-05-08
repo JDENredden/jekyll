@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We do not judge the people we love.
 date: '2011-04-05T20:11:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jean-Paul-Sartre
 - do-not
 - judge

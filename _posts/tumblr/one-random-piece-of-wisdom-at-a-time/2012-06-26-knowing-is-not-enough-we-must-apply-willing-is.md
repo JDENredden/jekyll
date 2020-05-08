@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Knowing is not enough; we must apply. Willing is not enough; we must do.
 date: '2012-06-26T11:58:03+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Johann-Wolfgang-von-Goethe
 - knowing
 - is

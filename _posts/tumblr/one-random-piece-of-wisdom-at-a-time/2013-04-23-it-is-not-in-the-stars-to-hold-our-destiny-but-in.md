@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It is not in the stars to hold our destiny but in ourselves.
 date: '2013-04-23T16:49:14+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Shakespeare
 - it
 - is

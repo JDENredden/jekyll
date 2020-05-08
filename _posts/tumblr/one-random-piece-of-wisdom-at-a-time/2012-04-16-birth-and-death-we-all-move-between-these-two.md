@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Birth and death; we all move between these two unknowns.
 date: '2012-04-16T21:51:13+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bryant-H.-McGill
 - birth
 - and

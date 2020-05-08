@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: People are often afraid of things that sound new.
 date: '2014-01-29T00:09:34+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Bangalter
 - Daft-Punk
 - people

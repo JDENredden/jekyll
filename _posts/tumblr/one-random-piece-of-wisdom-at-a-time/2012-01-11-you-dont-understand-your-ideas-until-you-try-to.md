@@ -5,7 +5,7 @@ title: You dont understand your ideas until you try to articulate them to someon
   else.
 date: '2012-01-11T12:01:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Brian-Eno
 - you
 - dont

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A friend to all is a friend to none.
 date: '2011-04-17T16:43:23+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Aristotle
 - friend
 - to-all

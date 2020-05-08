@@ -5,7 +5,7 @@ title: If the Army helped towards my tuition fees I would then give them four ye
   of my life.
 date: '2011-05-28T18:26:39+09:30'
 hidden: true
-tags:
+hidden-tags:
 - James-Blunt
 - army
 - quote

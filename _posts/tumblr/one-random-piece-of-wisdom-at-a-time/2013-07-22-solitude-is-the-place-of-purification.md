@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Solitude is the place of purification.
 date: '2013-07-22T23:59:49+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Martin-Buber
 - solitude
 - is

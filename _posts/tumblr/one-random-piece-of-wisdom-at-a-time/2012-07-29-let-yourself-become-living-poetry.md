@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Let yourself become living poetry.
 date: '2012-07-29T23:27:18+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Rumi
 - let
 - yourself

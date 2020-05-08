@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t give up. Don’t ever give up.
 date: '2012-02-23T19:54:25+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jim-Valvano
 - dont
 - give

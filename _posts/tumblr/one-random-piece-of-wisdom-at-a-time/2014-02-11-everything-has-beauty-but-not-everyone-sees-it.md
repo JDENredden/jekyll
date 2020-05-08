@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Everything has beauty, but not everyone sees it.
 date: '2014-02-11T18:40:08+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Confucius
 - everything
 - has

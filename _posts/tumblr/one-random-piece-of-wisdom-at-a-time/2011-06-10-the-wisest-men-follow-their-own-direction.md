@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The wisest men follow their own direction.
 date: '2011-06-10T17:43:36+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Euripides
 - wisest
 - men

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The best way to find out if you can trust somebody is to trust them.
 date: '2013-07-08T19:40:55+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ernest-Hemingway
 - the
 - best

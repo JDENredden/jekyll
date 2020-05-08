@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Believe you can and you’re halfway there.
 date: '2011-04-21T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Theodore-Roosevelt
 - quote
 - wisdom

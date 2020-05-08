@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Pain is inevitable, suffering is optional.
 date: '2012-05-10T12:02:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Buddhist-Proverb
 - pain
 - is

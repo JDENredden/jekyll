@@ -5,7 +5,7 @@ title: The world is a dangerous place to live; not because of the people who are
   but because of the people who don’t do anything about it.
 date: '2013-02-24T22:57:39+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - the
 - world

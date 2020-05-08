@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A poet is a professional maker of verbal objects.
 date: '2011-07-05T19:51:55+09:30'
 hidden: true
-tags:
+hidden-tags:
 - W.-H.-Auden
 - poet
 - poetry

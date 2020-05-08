@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I never change, I simply become more myself.
 date: '2012-06-29T11:57:17+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Joyce-Oates
 - i
 - never

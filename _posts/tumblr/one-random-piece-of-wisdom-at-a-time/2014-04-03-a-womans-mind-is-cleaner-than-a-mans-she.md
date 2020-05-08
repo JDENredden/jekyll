@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'A woman’s mind is cleaner than a man’s: She changes it more often.'
 date: '2014-04-03T00:36:08+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Oliver-Herford
 - a
 - womans

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I would rather die of passion than of boredom.
 date: '2012-06-14T11:57:31+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Vincent-van-Gogh
 - i
 - would

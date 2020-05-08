@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The only problem is time.
 date: '2011-12-17T12:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Seth-MacFarlane
 - the
 - only

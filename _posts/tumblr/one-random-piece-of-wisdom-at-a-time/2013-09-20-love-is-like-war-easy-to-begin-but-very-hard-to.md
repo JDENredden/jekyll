@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'Love is like war: easy to begin but very hard to stop.'
 date: '2013-09-20T00:01:02+09:30'
 hidden: true
-tags:
+hidden-tags:
 - H.-L.-Mencken
 - love
 - is

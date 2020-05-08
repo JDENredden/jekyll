@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Come live in my heart, and pay no rent.
 date: '2013-04-03T22:49:40+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Samuel-Lover
 - come
 - live

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You have to make it look different to show you think different
 date: '2012-03-05T12:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Steve-Jobs
 - you
 - have

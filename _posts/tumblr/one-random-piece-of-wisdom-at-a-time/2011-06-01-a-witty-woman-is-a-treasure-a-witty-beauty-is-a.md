@@ -6,7 +6,7 @@ title: |-
   George Meredith
 date: '2011-06-01T15:30:56+09:30'
 hidden: true
-tags:
+hidden-tags:
 - George-Meredith
 - quote
 - wisdom

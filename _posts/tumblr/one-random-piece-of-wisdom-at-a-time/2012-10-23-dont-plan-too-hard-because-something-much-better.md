@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t plan too hard, because something much better might be out there.
 date: '2012-10-23T20:35:17+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Candy-Crowley
 - dont
 - plan

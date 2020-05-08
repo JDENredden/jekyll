@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Great and good are seldom the same man.
 date: '2013-06-14T14:53:22+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Winston-Churchill
 - great
 - and

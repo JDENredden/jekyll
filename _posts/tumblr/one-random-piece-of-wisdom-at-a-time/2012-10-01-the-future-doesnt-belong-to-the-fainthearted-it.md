@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The future doesn’t belong to the fainthearted; it belongs to the brave.
 date: '2012-10-01T12:40:02+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ronald-Reagan
 - president
 - the

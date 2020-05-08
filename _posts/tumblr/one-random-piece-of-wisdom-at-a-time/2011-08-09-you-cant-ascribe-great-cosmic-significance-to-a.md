@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You can’t ascribe great cosmic significance to a simple earthly event.
 date: '2011-08-09T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - "(500)-Days-of-Summer"
 - you
 - cant

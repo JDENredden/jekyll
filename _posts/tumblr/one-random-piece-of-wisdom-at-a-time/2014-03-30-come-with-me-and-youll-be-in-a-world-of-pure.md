@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Come with me and you’ll be in a world of pure imagination.
 date: '2014-03-30T21:54:31+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Willy-Wonka
 - come
 - with

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Why resist temptation? There will always be more.
 date: '2013-04-03T22:50:09+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Don-Herold
 - why
 - resist

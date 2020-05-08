@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Hell is full of musical amateurs.
 date: '2014-01-21T22:24:43+10:30'
 hidden: true
-tags:
+hidden-tags:
 - George-Bernard-Shaw
 - hell
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We do not mind establishing a long-term truce between us and you.
 date: '2012-04-08T17:16:28+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Osama-Bin-Laden
 - we
 - dont

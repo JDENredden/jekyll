@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All men by nature desire knowledge.
 date: '2011-06-10T17:53:45+09:30'
 hidden: true
-tags:
+hidden-tags:
 - all-men
 - people
 - by-nature

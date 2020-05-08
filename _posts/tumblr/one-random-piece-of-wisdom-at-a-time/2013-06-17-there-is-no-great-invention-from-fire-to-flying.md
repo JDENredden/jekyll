@@ -5,7 +5,7 @@ title: There is no great invention, from fire to flying, which has not been hail
   as an insult to some god.
 date: '2013-06-17T12:00:18+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-B.-S.-Haldane
 - there
 - is

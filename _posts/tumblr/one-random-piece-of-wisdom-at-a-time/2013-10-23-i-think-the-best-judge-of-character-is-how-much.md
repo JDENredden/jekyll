@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I think the best judge of character; is how much it changes.
 date: '2013-10-23T23:57:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Author-Unknown
 - i
 - think

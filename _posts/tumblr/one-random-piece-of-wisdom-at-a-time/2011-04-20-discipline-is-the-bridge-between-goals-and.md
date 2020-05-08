@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Discipline is the bridge between goals and accomplishment.
 date: '2011-04-20T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jim-Rohn
 - discipline
 - bridge

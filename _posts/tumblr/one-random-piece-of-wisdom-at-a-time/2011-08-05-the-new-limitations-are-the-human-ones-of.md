@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The new limitations are the human ones of perception.
 date: '2011-08-05T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Milton-Babbitt
 - the
 - new

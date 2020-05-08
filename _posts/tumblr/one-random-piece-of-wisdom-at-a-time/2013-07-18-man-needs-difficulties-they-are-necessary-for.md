@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Man needs difficulties; they are necessary for health.
 date: '2013-07-18T19:19:10+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Carl-Jung
 - man
 - needs

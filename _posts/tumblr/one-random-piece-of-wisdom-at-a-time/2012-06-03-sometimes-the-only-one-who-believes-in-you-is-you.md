@@ -5,7 +5,7 @@ title: Sometimes the only one who believes in you is you, and sometimes that’s
   you need.
 date: '2012-06-03T11:54:48+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Richard-Grimes
 - sometimes
 - the

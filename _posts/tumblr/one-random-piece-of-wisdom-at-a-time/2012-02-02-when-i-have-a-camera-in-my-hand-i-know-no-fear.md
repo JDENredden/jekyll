@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When I have a camera in my hand, I know no fear.
 date: '2012-02-02T16:41:11+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Alfred-Eisenstaed
 - when
 - i

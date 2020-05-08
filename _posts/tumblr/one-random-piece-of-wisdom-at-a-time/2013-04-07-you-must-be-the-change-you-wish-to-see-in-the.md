@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You must be the change you wish to see in the world.
 date: '2013-04-07T00:06:41+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mahatma-Gandhi
 - you
 - must

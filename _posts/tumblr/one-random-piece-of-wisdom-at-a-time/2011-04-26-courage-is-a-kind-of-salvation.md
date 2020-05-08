@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Courage is a kind of salvation.
 date: '2011-04-26T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Plato
 - courage
 - kind

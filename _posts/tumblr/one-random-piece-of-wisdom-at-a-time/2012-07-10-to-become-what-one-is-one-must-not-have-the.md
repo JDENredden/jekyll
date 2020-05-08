@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To become what one is, one must not have the faintest idea what one is.
 date: '2012-07-10T11:59:59+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Friedrich-Nietzsche
 - to
 - become

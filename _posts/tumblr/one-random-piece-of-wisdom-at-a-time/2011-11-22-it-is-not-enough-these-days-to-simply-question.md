@@ -5,7 +5,7 @@ title: It is not enough these days to simply question authority. You have to spe
   with it, too.
 date: '2011-11-22T22:47:15+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Taylor-Mali
 - it
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Despite everything, I believe that people are really good at heart.
 date: '2013-06-09T23:03:41+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Anne-Frank
 - despite
 - everything

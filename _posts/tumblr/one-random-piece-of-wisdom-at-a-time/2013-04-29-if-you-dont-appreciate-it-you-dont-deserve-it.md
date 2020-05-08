@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you don’t appreciate it, you don’t deserve it.
 date: '2013-04-29T22:58:43+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Terry-Josephson
 - if
 - you

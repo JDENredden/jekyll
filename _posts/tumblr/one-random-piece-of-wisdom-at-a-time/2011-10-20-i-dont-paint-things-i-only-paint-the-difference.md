@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t paint things. I only paint the difference between things.
 date: '2011-10-20T20:49:59+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Henri-Matisse
 - i
 - dont

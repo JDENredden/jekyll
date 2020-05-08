@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Having a great intellect is no path to being happy.
 date: '2011-03-27T12:15:33+10:30'
 hidden: true
-tags:
+hidden-tags:
 - stephen-fry
 - intellect
 - intelligence

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The computer is like a bicycle for our minds.
 date: '2012-01-08T12:09:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Steve-Jobs
 - the
 - computer

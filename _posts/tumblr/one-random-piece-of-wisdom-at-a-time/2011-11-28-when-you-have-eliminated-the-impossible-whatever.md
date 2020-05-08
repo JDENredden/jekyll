@@ -5,7 +5,7 @@ title: When you have eliminated the impossible, whatever remains, however improb
   must be the truth.
 date: '2011-11-28T12:58:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Sir-Arthur-Conan-Doyle
 - when
 - you

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: One could not pluck a flower without troubling a star.
 date: '2012-08-27T16:21:32+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Loren-Eiseley
 - one
 - could

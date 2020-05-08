@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A mother’s children are portraits of herself.
 date: '2011-07-15T23:53:14+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Author-Unknown
 - a
 - mother's

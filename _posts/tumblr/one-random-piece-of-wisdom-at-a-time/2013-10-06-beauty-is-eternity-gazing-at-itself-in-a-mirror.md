@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Beauty is eternity gazing at itself in a mirror.
 date: '2013-10-06T22:43:13+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Khalil-Gibran
 - beauty
 - is

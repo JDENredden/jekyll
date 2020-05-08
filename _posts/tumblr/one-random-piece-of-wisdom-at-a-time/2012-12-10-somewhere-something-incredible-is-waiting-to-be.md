@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Somewhere, something incredible is waiting to be known.
 date: '2012-12-10T11:46:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Carl-Sagan
 - somewhere
 - something

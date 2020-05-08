@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nostalgia for the present.
 date: '2012-07-04T11:58:34+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jorge-Luis-Borges
 - nostalgia
 - for

@@ -5,7 +5,7 @@ title: The truth is you don’t know what is going to happen tomorrow. Life is a
   ride, and nothing is guaranteed.
 date: '2013-07-27T00:41:45+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eminem
 - the
 - truth

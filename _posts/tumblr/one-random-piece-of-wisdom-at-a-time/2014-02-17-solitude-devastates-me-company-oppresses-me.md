@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Solitude devastates me, company oppresses me.
 date: '2014-02-17T16:27:24+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Fernando-Pessoa
 - solitude
 - devastates

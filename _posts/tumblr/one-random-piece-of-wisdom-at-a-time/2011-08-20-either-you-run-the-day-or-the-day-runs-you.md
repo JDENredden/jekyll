@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Either you run the day or the day runs you.
 date: '2011-08-20T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jim-Rohn
 - either
 - you

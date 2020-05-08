@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A person’s a person, no matter how small.
 date: '2014-03-14T21:01:52+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Dr.-Seuss
 - a
 - person's

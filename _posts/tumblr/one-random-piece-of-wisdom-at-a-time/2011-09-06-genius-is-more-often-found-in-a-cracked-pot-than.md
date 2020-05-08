@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Genius is more often found in a cracked pot than in a whole one.
 date: '2011-09-06T12:27:21+09:30'
 hidden: true
-tags:
+hidden-tags:
 - E.-B.-White
 - genius
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The time you enjoy wasting is not wasted time
 date: '2012-04-12T21:24:26+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bertrand-Russell
 - the
 - time

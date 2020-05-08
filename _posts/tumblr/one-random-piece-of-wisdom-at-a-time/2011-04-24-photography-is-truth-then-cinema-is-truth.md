@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Photography is truth. Then cinema is truth twenty-four times per second.
 date: '2011-04-24T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jean-Luc-Godard
 - cinema
 - photography

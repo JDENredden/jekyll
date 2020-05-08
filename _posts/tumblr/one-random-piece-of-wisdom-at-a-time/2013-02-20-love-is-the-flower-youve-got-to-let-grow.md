@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love is the flower you’ve got to let grow.
 date: '2013-02-20T11:30:22+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Lennon
 - love
 - is

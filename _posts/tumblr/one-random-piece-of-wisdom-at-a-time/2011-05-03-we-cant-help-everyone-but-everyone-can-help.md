@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We can’t help everyone, but everyone can help someone.
 date: '2011-05-03T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ronald-Reagan
 - helping
 - everyone

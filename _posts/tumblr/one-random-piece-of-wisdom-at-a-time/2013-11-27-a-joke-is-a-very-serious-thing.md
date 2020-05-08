@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A joke is a very serious thing.
 date: '2013-11-27T00:57:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Winston-Churchill
 - a
 - joke

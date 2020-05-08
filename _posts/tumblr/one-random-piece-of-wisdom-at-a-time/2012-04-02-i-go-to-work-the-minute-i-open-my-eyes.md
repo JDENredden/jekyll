@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I go to work the minute I open my eyes.
 date: '2012-04-02T22:36:16+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lynda-Barry
 - I
 - go

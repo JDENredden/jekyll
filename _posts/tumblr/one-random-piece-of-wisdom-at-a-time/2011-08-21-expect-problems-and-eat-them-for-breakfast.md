@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Expect problems and eat them for breakfast.
 date: '2011-08-21T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Alfred-A.-Montapert
 - expect
 - problems

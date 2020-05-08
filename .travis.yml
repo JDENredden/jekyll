@@ -7,7 +7,7 @@ before_deploy: pip install --user awscli
 deploy:
   provider: script
   skip_cleanup: true
-  script: ~/.local/bin/aws s3 sync --acl public-read --delete --size-only . s3://sos-ch-dk-2.exo.io --region=ch-dk-2
+  script: ~/.local/bin/aws s3 sync --endpoint-url https://sos-ch-dk-2.exo.io --acl public-read --delete --size-only . s3://jden-me --region=ch-dk-2
   on:
     branch: poole
 #deploy:

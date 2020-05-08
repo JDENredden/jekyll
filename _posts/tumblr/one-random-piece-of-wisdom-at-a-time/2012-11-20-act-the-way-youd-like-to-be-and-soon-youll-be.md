@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Act the way you’d like to be and soon you’ll be the way you act.
 date: '2012-11-20T18:37:52+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Leonard-Cohen
 - act
 - the

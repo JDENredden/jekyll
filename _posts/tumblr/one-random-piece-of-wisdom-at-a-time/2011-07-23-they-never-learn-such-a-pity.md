@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: They never learn. Such a pity.
 date: '2011-07-23T21:43:22+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lord-Voldemort
 - they
 - never

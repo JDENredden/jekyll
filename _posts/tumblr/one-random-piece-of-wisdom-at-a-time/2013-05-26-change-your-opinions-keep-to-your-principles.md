@@ -5,7 +5,7 @@ title: Change your opinions, keep to your principles; change your leaves, keep i
   your roots.
 date: '2013-05-26T18:18:08+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Victor-Hugo
 - change
 - your

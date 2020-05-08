@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t do drugs, I am drugs.
 date: '2011-08-12T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Salvador-Dali
 - i
 - dont

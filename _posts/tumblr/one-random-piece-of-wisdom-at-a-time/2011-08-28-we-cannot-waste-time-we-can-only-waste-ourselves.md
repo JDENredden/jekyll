@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We cannot waste time. We can only waste ourselves.
 date: '2011-08-28T12:07:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - George-Matthew-Adams
 - we
 - cannot

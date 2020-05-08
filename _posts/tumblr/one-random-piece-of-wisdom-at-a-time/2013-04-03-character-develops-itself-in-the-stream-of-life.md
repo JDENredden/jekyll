@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Character develops itself in the stream of life.
 date: '2013-04-03T22:53:49+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Johann-Wolfgang-von-Goethe
 - character
 - develops

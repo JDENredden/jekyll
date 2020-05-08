@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I ain’t a bit ashamed of anything.
 date: '2011-07-18T13:12:51+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Anthony-Trollope
 - i
 - aint

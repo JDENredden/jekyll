@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Immature artists imitate. Mature artists steal.
 date: '2013-01-16T17:27:13+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Lionel-Trilling
 - immature
 - artists

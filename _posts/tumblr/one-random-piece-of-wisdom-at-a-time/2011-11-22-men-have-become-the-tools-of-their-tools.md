@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Men have become the tools of their tools.
 date: '2011-11-22T13:00:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-David-Thoreau
 - men
 - have

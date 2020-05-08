@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A world is in danger, this planet is in great danger!
 date: '2011-08-11T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Sun-Ra
 - a
 - world

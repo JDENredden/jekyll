@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Man’s greatness lies in his power of thought.
 date: '2013-04-07T22:30:16+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Blaise-Pascal
 - mans
 - greatness

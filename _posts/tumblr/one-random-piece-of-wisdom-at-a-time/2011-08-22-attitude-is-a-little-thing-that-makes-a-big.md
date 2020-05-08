@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Attitude is a little thing that makes a big difference.
 date: '2011-08-22T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Winston-Churchill
 - attitude
 - is

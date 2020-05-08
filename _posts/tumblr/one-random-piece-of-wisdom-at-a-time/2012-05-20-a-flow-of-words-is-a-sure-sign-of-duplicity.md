@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A flow of words is a sure sign of duplicity.
 date: '2012-05-20T20:32:37+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Honore-De-Balzac
 - a
 - flow

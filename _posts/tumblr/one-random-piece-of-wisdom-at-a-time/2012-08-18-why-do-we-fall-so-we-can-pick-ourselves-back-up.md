@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Why do we fall? So we can pick ourselves back up.
 date: '2012-08-18T00:35:24+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Wayne
 - David-S.-Goyer
 - Christopher-Nolan

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Every culture is defined by its artists.
 date: '2011-12-27T16:46:31+10:30'
 hidden: true
-tags:
+hidden-tags:
 - David-Dory
 - every
 - culture

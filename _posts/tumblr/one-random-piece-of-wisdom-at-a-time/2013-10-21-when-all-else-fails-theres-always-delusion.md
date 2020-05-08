@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When all else fails there’s always delusion.
 date: '2013-10-21T00:00:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Conan-O'Brien
 - when
 - all

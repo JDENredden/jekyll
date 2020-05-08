@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I believe that fear of life brings a greater fear of death.
 date: '2011-10-02T14:21:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - David-Blaine
 - i
 - believe

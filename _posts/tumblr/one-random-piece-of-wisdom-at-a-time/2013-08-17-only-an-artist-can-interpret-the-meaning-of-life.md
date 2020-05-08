@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Only an artist can interpret the meaning of life.
 date: '2013-08-17T21:36:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Novalis
 - only
 - an

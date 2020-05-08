@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Only the educated are free.
 date: '2011-06-22T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Epictetus
 - only
 - the

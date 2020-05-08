@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You can run, but you’ll only die tired.
 date: '2011-11-18T12:02:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Boba-Fett
 - you
 - can

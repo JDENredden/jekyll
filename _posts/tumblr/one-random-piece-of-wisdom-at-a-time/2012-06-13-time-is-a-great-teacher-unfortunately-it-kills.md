@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Time is a great teacher. Unfortunately, it kills all its pupils.
 date: '2012-06-13T11:57:59+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Hector-Berlioz
 - time
 - is

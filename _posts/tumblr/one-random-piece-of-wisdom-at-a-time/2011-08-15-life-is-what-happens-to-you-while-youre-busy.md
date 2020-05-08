@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life is what happens to you while you’re busy making other plans.
 date: '2011-08-15T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Lennon
 - life
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Absence from those we love is self from self - a deadly banishment.
 date: '2011-06-24T19:30:44+09:30'
 hidden: true
-tags:
+hidden-tags:
 - absence
 - from-those
 - we

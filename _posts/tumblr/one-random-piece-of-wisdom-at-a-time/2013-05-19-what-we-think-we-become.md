@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: What we think, we become.
 date: '2013-05-19T21:29:08+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Buddha
 - what
 - we

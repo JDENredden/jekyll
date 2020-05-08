@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It is not the answer that enlightens, but the question.
 date: '2012-12-21T12:32:15+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Eugene-Ionesco
 - it
 - is

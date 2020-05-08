@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Every moment of resistance to temptation is a victory.
 date: '2012-09-18T22:20:33+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Frederick-William-Faber
 - every
 - moment

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A play is fiction - and fiction is fact distilled into truth.
 date: '2012-12-05T20:51:28+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Edward-Albee
 - a
 - play

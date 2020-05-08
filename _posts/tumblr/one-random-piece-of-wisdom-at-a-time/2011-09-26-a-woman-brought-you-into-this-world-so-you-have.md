@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A woman brought you into this world, so you have no right to disrespect one.
 date: '2011-09-26T12:40:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Tupac-Shakur
 - a
 - women

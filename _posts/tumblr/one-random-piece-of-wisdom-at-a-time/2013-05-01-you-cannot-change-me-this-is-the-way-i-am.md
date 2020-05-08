@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You cannot change me; this is the way I am.
 date: '2013-05-01T22:45:24+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Marat-Safin
 - you
 - cannot

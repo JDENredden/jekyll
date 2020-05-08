@@ -5,7 +5,7 @@ title: My affections, being concentrated on a few people, are not spread all ove
   Hell in a vile attempt to placate sulky, worthless shits.
 date: '2012-07-03T11:53:35+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-S.-Burroughs
 - my
 - affections

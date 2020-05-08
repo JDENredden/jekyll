@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life without love is like a tree without blossoms or fruit.
 date: '2013-03-04T22:25:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Khalil-Gibran
 - life
 - without

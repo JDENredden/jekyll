@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Still waters run deep.
 date: '2012-06-19T11:54:42+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Latin-Proverb
 - still
 - water

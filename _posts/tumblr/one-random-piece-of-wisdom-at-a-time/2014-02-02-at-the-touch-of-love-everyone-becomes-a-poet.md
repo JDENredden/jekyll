@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: At the touch of love everyone becomes a poet.
 date: '2014-02-02T20:40:37+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Plato
 - at
 - the

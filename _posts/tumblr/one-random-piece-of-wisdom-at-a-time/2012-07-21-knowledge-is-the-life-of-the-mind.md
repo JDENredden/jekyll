@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Knowledge is the life of the mind.
 date: '2012-07-21T11:55:36+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Abu-Bakr
 - knowledge
 - is

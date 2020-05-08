@@ -5,7 +5,7 @@ title: 'There is only one god and his name is Death. And there is only one thing
   say to Death: “Not today”'
 date: '2012-05-30T05:56:57+09:30'
 hidden: true
-tags:
+hidden-tags:
 - George-R.-R.-Martin
 - there
 - is

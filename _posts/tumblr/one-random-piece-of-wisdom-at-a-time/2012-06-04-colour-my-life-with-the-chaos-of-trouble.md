@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Colour my life with the chaos of trouble.
 date: '2012-06-04T11:50:18+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Belle-and-Sebastian
 - colour
 - my

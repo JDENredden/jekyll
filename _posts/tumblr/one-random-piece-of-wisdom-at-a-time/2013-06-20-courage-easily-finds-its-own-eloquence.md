@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Courage easily finds its own eloquence.
 date: '2013-06-20T12:00:42+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Plautus
 - courage
 - easily

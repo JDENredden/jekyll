@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t want to be alone, I want to be left alone.
 date: '2012-05-06T23:10:19+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Audrey-Hepburn
 - I
 - dont

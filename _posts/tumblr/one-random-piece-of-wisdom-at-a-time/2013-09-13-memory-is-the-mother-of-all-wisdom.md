@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Memory is the mother of all wisdom.
 date: '2013-09-13T15:17:37+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Aeschylus
 - memory
 - is

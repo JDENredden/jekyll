@@ -6,7 +6,7 @@ title: The woman who follows the crowd will usually go no further than the crowd
   before.
 date: '2012-03-28T12:00:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - the
 - woman

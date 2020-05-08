@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The trust of the innocent is the liar’s most useful tool.
 date: '2013-02-20T11:32:31+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Stephen-King
 - the
 - trust

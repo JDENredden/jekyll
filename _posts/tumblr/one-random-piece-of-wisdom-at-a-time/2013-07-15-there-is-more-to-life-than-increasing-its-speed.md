@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: There is more to life than increasing its speed.
 date: '2013-07-15T22:47:11+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mahatma-Gandhi
 - there
 - is

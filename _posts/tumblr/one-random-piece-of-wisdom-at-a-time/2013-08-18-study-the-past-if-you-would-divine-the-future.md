@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Study the past, if you would divine the future.
 date: '2013-08-18T23:22:55+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Confucius
 - study
 - the

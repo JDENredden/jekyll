@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I promote my own self-hatred.
 date: '2013-10-14T00:38:03+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jonathan-Ames
 - i
 - promote

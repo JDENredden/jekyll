@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Patriotism is the virtue of the vicious.
 date: '2013-05-05T23:44:50+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - patriotism
 - is

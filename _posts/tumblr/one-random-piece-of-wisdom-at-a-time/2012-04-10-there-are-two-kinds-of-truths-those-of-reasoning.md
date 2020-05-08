@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'There are two kinds of truths: those of reasoning and those of fact.'
 date: '2012-04-10T22:24:18+09:30'
 hidden: true
-tags:
+hidden-tags:
 - G.-Wilhelm-Leibniz
 - there
 - are

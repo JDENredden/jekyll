@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Suicide is man’s way of telling God, ‘You can’t fire me - I quit.’
 date: '2014-01-15T01:02:59+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Bill-Maher
 - suicide
 - is

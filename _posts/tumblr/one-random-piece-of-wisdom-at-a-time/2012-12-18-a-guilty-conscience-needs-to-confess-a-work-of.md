@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A guilty conscience needs to confess. A work of art is a confession.
 date: '2012-12-18T23:18:08+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Camus
 - a
 - guilty

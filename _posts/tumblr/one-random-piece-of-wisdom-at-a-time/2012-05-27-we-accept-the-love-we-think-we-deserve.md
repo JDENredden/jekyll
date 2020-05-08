@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We accept the love we think we deserve.
 date: '2012-05-27T11:54:54+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Stephen-Chbosky
 - we
 - accept

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The only reason for time is so that everything doesn’t happen all at once.
 date: '2011-11-30T13:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - the
 - only

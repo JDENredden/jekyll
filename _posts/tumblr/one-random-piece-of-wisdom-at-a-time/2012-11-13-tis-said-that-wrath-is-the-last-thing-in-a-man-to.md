@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: "‘Tis said that wrath is the last thing in a man to grow old."
 date: '2012-11-13T23:14:37+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Alcaeus
 - tis
 - said

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: As usual, there is a great woman behind every idiot.
 date: '2013-04-23T22:37:45+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Lennon
 - as
 - usual

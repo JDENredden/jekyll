@@ -6,7 +6,7 @@ title: Life is a song - sing it. Life is a game - play it. Life is a challenge -
   enjoy it.
 date: '2013-07-30T23:02:34+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Sai-Baba
 - life
 - is

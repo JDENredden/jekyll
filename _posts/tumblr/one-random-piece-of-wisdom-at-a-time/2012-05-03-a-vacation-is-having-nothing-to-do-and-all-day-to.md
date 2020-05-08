@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A vacation is having nothing to do and all day to do it in.
 date: '2012-05-03T17:07:54+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Orben
 - a
 - vacation

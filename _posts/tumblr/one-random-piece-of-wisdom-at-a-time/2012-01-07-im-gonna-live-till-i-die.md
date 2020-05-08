@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I’m gonna live till I die.
 date: '2012-01-07T12:06:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Frank-Sinatra
 - im
 - gunna

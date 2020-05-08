@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'The first and great commandment is: Don’t let them scare you.'
 date: '2011-05-11T22:28:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Elmer-Davis
 - quote
 - wisdom

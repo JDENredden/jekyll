@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love means to commit yourself without guarantee.
 date: '2013-06-22T12:00:35+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Anne-Campbell
 - love
 - means

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t be proud of your ignorance.
 date: '2011-10-29T17:34:47+10:30'
 hidden: true
-tags:
+hidden-tags:
 - dont
 - be
 - proud

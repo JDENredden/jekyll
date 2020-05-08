@@ -5,7 +5,7 @@ title: A kiss is a lovely trick designed by nature to stop speech when words bec
   superfluous.
 date: '2011-04-25T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ingrid-Bergman
 - love
 - quote

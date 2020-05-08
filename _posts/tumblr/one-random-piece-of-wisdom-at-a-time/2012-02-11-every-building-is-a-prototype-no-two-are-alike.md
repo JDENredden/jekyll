@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Every building is a prototype. No two are alike.
 date: '2012-02-11T19:21:56+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Helmut-Jahn
 - every
 - building

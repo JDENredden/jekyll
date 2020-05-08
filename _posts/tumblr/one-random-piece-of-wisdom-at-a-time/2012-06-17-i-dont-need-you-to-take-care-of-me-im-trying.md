@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t need you to take care of me, I’m trying to take care of you.
 date: '2012-06-17T11:54:53+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Will-Reiser
 - 50/50
 - i

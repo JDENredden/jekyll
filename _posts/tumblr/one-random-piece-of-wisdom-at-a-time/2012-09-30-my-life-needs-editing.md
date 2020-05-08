@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: My life needs editing.
 date: '2012-09-30T22:44:34+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mort-Sahl
 - my
 - life

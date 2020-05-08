@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love is supreme and unconditional; like is nice but limited.
 date: '2013-12-29T23:04:26+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Duke-Ellington
 - love
 - is

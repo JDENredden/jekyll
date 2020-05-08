@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: In general, pride is at the bottom of all great mistakes.
 date: '2013-08-04T20:23:45+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Ruskin
 - in
 - general

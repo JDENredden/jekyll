@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Men shut their doors against a setting sun.
 date: '2013-10-03T00:31:29+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Shakespeare
 - men
 - shut

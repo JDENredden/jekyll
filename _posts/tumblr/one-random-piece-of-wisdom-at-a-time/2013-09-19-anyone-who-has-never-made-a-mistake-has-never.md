@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Anyone who has never made a mistake has never tried anything new.
 date: '2013-09-19T00:33:38+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - anyone
 - who

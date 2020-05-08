@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Art is born of the observation and investigation of nature.
 date: '2011-12-29T12:11:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Cicero
 - art
 - is

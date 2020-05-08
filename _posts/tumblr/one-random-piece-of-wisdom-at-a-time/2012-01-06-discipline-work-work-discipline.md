@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Discipline, work. Work, discipline.
 date: '2012-01-06T12:34:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Gustav-Mahler
 - discipline
 - work

@@ -5,7 +5,7 @@ title: If you tell people where to go, but not how to get there, you’ll be ama
   at the results.
 date: '2012-06-15T11:58:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - George-S.-Patton
 - if
 - you

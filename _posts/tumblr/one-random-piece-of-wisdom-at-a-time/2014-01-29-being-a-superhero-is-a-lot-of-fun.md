@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Being a superhero is a lot of fun.
 date: '2014-01-29T00:07:39+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Chris-Hemsworth
 - being
 - a

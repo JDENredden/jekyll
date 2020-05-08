@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The environment is everything that isn’t me.
 date: '2013-12-12T22:56:53+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - the
 - environment

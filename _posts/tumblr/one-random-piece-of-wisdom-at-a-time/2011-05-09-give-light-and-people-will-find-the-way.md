@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Give light and people will find the way.
 date: '2011-05-09T18:25:56+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ella-Baker
 - light
 - find

@@ -6,7 +6,7 @@ title: An invisible red thread connects those who are destined to meet, regardle
   break.
 date: '2012-06-16T11:59:02+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Chinese-Proverb
 - an
 - invisible

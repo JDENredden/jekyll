@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I make the impossible, possible, by making it impossible.
 date: '2011-06-14T23:23:16+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - impossible
 - possible

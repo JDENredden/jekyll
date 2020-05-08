@@ -5,7 +5,7 @@ title: Nothing is more paralysing than the idea of limitless possibilities. The 
   that you can do anything is absolutely terrifying.
 date: '2012-05-29T11:59:26+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Austin-Kleon
 - nothing
 - is

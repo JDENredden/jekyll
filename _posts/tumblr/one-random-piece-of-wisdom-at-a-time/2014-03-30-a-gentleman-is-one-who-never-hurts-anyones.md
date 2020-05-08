@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A gentleman is one who never hurts anyone’s feelings unintentionally.
 date: '2014-03-30T21:55:20+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - a
 - gentlemen

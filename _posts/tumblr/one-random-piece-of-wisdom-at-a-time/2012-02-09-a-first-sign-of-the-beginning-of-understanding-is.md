@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A first sign of the beginning of understanding is the wish to die.
 date: '2012-02-09T19:57:21+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Franz-Kafka
 - a
 - first

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Education is a progressive discovery of our own ignorance.
 date: '2013-04-10T23:02:45+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Will-Durant
 - education
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I know of no way of judging the future but by the past.
 date: '2013-06-23T12:00:42+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Patrick-Henry
 - i
 - know

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If misery loves company, misery has company enough.
 date: '2013-07-07T16:15:39+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-David-Thoreau
 - if
 - misery

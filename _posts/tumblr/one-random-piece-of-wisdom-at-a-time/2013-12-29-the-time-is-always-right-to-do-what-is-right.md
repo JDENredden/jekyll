@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The time is always right to do what is right.
 date: '2013-12-29T23:05:21+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Martin-Luther-King-Jr.
 - the
 - time

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Never be afraid to sit awhile and think.
 date: '2012-06-09T11:58:52+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lorraine-Hansberry
 - never
 - be

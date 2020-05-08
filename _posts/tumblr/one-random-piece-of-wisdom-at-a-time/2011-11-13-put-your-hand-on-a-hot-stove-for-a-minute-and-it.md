@@ -5,7 +5,7 @@ title: Put your hand on a hot stove for a minute, and it seems like an hour. Sit
   a pretty girl for an hour, and it seems like a minute. That’s relativity.
 date: '2011-11-13T21:48:01+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - put
 - your

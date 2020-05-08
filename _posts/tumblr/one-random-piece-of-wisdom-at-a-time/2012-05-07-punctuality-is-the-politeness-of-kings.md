@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Punctuality is the politeness of kings.
 date: '2012-05-07T23:01:24+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Louis-XVIII
 - punctuality
 - is

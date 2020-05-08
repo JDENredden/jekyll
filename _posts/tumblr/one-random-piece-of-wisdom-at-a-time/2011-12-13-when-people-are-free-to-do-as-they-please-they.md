@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When people are free to do as they please, they usually imitate each other.
 date: '2011-12-13T12:16:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Eric-Hoffer
 - when
 - people

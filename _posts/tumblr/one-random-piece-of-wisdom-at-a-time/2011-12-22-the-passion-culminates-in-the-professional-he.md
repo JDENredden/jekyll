@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: ‎"The passion culminates in the professional. He would rather play than eat.
 date: '2011-12-22T12:19:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - S.-W.-Erdnase
 - the
 - passion

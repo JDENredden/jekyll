@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Housework can’t kill you, but why take a chance?
 date: '2013-01-10T09:56:19+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Phyllis-Diller
 - housework
 - cant

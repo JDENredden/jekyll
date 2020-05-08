@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A fool thinks himself to be wise, but a wise man knows himself to be a fool.
 date: '2011-04-03T00:12:24+10:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Shakespeare
 - quote
 - wisdom

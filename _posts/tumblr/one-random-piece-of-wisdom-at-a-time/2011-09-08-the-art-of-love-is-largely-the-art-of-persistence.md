@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The art of love is largely the art of persistence.
 date: '2011-09-08T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Ellis
 - the
 - art

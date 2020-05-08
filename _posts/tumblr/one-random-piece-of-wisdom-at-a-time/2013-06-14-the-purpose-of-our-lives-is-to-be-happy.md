@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The purpose of our lives is to be happy.
 date: '2013-06-14T14:51:29+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Dalai-Lama
 - the
 - purpose

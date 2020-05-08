@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t let your happiness depend on something you may lose.
 date: '2012-02-14T12:01:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - C.S.-Lewis
 - dont
 - let

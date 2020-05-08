@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You may delay, but time will not.
 date: '2013-11-06T23:56:22+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Benjamin-Franklin
 - you
 - may

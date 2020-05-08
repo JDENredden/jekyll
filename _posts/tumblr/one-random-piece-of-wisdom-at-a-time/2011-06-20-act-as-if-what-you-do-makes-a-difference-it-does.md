@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Act as if what you do makes a difference. It does.
 date: '2011-06-20T13:00:38+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-James
 - act
 - as

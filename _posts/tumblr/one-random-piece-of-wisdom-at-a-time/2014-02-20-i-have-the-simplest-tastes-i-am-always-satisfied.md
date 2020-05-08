@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I have the simplest tastes. I am always satisfied with the best.
 date: '2014-02-20T23:03:53+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - i
 - have

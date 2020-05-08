@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The art of being wise is the art of knowing what to overlook.
 date: '2013-03-09T15:15:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - William-James
 - the
 - art

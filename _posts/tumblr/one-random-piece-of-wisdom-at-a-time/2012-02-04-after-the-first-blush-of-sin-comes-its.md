@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: After the first blush of sin comes its indifference.
 date: '2012-02-04T21:21:15+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-David-Thoreau
 - after
 - the

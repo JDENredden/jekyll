@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nothing in life is promised except death.
 date: '2014-01-25T20:56:16+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Kanye-West
 - nothing
 - in

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A man is already halfway in love with any woman who listens to him.
 date: '2011-05-02T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Brendan-Francis
 - man
 - halfway

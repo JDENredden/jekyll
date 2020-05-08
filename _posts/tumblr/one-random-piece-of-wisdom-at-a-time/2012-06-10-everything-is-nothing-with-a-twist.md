@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Everything is nothing with a twist.
 date: '2012-06-10T12:00:08+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Kurt-Vonnegut
 - everything
 - is

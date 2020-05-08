@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s not what you look at that matters, it’s what you see.
 date: '2013-11-16T19:41:02+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-David-Thoreau
 - its
 - not

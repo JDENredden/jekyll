@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Eloquence is a painting of the thoughts.
 date: '2011-08-27T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Blaise-Pascal
 - eloquence
 - is

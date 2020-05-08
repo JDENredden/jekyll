@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Ability is of little account without opportunity.
 date: '2012-03-04T21:35:54+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Lucille-Ball
 - abilty
 - is

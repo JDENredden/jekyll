@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We love the things we love for what they are.
 date: '2013-10-29T23:35:56+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Frost
 - we
 - love

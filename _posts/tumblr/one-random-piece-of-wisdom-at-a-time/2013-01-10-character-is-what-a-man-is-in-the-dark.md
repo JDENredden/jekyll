@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Character is what a man is in the dark.
 date: '2013-01-10T09:51:56+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Dwight-L.-Moody
 - character
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Put yourself on view. This brings your talents to light.
 date: '2011-06-05T20:16:11+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Baltasar-Gracian
 - put
 - yourself

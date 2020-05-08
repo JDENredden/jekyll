@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I have a fine sense of the ridiculous, but no sense of humor.
 date: '2012-12-06T09:52:34+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Edward-Albee
 - i
 - have

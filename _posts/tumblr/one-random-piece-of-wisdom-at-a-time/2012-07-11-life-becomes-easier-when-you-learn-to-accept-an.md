@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life becomes easier when you learn to accept an apology you never got.
 date: '2012-07-11T11:59:04+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Brault
 - life
 - becomes

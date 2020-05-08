@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The painter imitates nature, the magician imitates God.
 date: '2011-07-08T13:03:39+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Juan-Tamariz
 - painter
 - imitates

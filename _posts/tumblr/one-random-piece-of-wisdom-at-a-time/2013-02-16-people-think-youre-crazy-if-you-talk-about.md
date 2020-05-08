@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: People think you’re crazy if you talk about things they don’t understand.
 date: '2013-02-16T22:15:02+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Elvis-Presley
 - people
 - fhink

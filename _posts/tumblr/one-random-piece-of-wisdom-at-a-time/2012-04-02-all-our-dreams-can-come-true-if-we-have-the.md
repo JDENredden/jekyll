@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All our dreams can come true, if we have the courage to pursue them.
 date: '2012-04-02T22:37:48+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Walt-Disney
 - all
 - our

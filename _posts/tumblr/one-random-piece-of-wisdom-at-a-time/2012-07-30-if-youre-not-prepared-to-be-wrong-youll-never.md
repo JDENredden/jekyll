@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you’re not prepared to be wrong, you’ll never come up with anything original.
 date: '2012-07-30T16:32:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ken-Robinson
 - if
 - youre

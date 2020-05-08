@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s true hard work never killed anybody, but I figure, why take the chance?
 date: '2012-02-17T23:22:21+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ronald-Reagan
 - its
 - 'true'

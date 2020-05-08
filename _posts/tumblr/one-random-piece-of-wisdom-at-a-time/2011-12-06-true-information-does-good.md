@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: True information does good.
 date: '2011-12-06T13:05:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Julian-Assange
 - 'true'
 - information

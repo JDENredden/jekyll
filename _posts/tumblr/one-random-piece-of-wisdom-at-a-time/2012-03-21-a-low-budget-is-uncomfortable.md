@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A low budget is uncomfortable.
 date: '2012-03-21T21:14:31+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Lukas-Haas
 - a
 - low

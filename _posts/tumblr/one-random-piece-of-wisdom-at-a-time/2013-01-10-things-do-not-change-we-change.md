@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Things do not change; we change.
 date: '2013-01-10T09:55:33+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-David-Thoreau
 - things
 - do

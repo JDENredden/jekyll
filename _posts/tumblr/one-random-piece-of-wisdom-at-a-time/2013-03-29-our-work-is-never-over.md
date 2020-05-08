@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Our work is never over.
 date: '2013-03-29T21:32:37+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Daft-Punk
 - our
 - work

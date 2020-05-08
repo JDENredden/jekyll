@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The truth is, it’s ok to curate your life.
 date: '2012-01-09T12:34:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Matt-Gemmell
 - the
 - truth

@@ -6,7 +6,7 @@ title: I have a dream that my four little children will one day live in a nation
   character.
 date: '2011-11-03T12:01:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Martin-Luther-King,-Jr.
 - i
 - have

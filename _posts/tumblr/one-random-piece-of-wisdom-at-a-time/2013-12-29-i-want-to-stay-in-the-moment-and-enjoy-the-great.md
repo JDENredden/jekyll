@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I want to stay in the moment and enjoy the great things that are happening.
 date: '2013-12-29T23:11:20+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Katherine-Heigl
 - i
 - want

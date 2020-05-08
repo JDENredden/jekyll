@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: People are often afraid of things that sound new.
 date: '2012-11-22T19:51:23+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Bangalter
 - people
 - are

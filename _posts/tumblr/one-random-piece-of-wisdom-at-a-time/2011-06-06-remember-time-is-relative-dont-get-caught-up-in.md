@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Remember time is relative, don’t get caught up in it.
 date: '2011-06-06T23:14:03+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - time
 - relative

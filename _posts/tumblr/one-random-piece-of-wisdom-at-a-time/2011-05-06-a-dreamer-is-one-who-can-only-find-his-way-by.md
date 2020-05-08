@@ -5,7 +5,7 @@ title: A dreamer is one who can only find his way by moonlight, and his punishme
   is that he sees the dawn before the rest of the world.
 date: '2011-05-06T22:51:56+09:30'
 hidden: true
-tags:
+hidden-tags:
 - oscar-wilde
 - deams
 - dreamer

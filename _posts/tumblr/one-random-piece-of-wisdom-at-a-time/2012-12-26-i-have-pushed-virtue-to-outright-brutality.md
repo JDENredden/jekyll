@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I have pushed virtue to outright brutality.
 date: '2012-12-26T13:44:39+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jean-Racine
 - i
 - have

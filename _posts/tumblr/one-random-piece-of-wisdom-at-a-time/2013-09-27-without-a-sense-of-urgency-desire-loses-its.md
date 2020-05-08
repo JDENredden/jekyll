@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Without a sense of urgency, desire loses its value.
 date: '2013-09-27T23:04:08+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jim-Rohn
 - without
 - a

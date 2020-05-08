@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When dictatorship is a fact, revolution becomes a right.
 date: '2013-04-11T23:35:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Victor-Hugo
 - when
 - dictatorship

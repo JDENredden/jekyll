@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You must continue to gain expertise, but avoid thinking like an expert.
 date: '2011-08-29T12:05:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Denis-Waitley
 - you
 - must

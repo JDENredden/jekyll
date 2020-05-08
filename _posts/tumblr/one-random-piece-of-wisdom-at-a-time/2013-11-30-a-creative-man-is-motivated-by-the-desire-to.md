@@ -5,7 +5,7 @@ title: A creative man is motivated by the desire to achieve, not by the desire t
   beat others.
 date: '2013-11-30T23:52:50+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ayn-Rand
 - a
 - creative

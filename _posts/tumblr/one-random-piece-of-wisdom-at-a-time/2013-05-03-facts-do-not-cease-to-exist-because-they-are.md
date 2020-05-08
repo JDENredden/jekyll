@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Facts do not cease to exist because they are ignored.
 date: '2013-05-03T20:07:02+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Aldous-Huxley
 - facts
 - do

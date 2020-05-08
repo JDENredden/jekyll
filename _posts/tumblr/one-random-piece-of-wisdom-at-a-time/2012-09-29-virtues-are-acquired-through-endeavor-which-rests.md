@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Virtues are acquired through endeavor, which rests wholly upon yourself.
 date: '2012-09-29T20:00:33+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Sidney-Lanier
 - virtues
 - are

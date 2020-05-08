@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Be as you wish to seem.
 date: '2013-07-24T17:39:16+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Socrates
 - be
 - as

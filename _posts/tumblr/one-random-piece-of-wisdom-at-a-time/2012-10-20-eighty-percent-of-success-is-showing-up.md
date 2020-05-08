@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Eighty percent of success is showing up.
 date: '2012-10-20T21:46:36+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Woody-Allen
 - eighty
 - percent

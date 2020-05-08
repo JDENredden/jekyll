@@ -5,7 +5,7 @@ title: An optimist stays up until midnight to see the new year in. A pessimist s
   up to make sure the old year leaves.
 date: '2012-01-01T12:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Bill-Vaughn
 - an
 - optomist

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It is easier to build strong children than to repair broken men.
 date: '2013-08-29T23:03:54+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Frederick-Douglass
 - it
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The price of greatness is responsibility.
 date: '2012-02-06T12:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Winston-Churchill
 - the
 - price

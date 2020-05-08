@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Joy always came after pain.
 date: '2013-01-29T15:06:18+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Guillaume-Apollinaire
 - joy
 - always

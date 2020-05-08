@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Action is character.
 date: '2012-02-05T12:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - F.-Scott-Fitzgerald
 - action
 - is

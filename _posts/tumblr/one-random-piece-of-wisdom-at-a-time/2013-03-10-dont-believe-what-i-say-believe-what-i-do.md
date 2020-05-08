@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t believe what I say. Believe what I do.
 date: '2013-03-10T23:09:04+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Carlos-Ghosn
 - dont
 - believe

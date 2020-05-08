@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Greater love has no one than this, than to lay down one’s life for his friends.
 date: '2013-01-29T15:07:13+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-the-Apostle
 - greater
 - love

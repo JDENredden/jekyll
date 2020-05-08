@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Only the winners decide what were war crimes.
 date: '2011-10-05T12:47:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Gary-Wills
 - only
 - the

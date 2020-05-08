@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The love we give away is the only love we keep.
 date: '2012-12-16T22:20:43+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Elbert-Hubbard
 - the
 - love

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The only way to have a friend is to be one.
 date: '2011-10-20T20:47:02+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ralph-Waldo-Emerson
 - the
 - only

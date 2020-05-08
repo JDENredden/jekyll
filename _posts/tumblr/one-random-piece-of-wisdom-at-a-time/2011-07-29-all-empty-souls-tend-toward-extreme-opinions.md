@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All empty souls tend toward extreme opinions.
 date: '2011-07-29T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Butler-Yeats
 - all
 - empty

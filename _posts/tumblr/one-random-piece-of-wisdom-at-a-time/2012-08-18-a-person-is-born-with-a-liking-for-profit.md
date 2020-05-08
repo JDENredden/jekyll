@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A person is born with a liking for profit.
 date: '2012-08-18T22:31:32+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Xun-Zi
 - a
 - person

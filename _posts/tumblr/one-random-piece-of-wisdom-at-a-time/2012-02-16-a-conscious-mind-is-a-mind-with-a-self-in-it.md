@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A conscious mind is a mind with a self in it.
 date: '2012-02-16T17:59:26+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Antonio-Damasio
 - a
 - consious

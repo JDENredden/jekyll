@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Every action of our lives touches on some chord that will vibrate in eternity.
 date: '2012-03-30T21:55:39+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Sean-O'Casey
 - every
 - action

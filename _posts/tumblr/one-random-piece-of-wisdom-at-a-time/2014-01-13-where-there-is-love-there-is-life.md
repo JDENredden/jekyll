@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Where there is love there is life.
 date: '2014-01-13T15:00:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mahatma-Gandhi
 - where
 - there

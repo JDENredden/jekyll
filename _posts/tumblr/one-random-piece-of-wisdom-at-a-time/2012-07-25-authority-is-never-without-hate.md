@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Authority is never without hate.
 date: '2012-07-25T23:05:51+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Euripides
 - authority
 - is

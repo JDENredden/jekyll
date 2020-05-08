@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When you judge another, you do not define them, you define yourself.
 date: '2011-12-01T12:56:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Wayne-Dyer
 - when
 - you

@@ -5,7 +5,7 @@ title: If you want to tell people the truth, make them laugh, otherwise they’l
   you.
 date: '2011-12-12T12:11:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - if
 - you

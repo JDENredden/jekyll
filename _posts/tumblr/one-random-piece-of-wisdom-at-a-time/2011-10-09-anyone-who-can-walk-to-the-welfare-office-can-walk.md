@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Anyone who can walk to the welfare office can walk to work.
 date: '2011-10-09T21:43:20+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Al-Capp
 - anyone
 - who

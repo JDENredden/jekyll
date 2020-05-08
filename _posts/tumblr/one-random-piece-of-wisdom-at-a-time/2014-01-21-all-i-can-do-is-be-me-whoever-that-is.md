@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All I can do is be me, whoever that is.
 date: '2014-01-21T22:22:45+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Bob-Dylan
 - all
 - I

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Fortune brings in some boats that are not steered.
 date: '2012-09-22T20:54:23+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Shakespeare
 - fortune
 - brings

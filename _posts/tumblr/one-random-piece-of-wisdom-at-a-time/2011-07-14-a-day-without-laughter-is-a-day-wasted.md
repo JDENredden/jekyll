@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A day without laughter, is a day wasted.
 date: '2011-07-14T14:00:20+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Charlie-Chaplin
 - a
 - day

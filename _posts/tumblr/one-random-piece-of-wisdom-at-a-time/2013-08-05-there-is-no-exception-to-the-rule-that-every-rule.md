@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: There is no exception to the rule that every rule has an exception.
 date: '2013-08-05T23:43:51+09:30'
 hidden: true
-tags:
+hidden-tags:
 - James-Thurber
 - there
 - is

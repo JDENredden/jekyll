@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I trust everyone, it’s the devil inside them I dont trust.
 date: '2011-06-26T12:01:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bill-Clinton
 - trust
 - everyone

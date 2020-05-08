@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Maybe Christmas, the Grinch thought, doesn’t come from a store.
 date: '2013-12-12T22:56:15+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Dr.-Seuss
 - maybe
 - christmas

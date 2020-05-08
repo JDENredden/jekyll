@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A mistake is simply another way of doing things.
 date: '2012-07-24T13:03:09+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Katharine-Graham
 - a
 - mistake

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: In the absence of dreams, we don’t sleep.
 date: '2012-01-22T17:28:10+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Author-Unknown
 - in
 - the

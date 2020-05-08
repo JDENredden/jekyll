@@ -5,7 +5,7 @@ title: A wise man can learn more from a foolish question than a fool can learn f
   a wise answer.
 date: '2012-10-20T21:47:34+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Bruce-Lee
 - a
 - wise

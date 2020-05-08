@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: How people treat you is their karma; how you react is yours.
 date: '2013-08-04T20:21:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Wayne-Dyer
 - how
 - people

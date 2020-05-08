@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A day without sunshine is like, you know, night.
 date: '2014-03-20T00:15:19+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Steve-Martin
 - a
 - day

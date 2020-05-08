@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The best way to get over a woman is to turn her into literature.
 date: '2011-08-06T17:07:48+09:30'
 hidden: true
-tags:
+hidden-tags:
 - the
 - best
 - way

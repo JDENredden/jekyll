@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s very easy to be different, but very difficult to be better.
 date: '2012-07-07T22:19:33+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jonathan-Ive
 - its
 - very

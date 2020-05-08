@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The world is round so that friendship may encircle it.
 date: '2012-12-02T15:56:17+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Pierre-Teilhard-de-Chardin
 - the
 - world

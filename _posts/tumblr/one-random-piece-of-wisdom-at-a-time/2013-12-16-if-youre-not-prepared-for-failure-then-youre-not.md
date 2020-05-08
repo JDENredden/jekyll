@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you’re not prepared for failure then you’re not prepared to succeed.
 date: '2013-12-16T13:02:40+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Author-Unknown
 - if
 - youre

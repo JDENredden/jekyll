@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Man never made any material as resilient as the human spirit.
 date: '2011-06-30T19:02:27+09:30'
 hidden: true
-tags:
+hidden-tags:
 - man
 - never
 - made

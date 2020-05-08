@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Time does not heal all wounds. Time reveals all wounds for all their gore.
 date: '2013-08-26T23:08:08+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Author-Unknown
 - time
 - does

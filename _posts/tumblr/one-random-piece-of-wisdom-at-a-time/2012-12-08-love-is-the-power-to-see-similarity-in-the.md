@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love is the power to see similarity in the dissimilar.
 date: '2012-12-08T11:41:30+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Theodor-Adorno
 - love
 - is

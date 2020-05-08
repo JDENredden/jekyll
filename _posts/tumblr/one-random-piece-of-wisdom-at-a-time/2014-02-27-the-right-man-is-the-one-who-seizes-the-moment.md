@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The right man is the one who seizes the moment.
 date: '2014-02-27T01:09:56+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Johann-Wolfgang-von-Goethe
 - the
 - right

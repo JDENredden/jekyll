@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you’re going through hell, keep going.
 date: '2013-08-02T15:42:08+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Winston-Churchill
 - if
 - youre

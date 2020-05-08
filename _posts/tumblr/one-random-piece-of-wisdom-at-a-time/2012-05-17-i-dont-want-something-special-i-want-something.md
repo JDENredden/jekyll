@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t want something special. I want something beautifully plain.
 date: '2012-05-17T12:01:48+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Anne-Lamott
 - i
 - don't

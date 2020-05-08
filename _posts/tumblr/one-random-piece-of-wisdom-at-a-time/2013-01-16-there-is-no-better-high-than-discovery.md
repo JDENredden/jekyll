@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: There is no better high than discovery.
 date: '2013-01-16T17:33:20+10:30'
 hidden: true
-tags:
+hidden-tags:
 - E.-O.-Wilson
 - there
 - is

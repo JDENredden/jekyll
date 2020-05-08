@@ -5,7 +5,7 @@ title: That’s all it takes. One lonely, naive man desperate to show off, and a
   clever enough to make him feel special.
 date: '2012-07-02T12:01:04+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mycroft-Holmes
 - Michele-Mulroney
 - Kieran-Mulroney

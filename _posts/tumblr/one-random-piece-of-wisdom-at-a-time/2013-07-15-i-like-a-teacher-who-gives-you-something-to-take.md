@@ -5,7 +5,7 @@ title: I like a teacher who gives you something to take home to think about besi
   homework.
 date: '2013-07-15T22:46:37+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lily-Tomlin
 - i
 - like

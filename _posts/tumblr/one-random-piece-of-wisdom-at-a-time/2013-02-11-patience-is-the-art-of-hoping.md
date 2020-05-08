@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Patience is the art of hoping.
 date: '2013-02-11T00:40:45+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Luc-de-Clapiers
 - patience
 - is

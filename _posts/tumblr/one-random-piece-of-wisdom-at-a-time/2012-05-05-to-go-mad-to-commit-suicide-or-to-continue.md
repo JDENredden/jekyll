@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To go mad, to commit suicide or to continue?
 date: '2012-05-05T12:01:43+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-Bukowski
 - to
 - go

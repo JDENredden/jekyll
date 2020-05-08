@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: This is our time.
 date: '2012-11-07T17:42:12+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Barack-Obama
 - this
 - is

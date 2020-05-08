@@ -5,7 +5,7 @@ title: Not everybody is perfect, and I don’t think we should be looking for pe
   people.
 date: '2011-12-10T12:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Simon-Cowell
 - not
 - everybody

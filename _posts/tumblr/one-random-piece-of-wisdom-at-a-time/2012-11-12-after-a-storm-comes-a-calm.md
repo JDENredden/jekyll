@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: After a storm comes a calm.
 date: '2012-11-12T18:03:28+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Matthew-Henry
 - after
 - a

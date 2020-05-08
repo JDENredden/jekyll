@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t be a spectator, don’t let life pass you by.
 date: '2012-08-11T09:32:15+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lou-Holtz
 - dont
 - be

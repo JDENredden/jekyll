@@ -5,7 +5,7 @@ title: Great minds discuss great ideas. Average minds discuss events. Small mind
   discuss people.
 date: '2012-06-30T11:57:33+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eleanor-Roosevelt
 - great
 - Minds

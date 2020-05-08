@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Friends show their love in times of trouble, not in happiness.
 date: '2014-01-13T15:01:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Euripides
 - friends
 - show

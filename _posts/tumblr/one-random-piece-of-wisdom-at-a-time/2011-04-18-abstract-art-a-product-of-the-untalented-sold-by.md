@@ -5,7 +5,7 @@ title: 'Abstract art: a product of the untalented sold by the unprincipled to th
   utterly bewildered.'
 date: '2011-04-18T11:56:37+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Al-Capp
 - abstract-art
 - art

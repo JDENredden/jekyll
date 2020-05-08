@@ -5,7 +5,7 @@ title: It is incomprehensible that God should exist, and it is incomprehensible 
   he should not exist.
 date: '2013-06-30T00:16:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Blaise-Pascal
 - it
 - is

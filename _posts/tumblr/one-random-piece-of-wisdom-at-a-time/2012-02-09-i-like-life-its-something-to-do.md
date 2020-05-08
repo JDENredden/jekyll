@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I like life. It’s something to do.
 date: '2012-02-09T19:59:18+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ronnie-Shakes
 - i
 - like

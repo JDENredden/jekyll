@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Everyone thinks of changing the world, but no one thinks of changing himself.
 date: '2014-01-06T23:45:49+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Leo-Tolstoy
 - everyone
 - thinks

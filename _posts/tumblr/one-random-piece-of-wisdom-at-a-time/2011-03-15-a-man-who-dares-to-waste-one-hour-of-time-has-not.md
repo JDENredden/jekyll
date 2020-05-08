@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A man who dares to waste one hour of time has not discovered the value of life.
 date: '2011-03-15T21:00:23+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-Darwin
 - quote
 - wisdom

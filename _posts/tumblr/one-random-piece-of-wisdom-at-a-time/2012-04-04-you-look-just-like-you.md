@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You look just like you!
 date: '2012-04-04T18:35:36+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eric-Idle
 - you
 - look

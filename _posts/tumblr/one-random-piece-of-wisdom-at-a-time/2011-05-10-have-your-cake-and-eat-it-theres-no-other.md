@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Have your cake and eat it… there’s no other reason to have a cake
 date: '2011-05-10T21:04:17+09:30'
 hidden: true
-tags:
+hidden-tags:
 - derren-brown
 - quote
 - wisdom

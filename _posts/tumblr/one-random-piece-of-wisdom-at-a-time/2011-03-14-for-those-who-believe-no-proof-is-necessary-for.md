@@ -5,7 +5,7 @@ title: For those who believe, no proof is necessary. For those who don’t belie
   no proof is possible.
 date: '2011-03-14T21:06:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - stuart-chase
 - proof
 - quote

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nobody can hurt me without my permission.
 date: '2011-11-21T12:38:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mohandas-Gandhi
 - nobody
 - can

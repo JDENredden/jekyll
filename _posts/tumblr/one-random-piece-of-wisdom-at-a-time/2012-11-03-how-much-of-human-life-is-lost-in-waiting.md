@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: How much of human life is lost in waiting.
 date: '2012-11-03T22:12:33+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ralph-Waldo-Emerson
 - how
 - much

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s sort of my job to feel good.
 date: '2012-10-12T19:13:28+10:30'
 hidden: true
-tags:
+hidden-tags:
 - A.-J.-Jacobs
 - its
 - sort

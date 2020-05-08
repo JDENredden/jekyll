@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The boisterous sea of liberty is never without a wave.
 date: '2013-10-28T00:16:41+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Jefferson
 - the
 - boisterous

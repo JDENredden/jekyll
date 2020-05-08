@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Fatigue makes cowards of us all.
 date: '2012-02-23T19:53:48+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Vince-Lombardi
 - fatigue
 - makes

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To talk much and arrive nowhere is the same as climbing a tree to catch a fish.
 date: '2011-11-05T12:01:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Chinese-Proverb
 - to
 - talk

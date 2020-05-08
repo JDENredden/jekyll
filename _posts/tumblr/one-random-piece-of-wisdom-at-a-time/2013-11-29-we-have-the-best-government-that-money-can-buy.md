@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We have the best government that money can buy.
 date: '2013-11-29T23:42:02+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mark-Twain
 - we
 - have

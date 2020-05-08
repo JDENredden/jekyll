@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A small error in the former will produce an enormous error in the latter.
 date: '2011-07-28T12:25:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Henri-Poincare
 - a
 - small

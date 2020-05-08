@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: People never cease to amaze me.
 date: '2013-10-21T00:00:26+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Tina-Yothers
 - people
 - never

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: ‎"We are all governed by deception"
 date: '2011-09-04T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - G.-C.-Lichtenberg
 - we
 - are

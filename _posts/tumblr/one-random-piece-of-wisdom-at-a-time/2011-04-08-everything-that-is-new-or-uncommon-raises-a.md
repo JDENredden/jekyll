@@ -6,7 +6,7 @@ title: Everything that is new or uncommon raises a pleasure in the imagination, 
   it an idea of which it was not before possessed.
 date: '2011-04-08T22:48:39+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Joseph-Addison
 - imagination
 - creativity

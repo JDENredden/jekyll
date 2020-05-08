@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Bet on good people doing good things.
 date: '2012-08-22T23:22:12+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Gardner
 - bet
 - 'on'

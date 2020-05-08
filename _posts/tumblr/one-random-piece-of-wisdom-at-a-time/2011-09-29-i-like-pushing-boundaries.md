@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I like pushing boundaries.
 date: '2011-09-29T13:21:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lady-Gaga
 - i
 - like

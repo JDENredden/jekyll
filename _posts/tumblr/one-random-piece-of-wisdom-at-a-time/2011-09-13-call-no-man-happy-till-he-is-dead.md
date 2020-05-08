@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Call no man happy till he is dead.
 date: '2011-09-13T12:05:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Aeschylus
 - call
 - 'no'

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All experience is an arch, to build upon.
 date: '2011-04-19T12:10:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-B.-Adams
 - all
 - arch

@@ -5,7 +5,7 @@ title: All of us every single year, we’re a different person. I don’t think 
   the same person all our lives.
 date: '2011-12-20T12:17:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Steven-Spielberg
 - all
 - of

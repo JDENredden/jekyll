@@ -5,7 +5,7 @@ title: Affliction comes to us, not to make us sad but sober; not to make us sorr
   but wise.
 date: '2013-08-22T00:05:40+09:30'
 hidden: true
-tags:
+hidden-tags:
 - H.-G.-Wells
 - afflication
 - comes

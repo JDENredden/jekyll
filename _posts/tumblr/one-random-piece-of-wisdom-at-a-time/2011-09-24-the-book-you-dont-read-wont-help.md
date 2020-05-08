@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The book you don’t read won’t help.
 date: '2011-09-24T12:05:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jim-Rohn
 - the
 - book

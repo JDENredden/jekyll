@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: He who loves 50 people has 50 woes; he who loves no one has no woes.
 date: '2011-11-06T19:44:16+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Buddha
 - he
 - who

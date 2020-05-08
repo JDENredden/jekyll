@@ -5,7 +5,7 @@ title: I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingr
   in living.
 date: '2013-08-31T19:56:44+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Dr.-Seuss
 - I
 - like

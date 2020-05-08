@@ -5,7 +5,7 @@ title: When you forgive, you in no way change the past - but you sure do change 
   future.
 date: '2013-02-22T19:22:41+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Bernard-Meltzer
 - when
 - you

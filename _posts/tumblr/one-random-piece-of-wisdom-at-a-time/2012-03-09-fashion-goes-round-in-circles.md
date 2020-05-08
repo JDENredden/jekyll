@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Fashion goes round in circles.
 date: '2012-03-09T17:10:29+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Siobhan-Fahey
 - fashion
 - goes

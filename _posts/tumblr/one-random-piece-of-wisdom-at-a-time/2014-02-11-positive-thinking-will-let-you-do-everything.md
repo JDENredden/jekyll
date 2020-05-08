@@ -5,7 +5,7 @@ title: Positive thinking will let you do everything better than negative thinkin
   will.
 date: '2014-02-11T18:37:25+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Zig-Ziglar
 - positive
 - thinking

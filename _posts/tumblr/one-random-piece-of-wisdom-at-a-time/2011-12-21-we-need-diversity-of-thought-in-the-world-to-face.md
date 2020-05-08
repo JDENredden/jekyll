@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We need diversity of thought in the world to face the new challenges.
 date: '2011-12-21T12:50:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Tim-Berners-Lee
 - we
 - need

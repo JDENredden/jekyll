@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I am still learning.
 date: '2011-04-23T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Michelangelo
 - i-am
 - still

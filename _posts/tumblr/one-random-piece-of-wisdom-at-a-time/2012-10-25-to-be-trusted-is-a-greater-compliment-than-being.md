@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To be trusted is a greater compliment than being loved.
 date: '2012-10-25T23:15:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - George-MacDonald
 - to
 - be

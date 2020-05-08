@@ -5,7 +5,7 @@ title: Success is a lousy teacher. It seduces smart people into thinking they ca
   lose.
 date: '2013-08-26T23:08:57+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bill-Gates
 - success
 - is

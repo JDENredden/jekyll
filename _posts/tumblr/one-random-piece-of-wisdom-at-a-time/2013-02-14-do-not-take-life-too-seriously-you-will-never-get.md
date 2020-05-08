@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Do not take life too seriously. You will never get out of it alive.
 date: '2013-02-14T13:19:53+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Elbert-Hubbard
 - do
 - not

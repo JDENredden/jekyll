@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: In youth we learn; in age we understand.
 date: '2011-03-17T21:27:32+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Marie-von-Ebner-Eschenbach
 - quote
 - wisdom

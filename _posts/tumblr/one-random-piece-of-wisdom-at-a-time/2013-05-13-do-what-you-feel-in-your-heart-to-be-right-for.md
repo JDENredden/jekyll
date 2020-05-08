@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Do what you feel in your heart to be right – for you’ll be criticized anyway.
 date: '2013-05-13T23:07:44+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eleanor-Roosevelt
 - do
 - what

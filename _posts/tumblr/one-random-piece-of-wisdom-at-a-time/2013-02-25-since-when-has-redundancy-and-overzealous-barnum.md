@@ -5,7 +5,7 @@ title: Since when has redundancy and overzealous Barnum statements become the au
   on wisdom?
 date: '2013-02-25T20:55:35+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Author-Unknown
 - since
 - when

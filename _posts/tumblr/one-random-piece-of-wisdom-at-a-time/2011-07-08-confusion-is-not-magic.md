@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Confusion is not magic.
 date: '2011-07-08T12:56:50+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Dai-Vernon
 - confusion
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We must accept finite disappointment, but never lose infinite hope.
 date: '2014-02-02T20:39:49+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Martin-Luther-King-Jr.
 - we
 - must

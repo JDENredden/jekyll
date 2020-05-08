@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: One persons crazy, is another’s reality.
 date: '2011-07-23T12:10:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Tim-Burton
 - one
 - persons

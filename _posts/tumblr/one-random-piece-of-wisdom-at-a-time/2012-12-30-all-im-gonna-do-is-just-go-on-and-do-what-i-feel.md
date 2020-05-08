@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All I’m gonna do is just go on and do what I feel.
 date: '2012-12-30T19:21:14+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jimi-Hendrix
 - all
 - im

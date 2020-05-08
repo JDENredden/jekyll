@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Peace begins with a smile.
 date: '2012-09-22T20:52:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mother-Teresa
 - peace
 - begins

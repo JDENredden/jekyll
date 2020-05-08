@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I like people who shake other people up and make them feel uncomfortable.
 date: '2012-01-04T12:30:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jim-Morrison
 - i
 - like

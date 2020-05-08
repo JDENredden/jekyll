@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I think governments are the cancer of civilisation.
 date: '2012-04-16T21:49:07+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Chuck-D.
 - I
 - think

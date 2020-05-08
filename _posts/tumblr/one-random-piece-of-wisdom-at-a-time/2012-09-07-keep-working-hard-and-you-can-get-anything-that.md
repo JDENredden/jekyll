@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Keep working hard and you can get anything that you want.
 date: '2012-09-07T20:32:18+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Aaliyah
 - keep
 - working

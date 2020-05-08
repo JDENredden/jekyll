@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When in doubt, C4.
 date: '2011-05-24T20:44:54+09:30'
 hidden: true
-tags:
+hidden-tags:
 - James-Hyneman
 - Jamie
 - mythbusters

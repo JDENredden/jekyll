@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Always forgive your enemies - nothing annoys them so much.
 date: '2011-06-11T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - always
 - forgive

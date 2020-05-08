@@ -5,7 +5,7 @@ title: Genuine creativity needs a collision of ideas, something that will never 
   if all your thoughts travel in the same direction.
 date: '2012-05-13T12:01:01+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ian-Gilbert
 - genuine
 - creativity

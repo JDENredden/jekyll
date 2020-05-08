@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The future belongs to those who believe in the beauty of their dreams.
 date: '2012-10-04T18:12:48+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eleanor-Roosevelt
 - the
 - future

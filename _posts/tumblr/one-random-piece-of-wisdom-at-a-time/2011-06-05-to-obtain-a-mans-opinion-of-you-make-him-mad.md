@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To obtain a man’s opinion of you, make him mad.
 date: '2011-06-05T20:19:08+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oliver-Wendell-Holmes
 - obtain
 - get

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: No one can confidently say that he will still be living tomorrow.
 date: '2012-08-23T23:11:23+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Euripides
 - 'no'
 - one

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Strength and growth come only through continuous effort and struggle.
 date: '2014-04-06T22:09:55+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Napoleon-Hill
 - strength
 - and

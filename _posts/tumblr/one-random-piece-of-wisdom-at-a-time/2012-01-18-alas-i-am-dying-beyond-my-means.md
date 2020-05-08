@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Alas, I am dying beyond my means.
 date: '2012-01-18T12:05:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - alas
 - i-am

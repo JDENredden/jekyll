@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: An artist is somebody who produces things that people don’t need to have.
 date: '2012-10-26T16:26:42+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Andy-Warhol
 - an
 - artist

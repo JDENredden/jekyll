@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When someone asks you ‘Why?’, ask them “Why not?’.
 date: '2012-07-26T18:02:38+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Unknown-Author
 - when
 - someone

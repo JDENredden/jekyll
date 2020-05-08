@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Winners never quit and quitters never win.
 date: '2013-01-16T17:32:31+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Vince-Lombardi
 - winners
 - never

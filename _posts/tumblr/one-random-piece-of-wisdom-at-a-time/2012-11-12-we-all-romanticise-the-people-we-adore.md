@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: We all romanticise the people we adore.
 date: '2012-11-12T21:05:03+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Green
 - we
 - all

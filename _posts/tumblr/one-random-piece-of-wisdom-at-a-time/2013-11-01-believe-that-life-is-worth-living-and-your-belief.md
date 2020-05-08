@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Believe that life is worth living and your belief will help create the fact.
 date: '2013-11-01T21:45:04+10:30'
 hidden: true
-tags:
+hidden-tags:
 - William-James
 - believe
 - that

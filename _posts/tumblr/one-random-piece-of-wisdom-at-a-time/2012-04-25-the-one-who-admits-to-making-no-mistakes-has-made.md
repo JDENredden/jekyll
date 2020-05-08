@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The one who admits to making no mistakes, has made the biggest mistake.
 date: '2012-04-25T10:38:26+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Unknown-Author
 - the
 - one

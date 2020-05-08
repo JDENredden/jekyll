@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Education is what remains after one has forgotten what one has learned in school.
 date: '2012-10-25T17:47:19+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - education
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I loved the world of imagination.
 date: '2012-10-07T14:31:37+10:30'
 hidden: true
-tags:
+hidden-tags:
 - R.-A.-Salvatore
 - I
 - loved

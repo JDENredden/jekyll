@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It is the ability to choose which makes us human.
 date: '2012-01-24T20:34:50+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Madeleine-L'Engle
 - its
 - the

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All you need is love.
 date: '2012-02-23T19:53:02+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Lennon
 - all
 - you

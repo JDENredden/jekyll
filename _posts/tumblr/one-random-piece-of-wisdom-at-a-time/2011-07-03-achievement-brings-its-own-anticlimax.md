@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Achievement brings its own anticlimax.
 date: '2011-07-03T19:24:43+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Maya-Angelou
 - achievement-brings
 - its

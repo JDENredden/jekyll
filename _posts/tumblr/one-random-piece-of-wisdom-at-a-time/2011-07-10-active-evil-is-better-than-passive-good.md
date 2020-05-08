@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Active Evil is better than Passive Good.
 date: '2011-07-10T20:25:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Blake
 - active
 - evil

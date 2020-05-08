@@ -5,7 +5,7 @@ title: Show class, have pride, and display character. If you do, winning takes c
   of itself.
 date: '2011-10-20T20:45:35+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Paul-Bryant
 - show
 - class

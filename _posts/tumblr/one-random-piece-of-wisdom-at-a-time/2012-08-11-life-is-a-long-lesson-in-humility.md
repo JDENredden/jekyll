@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life is a long lesson in humility.
 date: '2012-08-11T09:29:44+09:30'
 hidden: true
-tags:
+hidden-tags:
 - James-M.-Barrie
 - lifes
 - a

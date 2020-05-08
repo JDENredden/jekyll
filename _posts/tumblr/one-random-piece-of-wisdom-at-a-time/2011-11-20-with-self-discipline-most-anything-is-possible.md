@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: With self discipline most anything is possible.
 date: '2011-11-20T12:36:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Theodore-Roosevelt
 - with
 - self

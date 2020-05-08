@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A friend is someone who knows all about you and still loves you.
 date: '2013-09-28T23:25:07+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Elbert-Hubbard
 - a
 - friend

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A faith is a necessity to a man. Woe to him who believes in nothing.
 date: '2012-04-19T01:50:53+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Victor-Hugo
 - a
 - faith

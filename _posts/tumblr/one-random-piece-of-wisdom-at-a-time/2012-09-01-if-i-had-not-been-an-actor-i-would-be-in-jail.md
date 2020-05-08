@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If I had not been an actor. I would be in jail.
 date: '2012-09-01T09:54:24+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Nicholas-Cage
 - if
 - i

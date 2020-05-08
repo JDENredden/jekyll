@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: There is no sadder sight than a young pessimist.
 date: '2014-03-11T00:45:39+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mark-Twain
 - there
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Writing is learning to say nothing, more cleverly each day.
 date: '2011-08-01T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Allingham
 - writing
 - is

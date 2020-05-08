@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Time heals all wounds.
 date: '2014-01-23T22:18:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - time
 - heals
 - all

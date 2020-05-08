@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: By failing to prepare, you are preparing to fail.
 date: '2013-02-07T23:02:45+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Benjamin-Franklin
 - by
 - failing

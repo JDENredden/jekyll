@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Trust your ability.
 date: '2011-12-04T12:27:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Itzhak-Perlman
 - trust
 - your

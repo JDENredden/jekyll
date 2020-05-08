@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love and freedom are vital to the creation and upbringing of a child.
 date: '2011-08-03T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Sylvia-Pankhurst
 - love
 - and

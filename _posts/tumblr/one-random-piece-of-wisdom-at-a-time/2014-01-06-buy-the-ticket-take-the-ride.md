@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Buy the ticket, take the ride.
 date: '2014-01-06T23:44:22+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Hunter-S.-Thompson
 - buy
 - the

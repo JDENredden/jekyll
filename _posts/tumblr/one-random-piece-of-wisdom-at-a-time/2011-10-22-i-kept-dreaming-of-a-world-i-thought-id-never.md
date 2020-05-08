@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I kept dreaming of a world I thought I’d never see.
 date: '2011-10-22T14:18:40+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Kevinf-Flynn
 - Jeff-Bridges
 - Tron

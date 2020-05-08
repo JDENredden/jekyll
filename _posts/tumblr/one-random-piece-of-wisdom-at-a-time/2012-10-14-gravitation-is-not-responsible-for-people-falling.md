@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Gravitation is not responsible for people falling in love.
 date: '2012-10-14T16:53:47+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - gravitation
 - is

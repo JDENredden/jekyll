@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s different for everyone; because everyone is different.
 date: '2012-06-01T05:53:23+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Adam-Savage
 - its
 - different

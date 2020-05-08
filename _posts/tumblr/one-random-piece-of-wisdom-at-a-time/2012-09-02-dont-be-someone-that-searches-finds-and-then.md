@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t be someone that searches, finds, and then runs away.
 date: '2012-09-02T18:48:39+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Paolo-Coelho
 - dont
 - be

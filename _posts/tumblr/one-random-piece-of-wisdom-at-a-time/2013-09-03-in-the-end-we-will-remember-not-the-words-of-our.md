@@ -5,7 +5,7 @@ title: In the End, we will remember not the words of our enemies, but the silenc
   of our friends.
 date: '2013-09-03T20:10:58+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Martin-Luther-King-Jr.
 - in
 - the

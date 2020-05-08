@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Be nice to nerds. Chances are you’ll end up working for one.
 date: '2011-06-20T12:57:59+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bill-Gates
 - be-nice
 - to

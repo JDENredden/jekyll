@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love looks not with the eyes, but with the mind.
 date: '2012-07-05T11:53:30+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Shakespeare
 - love
 - looks

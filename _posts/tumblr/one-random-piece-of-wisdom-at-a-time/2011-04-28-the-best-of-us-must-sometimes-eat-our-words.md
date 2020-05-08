@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The best of us must sometimes eat our words.
 date: '2011-04-28T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - J.-K.-Rowling
 - best
 - of

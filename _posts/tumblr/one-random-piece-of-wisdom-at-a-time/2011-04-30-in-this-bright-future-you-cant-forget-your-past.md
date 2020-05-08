@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: In this bright future you can’t forget your past.
 date: '2011-04-30T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bob-Marley
 - bright
 - future

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Think inside the box, everyone is too busy thinking outside it.
 date: '2011-06-14T23:26:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - De'vo-Vom-Schattenreich
 - think
 - inside

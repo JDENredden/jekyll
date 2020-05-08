@@ -5,7 +5,7 @@ title: If you don’t kill your self at least once in your life time, you’re d
   wrong.
 date: '2012-08-08T18:06:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Unknown-Author
 - 500-posts
 - if

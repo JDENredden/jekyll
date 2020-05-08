@@ -5,7 +5,7 @@ title: If I have not seen as far as others, it is because giants were standing o
   my shoulders.
 date: '2013-01-18T22:12:30+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Hal-Abelson
 - if
 - i

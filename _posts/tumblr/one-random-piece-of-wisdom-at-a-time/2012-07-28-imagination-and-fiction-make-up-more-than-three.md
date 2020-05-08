@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Imagination and fiction make up more than three quarters of our real life.
 date: '2012-07-28T02:22:59+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Simone-Weil
 - imagination
 - and

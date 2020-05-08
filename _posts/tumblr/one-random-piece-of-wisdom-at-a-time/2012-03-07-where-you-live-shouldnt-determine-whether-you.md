@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Where you live, shouldn’t determine whether you live.
 date: '2012-03-07T18:47:01+10:30'
 hidden: true
-tags:
+hidden-tags:
 - STOPKONY
 - where
 - you

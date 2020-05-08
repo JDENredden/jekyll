@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I think the reward for conformity is that everyone likes you except yourself.
 date: '2013-11-20T22:52:01+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Rita-Mae-Brown
 - i
 - think

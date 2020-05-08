@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To wish you were someone else is to waste the person you are.
 date: '2014-03-05T22:50:09+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Kurt-Cobain
 - to
 - wish

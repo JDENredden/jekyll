@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Tell me, I forget, show me, I remember, involve me, I understand.
 date: '2012-09-19T20:22:38+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Carl-Orff
 - tell
 - me

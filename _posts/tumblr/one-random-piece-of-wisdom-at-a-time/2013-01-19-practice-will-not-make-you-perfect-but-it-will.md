@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Practice will not make you perfect but it will make you better.
 date: '2013-01-19T20:23:18+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Dan-Sperry
 - practice
 - will

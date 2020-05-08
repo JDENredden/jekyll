@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s not about what it is. It’s about what it can become.
 date: '2012-03-25T11:47:35+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Dr.-Seuss
 - it's
 - not

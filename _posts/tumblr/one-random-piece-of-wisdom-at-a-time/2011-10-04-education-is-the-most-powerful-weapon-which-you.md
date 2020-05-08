@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Education is the most powerful weapon which you can use to change the world.
 date: '2011-10-04T13:42:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Nelson-Mandela
 - education
 - is

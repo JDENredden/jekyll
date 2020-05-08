@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: An eye for an eye only ends up making the whole world blind.
 date: '2011-09-12T23:44:14+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mohandas-Gandhi
 - an
 - eye

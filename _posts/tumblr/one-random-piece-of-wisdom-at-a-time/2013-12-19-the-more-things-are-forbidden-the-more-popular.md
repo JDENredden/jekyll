@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The more things are forbidden, the more popular they become.
 date: '2013-12-19T22:29:31+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mark-Twain
 - the
 - more

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: God does not play dice with the universe.
 date: '2012-02-18T13:03:27+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - god
 - does

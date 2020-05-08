@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love alone could waken love.
 date: '2012-11-12T18:02:50+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Pearl-S.-Buck
 - love
 - alone

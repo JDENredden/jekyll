@@ -5,7 +5,7 @@ title: Nine-tenths of the people were created so you would want to be with the o
   tenth.
 date: '2014-01-06T23:42:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Horace-Walpole
 - nine-tenths
 - of

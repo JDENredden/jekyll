@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t want to be a passenger in my own life.
 date: '2013-10-06T22:41:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Diane-Ackerman
 - i
 - dont

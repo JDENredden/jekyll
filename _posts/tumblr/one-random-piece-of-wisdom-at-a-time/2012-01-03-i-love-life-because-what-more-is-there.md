@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I love life because what more is there.
 date: '2012-01-03T00:19:41+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Anthony-Hopkins
 - i
 - love

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s not whether you get knocked down, it’s whether you get up.
 date: '2012-06-25T12:00:53+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Vince-Lombardi
 - its
 - not

@@ -5,7 +5,7 @@ title: No matter how good you are, no matter how hard you try and no matter what
   do. There will always be someone better than you. Always.
 date: '2012-05-15T12:02:04+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Unknown-Author
 - 'no'
 - matter

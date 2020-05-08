@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It is good to rub and polish our brain against that of others.
 date: '2013-10-17T23:06:19+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Michel-de-Montaigne
 - it
 - is

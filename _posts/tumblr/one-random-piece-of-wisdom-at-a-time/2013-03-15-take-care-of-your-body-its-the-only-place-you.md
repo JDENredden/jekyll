@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Take care of your body. It’s the only place you have to live.
 date: '2013-03-15T23:50:46+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jim-Rohn
 - take
 - care

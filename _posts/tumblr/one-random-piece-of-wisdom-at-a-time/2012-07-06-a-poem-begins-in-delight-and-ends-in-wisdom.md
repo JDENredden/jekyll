@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A poem begins in delight and ends in wisdom.
 date: '2012-07-06T11:59:46+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Frost
 - a
 - poem

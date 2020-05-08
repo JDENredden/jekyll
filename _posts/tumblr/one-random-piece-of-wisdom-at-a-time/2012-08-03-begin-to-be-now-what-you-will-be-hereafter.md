@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Begin to be now what you will be hereafter.
 date: '2012-08-03T21:41:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-James
 - begin
 - to

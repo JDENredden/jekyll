@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You can’t pay me off. I’m here to destroy you.
 date: '2012-04-06T22:23:21+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Steve-Jobs
 - you
 - cant

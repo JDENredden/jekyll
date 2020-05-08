@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The bicycle is a curious vehicle. Its passenger is its engine.
 date: '2013-03-03T23:09:54+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Howard
 - the
 - bicycle

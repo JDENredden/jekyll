@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s kind of fun to do the impossible.
 date: '2011-08-17T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Walt-Disney
 - its
 - kind

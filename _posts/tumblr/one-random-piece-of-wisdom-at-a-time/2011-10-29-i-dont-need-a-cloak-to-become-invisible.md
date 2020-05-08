@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t need a cloak to become invisible.
 date: '2011-10-29T21:07:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albus-Dumbledore
 - i
 - dont

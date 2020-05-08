@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All grand thoughts come from the heart.
 date: '2012-03-24T20:38:13+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Luc-de-Clapiers
 - all
 - grand

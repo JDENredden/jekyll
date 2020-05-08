@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A jury is composed of twelve men of average ignorance.
 date: '2012-01-13T12:02:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Herbert-Spencer
 - a
 - jury

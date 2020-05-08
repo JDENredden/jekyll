@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Hate traps us by binding us too tightly to our adversary.
 date: '2011-12-16T12:14:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Milan-Kundera
 - hate
 - traps

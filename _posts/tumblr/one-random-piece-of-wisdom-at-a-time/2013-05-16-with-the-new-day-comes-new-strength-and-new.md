@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: With the new day comes new strength and new thoughts.
 date: '2013-05-16T20:03:44+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eleanor-Roosevelt
 - with
 - the

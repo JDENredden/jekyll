@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Sometimes you have to go up really high to understand how small you are
 date: '2014-02-13T23:17:12+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Felix-Baumgartner
 - sometimes
 - you

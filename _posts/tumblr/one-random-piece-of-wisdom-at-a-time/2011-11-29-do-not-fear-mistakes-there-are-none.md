@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Do not fear mistakes. There are none.
 date: '2011-11-29T13:05:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Miles-Davis
 - do
 - not

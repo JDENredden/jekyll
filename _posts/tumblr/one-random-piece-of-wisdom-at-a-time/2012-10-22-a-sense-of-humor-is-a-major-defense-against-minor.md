@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A sense of humor is a major defense against minor troubles.
 date: '2012-10-22T22:47:30+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mignon-McLaughlin
 - a
 - sense

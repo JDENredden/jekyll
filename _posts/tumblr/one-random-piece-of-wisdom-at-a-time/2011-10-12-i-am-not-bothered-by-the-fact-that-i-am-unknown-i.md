@@ -5,7 +5,7 @@ title: I am not bothered by the fact that I am unknown. I am bothered when I do 
   know others.
 date: '2011-10-12T11:35:30+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Confucius
 - i
 - am

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Enjoy failure and learn from it. You can never learn from success.
 date: '2012-08-03T00:01:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - James-Dyson
 - enjoy
 - failure

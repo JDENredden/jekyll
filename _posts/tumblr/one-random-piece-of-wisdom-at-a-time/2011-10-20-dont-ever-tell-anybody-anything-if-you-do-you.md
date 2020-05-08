@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t ever tell anybody anything. If you do, you start missing everybody.
 date: '2011-10-20T20:39:56+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Holden-Caufield
 - dont
 - ever

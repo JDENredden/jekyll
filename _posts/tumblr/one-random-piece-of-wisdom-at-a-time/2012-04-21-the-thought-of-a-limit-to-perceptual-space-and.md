@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The thought of a limit to perceptual space and time staggers the mind.
 date: '2012-04-21T00:20:17+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Muhammed-Iqbal
 - the
 - thought

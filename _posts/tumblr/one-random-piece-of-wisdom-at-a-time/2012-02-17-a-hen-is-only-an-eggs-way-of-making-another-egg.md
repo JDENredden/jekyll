@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A hen is only an egg’s way of making another egg.
 date: '2012-02-17T23:20:15+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Samuel-Butler
 - a
 - hen

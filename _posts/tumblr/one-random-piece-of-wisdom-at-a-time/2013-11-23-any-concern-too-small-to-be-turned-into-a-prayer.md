@@ -5,7 +5,7 @@ title: Any concern too small to be turned into a prayer is too small to be made 
   a burden.
 date: '2013-11-23T21:12:36+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Corrie-Ten-Boom
 - any
 - concern

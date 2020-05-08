@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All tragedies become comedies in time.
 date: '2011-10-10T12:50:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Scheherazade
 - all
 - tragedies

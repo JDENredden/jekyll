@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A loving heart is the truest wisdom.
 date: '2013-06-01T23:52:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-Dickens
 - A
 - loving

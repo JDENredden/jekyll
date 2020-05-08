@@ -5,7 +5,7 @@ title: Destruction can be beautiful to some people. Don’t ask me why. It just 
   And if they can’t find anything to destroy, they destroy themselves.
 date: '2012-07-17T23:15:41+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Knowles
 - destruction
 - can

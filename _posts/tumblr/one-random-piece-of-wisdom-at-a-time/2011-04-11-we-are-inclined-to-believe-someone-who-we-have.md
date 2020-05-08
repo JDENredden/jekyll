@@ -5,7 +5,7 @@ title: We are inclined to believe someone who we have just met, because they hav
   yet to deceive us.
 date: '2011-04-11T18:10:19+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Samuel-Thomas
 - deception
 - inclined

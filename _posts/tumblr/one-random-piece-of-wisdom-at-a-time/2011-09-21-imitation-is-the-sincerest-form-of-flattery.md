@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Imitation is the sincerest form of flattery.
 date: '2011-09-21T12:22:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-Caleb-Colton
 - imitation
 - is

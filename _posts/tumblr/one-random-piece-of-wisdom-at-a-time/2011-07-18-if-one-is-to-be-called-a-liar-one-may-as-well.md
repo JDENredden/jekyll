@@ -5,7 +5,7 @@ title: If one is to be called a liar, one may as well make an effort to deserve 
   name.
 date: '2011-07-18T13:11:19+09:30'
 hidden: true
-tags:
+hidden-tags:
 - A.-A.-Milne
 - if
 - one

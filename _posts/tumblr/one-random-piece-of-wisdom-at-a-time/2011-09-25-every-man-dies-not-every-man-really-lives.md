@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Every man dies. Not every man really lives.
 date: '2011-09-25T12:11:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Wallace
 - every
 - man

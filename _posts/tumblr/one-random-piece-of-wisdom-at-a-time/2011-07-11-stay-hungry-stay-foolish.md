@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Stay hungry, stay foolish.
 date: '2011-07-11T17:02:23+09:30'
 hidden: true
-tags:
+hidden-tags:
 - stay
 - hungry
 - foolish

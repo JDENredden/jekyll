@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: No tribe unites with another of its own free will.
 date: '2013-10-28T00:15:19+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Arthur-Keith
 - 'no'
 - tribe

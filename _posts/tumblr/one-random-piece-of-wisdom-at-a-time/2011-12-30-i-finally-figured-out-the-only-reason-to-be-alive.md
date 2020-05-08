@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I finally figured out the only reason to be alive is to enjoy it.
 date: '2011-12-30T12:20:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Rita-Mae-Brown
 - i
 - finally

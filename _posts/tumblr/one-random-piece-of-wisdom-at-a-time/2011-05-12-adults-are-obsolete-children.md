@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Adults are obsolete children.
 date: '2011-05-12T22:46:19+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Dr-Seuss
 - adults
 - obsolete

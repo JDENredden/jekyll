@@ -6,7 +6,7 @@ title: Life is a series of natural and spontaneous changes. Don’t resist them 
   whatever way they like.
 date: '2013-07-25T23:02:22+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lao-Tzu
 - life
 - is

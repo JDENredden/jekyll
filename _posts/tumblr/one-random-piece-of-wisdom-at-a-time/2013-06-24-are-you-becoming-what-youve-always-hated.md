@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Are you becoming what you’ve always hated?
 date: '2013-06-24T12:00:25+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-Bukowski
 - are
 - you

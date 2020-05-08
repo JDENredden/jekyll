@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The value of a dollar is social, as it is created by society.
 date: '2013-09-25T21:11:12+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ralph-Waldo-Emerson
 - the
 - value

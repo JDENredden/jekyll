@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Tears are the silent language of grief.
 date: '2013-05-28T23:17:54+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Voltaire
 - tears
 - are

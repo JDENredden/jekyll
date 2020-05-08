@@ -5,7 +5,7 @@ title: Weak minds sink under prosperity as well as adversity; but strong and dee
   ones have two high tides.
 date: '2013-06-21T12:00:42+09:30'
 hidden: true
-tags:
+hidden-tags:
 - David-Hare
 - weak
 - minds

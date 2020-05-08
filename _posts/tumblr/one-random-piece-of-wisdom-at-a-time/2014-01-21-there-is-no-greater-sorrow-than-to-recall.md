@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: There is no greater sorrow than to recall happiness in times of misery.
 date: '2014-01-21T22:27:21+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Dante-Alighieri
 - there
 - is

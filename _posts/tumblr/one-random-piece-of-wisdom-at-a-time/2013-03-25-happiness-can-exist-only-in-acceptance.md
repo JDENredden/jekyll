@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Happiness can exist only in acceptance.
 date: '2013-03-25T16:25:48+10:30'
 hidden: true
-tags:
+hidden-tags:
 - George-Orwell
 - happiness
 - can

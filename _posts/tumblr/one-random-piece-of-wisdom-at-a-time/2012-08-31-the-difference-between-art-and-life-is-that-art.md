@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The difference between art and life is that art is more bearable.
 date: '2012-08-31T17:33:50+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-Bukowski
 - the
 - difference

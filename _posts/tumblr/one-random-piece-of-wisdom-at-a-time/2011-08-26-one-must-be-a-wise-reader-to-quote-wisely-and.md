@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: One must be a wise reader to quote wisely and well.
 date: '2011-08-26T12:11:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Amos-Bronson-Alcott
 - one
 - must

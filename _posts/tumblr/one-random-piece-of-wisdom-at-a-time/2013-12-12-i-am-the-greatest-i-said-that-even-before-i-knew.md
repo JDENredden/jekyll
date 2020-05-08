@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I am the greatest, I said that even before I knew I was.
 date: '2013-12-12T22:57:36+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Muhammad-Ali
 - i
 - am

@@ -5,7 +5,7 @@ title: Remembering that you are going to die is the best way I know to avoid the
   of thinking you have something to lose, there is no reason not to follow your heart.
 date: '2011-06-23T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Steve-Jobs
 - Remember
 - that

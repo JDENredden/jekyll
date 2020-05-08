@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It’s about listening first, then selling.
 date: '2012-02-04T21:20:29+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Erik-Qualman
 - its
 - about

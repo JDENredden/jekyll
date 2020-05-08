@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If it’s worth doing it’s worth overdoing.
 date: '2011-10-25T21:51:33+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ayn-Rand
 - if
 - its

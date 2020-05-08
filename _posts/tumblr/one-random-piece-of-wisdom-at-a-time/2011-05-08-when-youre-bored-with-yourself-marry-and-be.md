@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When you’re bored with yourself, marry and be bored with someone else.
 date: '2011-05-08T00:59:36+09:30'
 hidden: true
-tags:
+hidden-tags:
 - King-Edward-VIII
 - life
 - marriage

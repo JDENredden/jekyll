@@ -8,7 +8,7 @@ title: Your time is limited, so don’t waste it living someone else’s life. D
   know what you truly want to become. Everything else is secondary.
 date: '2011-04-09T11:24:01+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Steve-Jobs
 - apple
 - quote

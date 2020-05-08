@@ -5,7 +5,7 @@ title: All theory, dear friend, is gray, but the golden tree of life springs eve
   green.
 date: '2013-07-27T23:51:26+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Johann-Wolfgang-von-Goethe
 - all
 - theory

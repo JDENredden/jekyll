@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The end result of kindness is that it draws people to you.
 date: '2011-06-05T20:16:57+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Anita-Roddick
 - kindness
 - end

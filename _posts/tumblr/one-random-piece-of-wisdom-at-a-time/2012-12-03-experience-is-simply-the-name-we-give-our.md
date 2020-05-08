@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Experience is simply the name we give our mistakes.
 date: '2012-12-03T12:13:48+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - experience
 - is

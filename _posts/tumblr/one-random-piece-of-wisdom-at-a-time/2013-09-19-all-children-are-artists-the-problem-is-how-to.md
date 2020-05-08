@@ -5,7 +5,7 @@ title: All children are artists. The problem is how to remain an artist once he 
   up.
 date: '2013-09-19T00:34:22+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Pablo-Picasso
 - all
 - children

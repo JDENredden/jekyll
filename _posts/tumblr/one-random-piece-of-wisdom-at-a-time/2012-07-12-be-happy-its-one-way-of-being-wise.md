@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Be happy. It’s one way of being wise.
 date: '2012-07-12T11:53:13+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Sidonie-Gabrielle-Colette
 - be
 - happy

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If winning isn’t everything, why do they keep score?
 date: '2012-09-13T16:46:38+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Vince-Lombardi
 - if
 - winning

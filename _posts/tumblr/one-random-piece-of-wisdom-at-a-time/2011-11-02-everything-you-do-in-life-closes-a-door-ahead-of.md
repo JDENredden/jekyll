@@ -5,7 +5,7 @@ title: Everything you do in life closes a door ahead of you until there is just 
   door left.
 date: '2011-11-02T12:01:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Cormac-McCarthy
 - everthing
 - you

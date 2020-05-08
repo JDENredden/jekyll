@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Death was afraid of him, for he had the heart of a lion.
 date: '2011-08-23T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Arabian-Proverb
 - proverb
 - death

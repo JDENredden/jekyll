@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Without music, life would be a mistake.
 date: '2013-05-03T20:06:12+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Friedrich-Nietzsche
 - without
 - music

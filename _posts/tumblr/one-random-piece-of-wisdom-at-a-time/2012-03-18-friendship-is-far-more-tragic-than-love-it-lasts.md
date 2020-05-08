@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Friendship is far more tragic than love. It lasts longer.
 date: '2012-03-18T00:14:03+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - friendship
 - is

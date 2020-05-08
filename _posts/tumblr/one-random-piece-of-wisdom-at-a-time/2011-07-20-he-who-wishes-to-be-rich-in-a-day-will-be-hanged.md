@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: He who wishes to be rich in a day will be hanged in a year.
 date: '2011-07-20T12:15:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Leonardo-da-Vinci
 - he
 - who

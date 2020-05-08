@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The higher the voice the smaller the intellect.
 date: '2012-02-28T22:27:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ernest-Newman
 - the
 - higher

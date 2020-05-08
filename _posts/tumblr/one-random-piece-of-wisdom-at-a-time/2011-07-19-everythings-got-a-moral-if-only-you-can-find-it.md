@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Everything’s got a moral, if only you can find it.
 date: '2011-07-19T12:52:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lewis-Carroll
 - everythings
 - got

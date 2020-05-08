@@ -5,7 +5,7 @@ title: The search for the truth is the most important work in the whole world, a
   the most dangerous.
 date: '2011-05-17T21:08:26+09:30'
 hidden: true
-tags:
+hidden-tags:
 - James-Clavell
 - truth
 - quote

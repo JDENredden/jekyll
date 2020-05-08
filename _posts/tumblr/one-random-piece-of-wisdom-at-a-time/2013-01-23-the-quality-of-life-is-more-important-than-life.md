@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The quality of life is more important than life itself.
 date: '2013-01-23T15:37:24+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Alexis-Carrel
 - the
 - quality

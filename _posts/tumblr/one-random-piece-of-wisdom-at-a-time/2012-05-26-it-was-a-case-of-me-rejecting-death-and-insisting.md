@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It was a case of me rejecting death and insisting on life.
 date: '2012-05-26T11:59:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lincoln-Hall
 - it
 - was

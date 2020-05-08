@@ -5,7 +5,7 @@ title: No matter how hard the loss, defeat might serve as well as victory to sha
   the soul and let the glory out.
 date: '2011-03-16T23:52:07+10:30'
 hidden: true
-tags:
+hidden-tags:
 - al-gore
 - quote
 - wisdom

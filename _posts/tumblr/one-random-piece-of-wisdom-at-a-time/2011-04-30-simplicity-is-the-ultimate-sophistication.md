@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Simplicity is the ultimate sophistication.
 date: '2011-04-30T19:32:15+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Leonardo-DaVinci
 - simple
 - simplicity

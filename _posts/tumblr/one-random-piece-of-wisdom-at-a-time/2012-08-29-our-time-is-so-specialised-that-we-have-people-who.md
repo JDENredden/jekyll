@@ -5,7 +5,7 @@ title: Our time is so specialised that we have people who know more and more or 
   and less.
 date: '2012-08-29T18:47:42+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Alvar-Aalto
 - our
 - time

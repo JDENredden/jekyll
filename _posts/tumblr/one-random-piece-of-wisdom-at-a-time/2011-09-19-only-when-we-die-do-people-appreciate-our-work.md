@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Only when we die, do people appreciate our work.
 date: '2011-09-19T12:20:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - only
 - when

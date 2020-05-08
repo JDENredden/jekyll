@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Only great minds can afford a simple style.
 date: '2013-11-05T23:43:10+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Stendhal
 - only
 - great

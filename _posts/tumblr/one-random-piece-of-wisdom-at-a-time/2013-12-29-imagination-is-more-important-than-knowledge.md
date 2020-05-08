@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Imagination is more important than knowledge.
 date: '2013-12-29T23:12:55+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - imagination
 - is

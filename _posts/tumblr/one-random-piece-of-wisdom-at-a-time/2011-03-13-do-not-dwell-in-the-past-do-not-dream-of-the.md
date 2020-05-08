@@ -5,7 +5,7 @@ title: Do not dwell in the past, do not dream of the future, concentrate the min
   on the present moment.
 date: '2011-03-13T21:10:08+10:30'
 hidden: true
-tags:
+hidden-tags:
 - buddah
 - life
 - quote

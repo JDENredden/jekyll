@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t hustle old people.
 date: '2011-08-02T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Burns
 - dont
 - hustle

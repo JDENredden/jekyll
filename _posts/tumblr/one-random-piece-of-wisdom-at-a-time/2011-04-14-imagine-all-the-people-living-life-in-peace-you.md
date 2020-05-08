@@ -5,7 +5,7 @@ title: Imagine all the people living life in peace. You may say I’m a dreamer,
   I’m not the only one. I hope someday you’ll join us, and the world will be as one.
 date: '2011-04-14T00:05:07+09:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Lennon
 - peace
 - wisdom

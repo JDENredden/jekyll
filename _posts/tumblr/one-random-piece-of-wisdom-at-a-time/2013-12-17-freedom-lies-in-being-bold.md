@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Freedom lies in being bold.
 date: '2013-12-17T23:30:28+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Frost
 - freedom
 - lies

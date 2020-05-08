@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Men are not prisoners of fate, but only prisoners of their own minds.
 date: '2013-04-27T23:15:26+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Franklin-D.-Roosevelt
 - men
 - are

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I am patient with stupidity but not with those who are proud of it.
 date: '2014-04-08T00:55:12+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Edith-Sitwell
 - i
 - am

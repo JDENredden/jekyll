@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Half the lies they tell about me aren’t true.
 date: '2012-07-23T12:01:31+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Yogi-Berra
 - half
 - the

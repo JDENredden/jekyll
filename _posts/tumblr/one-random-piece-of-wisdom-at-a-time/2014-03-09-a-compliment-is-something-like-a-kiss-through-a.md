@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A compliment is something like a kiss through a veil.
 date: '2014-03-09T23:28:41+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Victor-Hugo
 - a
 - compliment

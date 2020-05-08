@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Sometimes I can’t figure designers out. It’s as if they flunked human anatomy.
 date: '2012-09-24T14:32:53+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Erma-Bombeck
 - sometimes
 - i

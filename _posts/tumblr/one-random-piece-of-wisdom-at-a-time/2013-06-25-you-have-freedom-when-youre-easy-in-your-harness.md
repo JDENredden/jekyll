@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You have freedom when you’re easy in your harness.
 date: '2013-06-25T22:15:27+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Frost
 - you
 - have

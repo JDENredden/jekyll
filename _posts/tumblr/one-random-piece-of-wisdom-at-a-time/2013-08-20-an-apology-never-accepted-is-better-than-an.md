@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: An apology never accepted, is better than an apology never said.
 date: '2013-08-20T12:40:31+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Author-Unknown
 - Im-sorry
 - an

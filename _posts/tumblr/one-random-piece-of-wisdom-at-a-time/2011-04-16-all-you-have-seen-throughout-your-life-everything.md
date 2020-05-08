@@ -7,7 +7,7 @@ title: All you have seen throughout your life, everything you have gazed upon ha
   and how you interpret it.
 date: '2011-04-16T00:27:09+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - quote
 - wisdom

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The light is all around you, but all you see is shadow.
 date: '2011-11-04T12:00:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Cormac-McCarthy
 - the
 - light

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The cruelest lies are often told in silence.
 date: '2012-03-13T23:52:30+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Louis-Stevenson
 - the
 - cruelest

@@ -5,7 +5,7 @@ title: Invention, my dear friends, is 93% perspiration, 6% electricity, 4% evapo
   and 2% butterscotch ripple
 date: '2011-04-14T22:21:23+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Willy-Wonka
 - invention
 - creation

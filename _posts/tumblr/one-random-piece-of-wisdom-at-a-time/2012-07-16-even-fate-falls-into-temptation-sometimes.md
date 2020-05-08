@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Even fate falls into temptation sometimes.
 date: '2012-07-16T23:33:36+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - even
 - fate

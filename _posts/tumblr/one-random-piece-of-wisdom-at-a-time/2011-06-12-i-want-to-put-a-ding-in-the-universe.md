@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I want to put a ding in the universe.
 date: '2011-06-12T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Steve-Jobs
 - i-want
 - to-put

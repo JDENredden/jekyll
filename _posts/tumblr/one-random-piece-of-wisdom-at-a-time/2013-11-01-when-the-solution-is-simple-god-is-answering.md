@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: When the solution is simple, God is answering.
 date: '2013-11-01T21:45:52+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - when
 - the

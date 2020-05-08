@@ -5,7 +5,7 @@ title: I like fairy tales, and I like dreaming. I try to weave the reality into 
   dream.
 date: '2012-07-18T22:20:54+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Grace-Coddington
 - i
 - like

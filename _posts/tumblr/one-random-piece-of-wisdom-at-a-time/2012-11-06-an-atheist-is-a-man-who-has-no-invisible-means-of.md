@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: An atheist is a man who has no invisible means of support.
 date: '2012-11-06T22:24:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - James-Buchan
 - an
 - atheist

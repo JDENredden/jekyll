@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Train yourself to let go of everything you fear to lose.
 date: '2011-07-25T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Yoda
 - train
 - yourself

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Not all who wander are lost.
 date: '2012-06-02T05:57:54+09:30'
 hidden: true
-tags:
+hidden-tags:
 - J.-R.-R.-Tolkien
 - not
 - all

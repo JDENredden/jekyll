@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A champion is afraid of losing. Everyone else is afraid of winning.
 date: '2012-03-06T20:32:50+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Billie-Jean-King
 - a
 - champion

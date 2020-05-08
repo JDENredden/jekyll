@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you can, help others; if you cannot do that, at least do not harm them.
 date: '2011-07-21T12:07:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Dalai-Lama
 - if
 - you

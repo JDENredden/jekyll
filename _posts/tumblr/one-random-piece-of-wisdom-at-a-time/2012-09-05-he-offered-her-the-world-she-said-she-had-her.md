@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: He offered her the world. She said she had her own.
 date: '2012-09-05T17:13:34+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Monique-Duva
 - he
 - offered

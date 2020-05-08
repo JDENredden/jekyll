@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Open your eyes, look within. Are you satisfied with the life you’re living?
 date: '2013-08-09T12:51:14+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bob-Marley
 - open
 - your

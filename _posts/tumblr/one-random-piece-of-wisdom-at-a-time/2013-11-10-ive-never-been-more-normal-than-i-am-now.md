@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I’ve never been more normal than I am now.
 date: '2013-11-10T01:25:29+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Adele
 - ive
 - never

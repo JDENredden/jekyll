@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: What is forgiven is usually well remembered.
 date: '2012-05-18T12:01:36+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Louis-Dudek
 - what
 - is

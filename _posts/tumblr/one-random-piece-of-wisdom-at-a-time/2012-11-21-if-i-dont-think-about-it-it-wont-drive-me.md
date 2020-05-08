@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If I don’t think about it, it won’t drive me crazy.
 date: '2012-11-21T16:26:27+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Aaliyah
 - if
 - i

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: No excellent soul is exempt from a mixture of madness.
 date: '2011-12-02T12:36:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Aristotle
 - 'no'
 - excellent

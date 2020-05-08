@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I started being really proud of the fact that I was gay even though I wasn’t.
 date: '2011-09-30T13:16:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Kurt-Cobain
 - being
 - even

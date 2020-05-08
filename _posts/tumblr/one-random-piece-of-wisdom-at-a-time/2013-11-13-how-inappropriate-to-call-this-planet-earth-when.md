@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: How inappropriate to call this planet Earth when it is quite clearly Ocean.
 date: '2013-11-13T21:15:42+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Arthur-C.-Clarke
 - how
 - inappropriate

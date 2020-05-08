@@ -6,7 +6,7 @@ title: I’ve missed more than 9000 shots in my career. I’ve lost almost 300 g
   over and over and over again in my life. And that is why I succeed.
 date: '2013-04-05T21:57:04+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Michael-Jordan
 - ive
 - missed

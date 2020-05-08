@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nothing inspires forgiveness quite like revenge.
 date: '2012-02-20T16:07:34+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Scott-Adams
 - nothing
 - inspires

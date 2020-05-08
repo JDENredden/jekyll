@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Art is made to disturb, science reassures.
 date: '2012-03-24T20:36:39+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Georges-Braque
 - art
 - is

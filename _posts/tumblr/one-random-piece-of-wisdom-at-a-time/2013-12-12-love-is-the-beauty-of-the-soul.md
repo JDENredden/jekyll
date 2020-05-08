@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love is the beauty of the soul.
 date: '2013-12-12T22:53:24+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Saint-Augustine
 - love
 - is

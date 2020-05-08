@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A loving heart is the beginning of all knowledge.
 date: '2012-02-19T22:40:49+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Carlyle
 - a
 - loving

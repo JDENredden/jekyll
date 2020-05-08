@@ -5,7 +5,7 @@ title: When the last tree is cut down, the last fish eaten, and the last stream 
   you will realise that you cannot eat money.
 date: '2011-12-31T12:11:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Native-American-Proverb
 - when
 - the

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nothing is more sacred than the facts.
 date: '2012-01-12T12:02:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Sam-Harris
 - nothing
 - is

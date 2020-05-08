@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All music is beautiful.
 date: '2011-11-14T10:56:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Billy-Strayhorn
 - all
 - music

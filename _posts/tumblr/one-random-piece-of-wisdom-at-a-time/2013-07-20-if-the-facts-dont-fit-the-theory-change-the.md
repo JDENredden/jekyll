@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If the facts don’t fit the theory, change the facts.
 date: '2013-07-20T22:05:11+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - if
 - the

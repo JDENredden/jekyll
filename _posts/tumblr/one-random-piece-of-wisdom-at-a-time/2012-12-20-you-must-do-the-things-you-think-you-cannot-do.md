@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You must do the things you think you cannot do.
 date: '2012-12-20T17:21:28+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Eleanor-Roosevelt
 - you
 - must

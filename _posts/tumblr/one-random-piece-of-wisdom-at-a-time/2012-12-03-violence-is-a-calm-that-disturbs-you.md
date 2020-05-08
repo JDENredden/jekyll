@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Violence is a calm that disturbs you.
 date: '2012-12-03T22:40:30+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jean-Genet
 - violence
 - is

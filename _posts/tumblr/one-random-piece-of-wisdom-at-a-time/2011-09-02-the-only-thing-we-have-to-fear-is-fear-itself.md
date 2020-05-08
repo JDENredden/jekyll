@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The only thing we have to fear is fear itself.
 date: '2011-09-02T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Franklin-Roosevelt
 - the
 - only

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Common sense is not so common.
 date: '2013-02-11T00:39:21+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Voltaire
 - common
 - sense

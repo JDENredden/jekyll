@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Every rule in any art can be broken.
 date: '2012-02-07T12:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Dai-Vernon
 - every
 - rule

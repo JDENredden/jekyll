@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I must govern the clock, not be governed by it.
 date: '2011-06-05T20:20:02+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Golda-Meir
 - clock
 - time

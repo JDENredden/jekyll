@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I myself am made entirely of flaws, stitched together with good intentions.
 date: '2012-09-03T20:07:14+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Augusten-Burroughs
 - i
 - myself

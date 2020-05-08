@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Green is the prime color of the world, and that from which its loveliness arises.
 date: '2012-12-26T12:44:57+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Pedro-Calderon-de-la-Barca
 - green
 - is

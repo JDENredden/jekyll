@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Be not simply good - be good for something.
 date: '2012-01-03T12:18:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-David-Thoreau
 - be
 - not

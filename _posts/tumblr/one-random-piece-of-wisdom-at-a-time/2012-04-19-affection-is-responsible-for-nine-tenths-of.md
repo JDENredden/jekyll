@@ -5,7 +5,7 @@ title: Affection is responsible for nine-tenths of whatever solid and durable ha
   there is in our lives.
 date: '2012-04-19T01:50:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - C.-S.-Lewis
 - affection
 - is

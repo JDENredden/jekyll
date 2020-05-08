@@ -5,7 +5,7 @@ title: I was born with an enormous need for affection, and a terrible need to gi
   it.
 date: '2012-06-07T11:59:29+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Audrey-Hepburn
 - i
 - was

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Reality is wrong. Dreams are for real.
 date: '2013-09-16T12:39:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Tupac-Shakur
 - reality
 - is

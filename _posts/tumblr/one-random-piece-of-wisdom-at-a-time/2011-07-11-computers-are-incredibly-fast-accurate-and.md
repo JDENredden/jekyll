@@ -5,7 +5,7 @@ title: Computers are incredibly fast, accurate, and stupid. Human beings are inc
   slow, inaccurate, and brilliant. Together they are powerful beyond imagination.
 date: '2011-07-11T16:19:15+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - computers
 - are

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you can’t dazzle them with brilliance, baffle them with bull.
 date: '2011-04-05T20:13:57+09:30'
 hidden: true
-tags:
+hidden-tags:
 - W.-C.-Fields
 - brilliance
 - baffle

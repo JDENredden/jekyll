@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Education costs money, but then so does ignorance.
 date: '2012-02-01T12:02:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Sir-Claus-Moser
 - education
 - cost

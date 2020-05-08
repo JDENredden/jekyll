@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To improve is to change; to be perfect is to change often.
 date: '2013-04-09T23:07:45+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Winston-Churchill
 - to
 - improve

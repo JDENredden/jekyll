@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A wise man’s question contains half the answer.
 date: '2012-07-16T18:44:36+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Solomon-Ibn-Gabirol
 - a
 - wise

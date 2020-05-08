@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Success is falling nine times and getting up ten.
 date: '2012-10-02T23:17:29+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jon-Bon-Jovi
 - success
 - is

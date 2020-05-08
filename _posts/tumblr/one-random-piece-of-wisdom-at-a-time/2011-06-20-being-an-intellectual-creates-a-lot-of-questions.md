@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Being an intellectual creates a lot of questions and no answers.
 date: '2011-06-20T12:54:24+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Janis-Joplin
 - intellect
 - intellectual

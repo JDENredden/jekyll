@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To know when you have enough is to be rich beyond measure.
 date: '2012-06-11T11:47:00+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lao-Tzu
 - to
 - know

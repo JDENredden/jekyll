@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'In three words I can sum up everything I’ve learned about life: it goes on.'
 date: '2012-11-23T16:38:52+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Frost
 - in
 - three

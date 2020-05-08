@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: No one can make you feel inferior without your consent.
 date: '2013-01-10T09:52:48+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Eleanor-Roosevelt
 - 'no'
 - one

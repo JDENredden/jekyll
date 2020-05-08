@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To get where you want to go you can’t only do what you like.
 date: '2013-07-12T13:34:20+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Peter-Abrahams
 - to
 - get

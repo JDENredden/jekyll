@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life is really simple, but we insist on making it complicated.
 date: '2013-08-09T12:50:16+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Confucius
 - life
 - is

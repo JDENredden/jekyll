@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You only live once, but if you do it right, once is enough.
 date: '2014-04-21T00:53:43+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Mae-West
 - you
 - only

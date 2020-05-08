@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Opinions are like assholes, everybody has one.
 date: '2011-07-26T13:22:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Clint-Eastwood
 - opinions
 - are

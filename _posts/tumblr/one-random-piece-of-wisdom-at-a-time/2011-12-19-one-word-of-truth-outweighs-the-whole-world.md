@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: One word of truth outweighs the whole world.
 date: '2011-12-19T12:15:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Russian-Proverb
 - one
 - word

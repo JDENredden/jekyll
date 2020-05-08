@@ -5,7 +5,7 @@ title: The scientist is not a person who gives the right answers, he’s one who
   the right questions.
 date: '2012-08-14T11:52:29+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Claude-Levi-Strauss
 - the
 - scientist

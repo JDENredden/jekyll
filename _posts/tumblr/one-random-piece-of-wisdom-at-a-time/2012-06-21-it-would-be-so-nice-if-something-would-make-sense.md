@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It would be so nice if something would make sense for a change.
 date: '2012-06-21T11:50:40+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Lewis-Carroll
 - Alice-in-Wonderland
 - it

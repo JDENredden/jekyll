@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: One person’s crazyness is another person’s reality.
 date: '2012-01-31T12:00:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Tim-Burton
 - one
 - persons

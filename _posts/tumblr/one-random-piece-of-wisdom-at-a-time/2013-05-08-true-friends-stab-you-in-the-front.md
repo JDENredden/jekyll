@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: True friends stab you in the front.
 date: '2013-05-08T00:24:47+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - 'true'
 - friends

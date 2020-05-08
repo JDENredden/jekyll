@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I saw the angel in the marble and carved until I set him free.
 date: '2013-11-28T20:25:51+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Michelangelo
 - i
 - saw

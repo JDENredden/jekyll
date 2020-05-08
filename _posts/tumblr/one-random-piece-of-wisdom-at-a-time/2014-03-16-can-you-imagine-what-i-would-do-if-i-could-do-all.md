@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Can you imagine what I would do if I could do all I can?
 date: '2014-03-16T23:57:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jeff-Rich
 - can
 - you

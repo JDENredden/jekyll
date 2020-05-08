@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I don’t mind making jokes, but I don’t want to look like one.
 date: '2012-04-23T23:22:30+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Marilyn-Monroe
 - I
 - dont

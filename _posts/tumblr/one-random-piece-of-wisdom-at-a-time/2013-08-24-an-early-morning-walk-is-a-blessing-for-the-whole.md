@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: An early-morning walk is a blessing for the whole day.
 date: '2013-08-24T21:15:01+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-David-Thoreau
 - an
 - early

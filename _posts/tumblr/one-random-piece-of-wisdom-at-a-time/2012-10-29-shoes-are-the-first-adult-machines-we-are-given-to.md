@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Shoes are the first adult machines we are given to master.
 date: '2012-10-29T18:58:36+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Nicholson-Baker
 - shoes
 - are

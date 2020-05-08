@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Art is never finished, only abandoned.
 date: '2011-03-12T19:07:02+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Leonardo-da-Vinci
 - quote
 - art

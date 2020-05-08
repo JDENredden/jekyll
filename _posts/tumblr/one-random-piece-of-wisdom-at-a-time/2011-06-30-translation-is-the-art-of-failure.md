@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Translation is the art of failure.
 date: '2011-06-30T19:04:25+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Umberto-Eco
 - translation
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A mistake is to commit a misunderstanding.
 date: '2012-02-26T21:14:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Bob-Dylan
 - a
 - mistake

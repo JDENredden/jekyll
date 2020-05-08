@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Youth is wasted on the young.
 date: '2014-03-13T21:27:14+10:30'
 hidden: true
-tags:
+hidden-tags:
 - George-Bernard-Shaw
 - youth
 - is

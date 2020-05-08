@@ -5,7 +5,7 @@ title: Waiting is painful. Forgetting is painful. But not knowing which to do is
   worse kind of suffering.
 date: '2013-05-20T23:03:10+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Paulo-Coelho
 - waiting
 - is

@@ -5,7 +5,7 @@ title: It is by doubting that we come to investigate, and by investigating that 
   recognise the truth.
 date: '2013-01-23T15:38:28+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Peter-Abelard
 - it
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Film spectators are quiet vampires.
 date: '2013-12-12T22:55:27+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jim-Morrison
 - film
 - spectators

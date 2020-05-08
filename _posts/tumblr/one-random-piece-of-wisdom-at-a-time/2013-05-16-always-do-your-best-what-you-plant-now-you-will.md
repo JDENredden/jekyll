@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Always do your best. What you plant now, you will harvest later.
 date: '2013-05-16T20:00:55+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Og-Mandino
 - always
 - do

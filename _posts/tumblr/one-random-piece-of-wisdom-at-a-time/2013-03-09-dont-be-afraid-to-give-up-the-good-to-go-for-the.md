@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Don’t be afraid to give up the good to go for the great.
 date: '2013-03-09T15:25:03+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-D.-Rockefeller
 - dont
 - be

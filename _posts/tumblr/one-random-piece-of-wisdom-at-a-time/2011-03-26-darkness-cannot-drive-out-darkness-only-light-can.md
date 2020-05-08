@@ -5,7 +5,7 @@ title: Darkness cannot drive out darkness; only light can do that. Hate cannot d
   out hate; only love can do that.
 date: '2011-03-26T00:00:39+10:30'
 hidden: true
-tags:
+hidden-tags:
 - martin-luther-king-jr
 - darkness
 - drive

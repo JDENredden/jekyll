@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Art is magic delivered from the lie of being truth.
 date: '2013-02-11T13:19:54+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Theodor-Adorno
 - art
 - is

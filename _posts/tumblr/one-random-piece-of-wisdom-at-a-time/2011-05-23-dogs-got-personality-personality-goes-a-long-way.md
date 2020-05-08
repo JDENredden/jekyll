@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Dogs got personality. Personality goes a long way.
 date: '2011-05-23T21:42:14+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Quentin-Tarantino
 - dogs
 - quote

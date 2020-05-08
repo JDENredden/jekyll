@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Fashion fades, only style remains the same.
 date: '2013-04-22T13:20:31+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Coco-Chanel
 - fashion
 - fades

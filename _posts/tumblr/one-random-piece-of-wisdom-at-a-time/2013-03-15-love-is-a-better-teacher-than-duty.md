@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Love is a better teacher than duty.
 date: '2013-03-15T23:51:42+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - love
 - is

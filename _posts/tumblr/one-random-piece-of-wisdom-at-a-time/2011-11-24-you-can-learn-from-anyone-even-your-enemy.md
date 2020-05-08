@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You can learn from anyone even your enemy.
 date: '2011-11-24T13:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ovid
 - you
 - can

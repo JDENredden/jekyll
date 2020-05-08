@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To the world you may be just one person, but to one person you may be the world.
 date: '2012-06-23T13:03:28+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Brandi-Snyder
 - to
 - the

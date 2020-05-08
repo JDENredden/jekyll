@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Religion teaches us to be satisfied with not understanding the world.
 date: '2011-10-30T22:30:14+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Richard-Dawkins
 - religion
 - teaches

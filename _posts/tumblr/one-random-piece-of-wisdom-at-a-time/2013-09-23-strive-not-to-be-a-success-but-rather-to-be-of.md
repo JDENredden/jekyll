@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Strive not to be a success, but rather to be of value.
 date: '2013-09-23T23:48:50+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - strive
 - not

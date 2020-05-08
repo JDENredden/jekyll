@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Do what you can, with what you have, where you are.
 date: '2012-06-28T11:55:32+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Theodore-Roosevelt
 - do
 - what

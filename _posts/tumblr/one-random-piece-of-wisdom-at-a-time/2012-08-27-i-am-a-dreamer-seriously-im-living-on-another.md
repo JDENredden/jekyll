@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I am a dreamer. Seriously, I’m living on another planet.
 date: '2012-08-27T21:25:20+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eva-Green
 - i
 - am

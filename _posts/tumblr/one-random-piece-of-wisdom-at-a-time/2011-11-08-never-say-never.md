@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Never say never.
 date: '2011-11-08T22:26:27+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-Dickens
 - never
 - say

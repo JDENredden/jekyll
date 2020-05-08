@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The man who has ceased to fear has ceased to care.
 date: '2013-06-18T12:00:37+09:30'
 hidden: true
-tags:
+hidden-tags:
 - F.-H.-Bradley
 - the
 - man

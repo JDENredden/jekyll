@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Knowledge is true opinion.
 date: '2012-01-25T12:01:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Plato
 - knowledge
 - is

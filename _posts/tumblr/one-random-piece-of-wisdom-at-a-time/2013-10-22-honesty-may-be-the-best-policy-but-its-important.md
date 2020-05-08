@@ -5,7 +5,7 @@ title: Honesty may be the best policy, but it’s important to remember that, by
   dishonesty is the second-best policy.
 date: '2013-10-22T07:46:14+10:30'
 hidden: true
-tags:
+hidden-tags:
 - George-Carlin
 - honesty
 - mqy?be

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I am neither an optimist nor pessimist, but a possibilist.
 date: '2011-03-23T21:51:51+10:30'
 hidden: true
-tags:
+hidden-tags:
 - max-lerner
 - quote
 - wisdom

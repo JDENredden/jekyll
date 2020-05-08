@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A child miseducated is a child lost.
 date: '2011-03-31T23:43:24+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-F.-Kennedy
 - education
 - child

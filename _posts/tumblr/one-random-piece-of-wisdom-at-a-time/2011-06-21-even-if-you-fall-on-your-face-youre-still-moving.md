@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Even if you fall on your face, you’re still moving forward.
 date: '2011-06-21T12:31:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Victor-Kiam
 - even-if
 - you

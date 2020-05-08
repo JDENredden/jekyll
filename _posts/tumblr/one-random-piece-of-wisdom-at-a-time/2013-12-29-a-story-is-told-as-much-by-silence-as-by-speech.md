@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A story is told as much by silence as by speech.
 date: '2013-12-29T23:06:33+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Susan-Griffin
 - a
 - story

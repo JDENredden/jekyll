@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Not until we are lost do we begin to understand ourselves.
 date: '2011-06-28T16:35:04+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-David-Thoreau
 - not
 - until

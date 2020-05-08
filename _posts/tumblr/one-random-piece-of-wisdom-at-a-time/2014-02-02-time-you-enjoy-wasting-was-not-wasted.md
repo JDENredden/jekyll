@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Time you enjoy wasting, was not wasted.
 date: '2014-02-02T20:39:02+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Lennon
 - time
 - you

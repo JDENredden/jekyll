@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Discontent is the first necessity of progress.
 date: '2011-12-27T08:39:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-A.-Edison
 - discontent
 - is

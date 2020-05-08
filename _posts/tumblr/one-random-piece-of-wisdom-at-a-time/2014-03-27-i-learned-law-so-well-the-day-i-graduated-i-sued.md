@@ -5,7 +5,7 @@ title: I learned law so well, the day I graduated I sued the college, won the ca
   and got my tuition back.
 date: '2014-03-27T21:44:01+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Fred-Allen
 - i
 - learned

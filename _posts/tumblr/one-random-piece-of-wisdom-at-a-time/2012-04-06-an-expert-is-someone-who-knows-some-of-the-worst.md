@@ -5,7 +5,7 @@ title: An expert is someone who knows some of the worst mistakes, which can be m
   in a very narrow field.
 date: '2012-04-06T22:27:58+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Niels-Bohr
 - an
 - expert

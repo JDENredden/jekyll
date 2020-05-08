@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I want to have things that dont exist.
 date: '2011-08-30T12:01:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Marc-Newson
 - i
 - want

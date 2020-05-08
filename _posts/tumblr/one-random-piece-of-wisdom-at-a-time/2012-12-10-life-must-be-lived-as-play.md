@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life must be lived as play.
 date: '2012-12-10T14:56:34+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Plato
 - life
 - must

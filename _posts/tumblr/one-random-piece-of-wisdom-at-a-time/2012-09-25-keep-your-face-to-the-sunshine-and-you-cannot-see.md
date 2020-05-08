@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Keep your face to the sunshine and you cannot see a shadow.
 date: '2012-09-25T19:51:26+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Helen-Keller
 - keep
 - your

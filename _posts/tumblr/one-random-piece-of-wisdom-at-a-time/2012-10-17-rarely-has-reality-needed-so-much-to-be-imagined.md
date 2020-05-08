@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Rarely has reality needed so much to be imagined.
 date: '2012-10-17T20:50:26+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Chris-Marker
 - rarely
 - has

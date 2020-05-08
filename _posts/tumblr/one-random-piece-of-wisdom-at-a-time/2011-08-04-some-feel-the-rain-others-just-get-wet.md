@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Some feel the rain, others just get wet.
 date: '2011-08-04T19:11:12+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Bob-Marley
 - some
 - feel

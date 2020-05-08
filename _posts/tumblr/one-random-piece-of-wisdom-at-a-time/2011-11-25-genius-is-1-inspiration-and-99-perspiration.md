@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Genius is 1 inspiration and 99 perspiration.
 date: '2011-11-25T12:35:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Edison
 - genius
 - is

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Most folks are as happy as they make up their minds to be.
 date: '2013-07-02T13:44:09+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Abraham-Lincoln
 - most
 - folks

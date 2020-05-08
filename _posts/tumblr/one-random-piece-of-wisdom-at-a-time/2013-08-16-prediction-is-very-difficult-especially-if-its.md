@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Prediction is very difficult, especially if it’s about the future.
 date: '2013-08-16T20:21:01+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Niels-Bohr
 - science
 - prediction

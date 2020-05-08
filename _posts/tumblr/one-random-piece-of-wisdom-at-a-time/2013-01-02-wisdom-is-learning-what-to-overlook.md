@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Wisdom is learning what to overlook.
 date: '2013-01-02T23:21:27+10:30'
 hidden: true
-tags:
+hidden-tags:
 - William-James
 - wisdom
 - is

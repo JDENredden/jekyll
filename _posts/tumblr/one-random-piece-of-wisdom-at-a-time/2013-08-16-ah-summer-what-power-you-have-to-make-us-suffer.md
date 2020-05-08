@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Ah, summer, what power you have to make us suffer and like it.
 date: '2013-08-16T20:18:24+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Russell-Baker
 - Ah
 - summer

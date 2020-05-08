@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: So many books, so little time.
 date: '2014-04-21T00:53:04+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Frank-Zappa
 - so
 - many

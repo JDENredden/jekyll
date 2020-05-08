@@ -5,7 +5,7 @@ title: Reading many books and researching hundreds of ideas results in creating 
   simple, elegant and, possibly, entertaining.
 date: '2012-05-16T12:01:23+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Paul-Wilson
 - reading
 - many

@@ -5,7 +5,7 @@ title: 'In spite of everything I shall rise again: I will take up my pencil, whi
   I have forsaken in my great discouragement, and I will go on with my drawing.'
 date: '2013-11-02T17:38:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Vincent-van-Gogh
 - in
 - spite

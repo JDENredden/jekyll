@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I am not young enough to know everything.
 date: '2011-10-14T18:20:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - iam
 - not

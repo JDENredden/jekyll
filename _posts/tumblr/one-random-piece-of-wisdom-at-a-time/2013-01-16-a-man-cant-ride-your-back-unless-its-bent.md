@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A man can’t ride your back unless it’s bent.
 date: '2013-01-16T17:30:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Martin-Luther-King-Jr.
 - a
 - man

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: They are not royal. They just happen to have me as their aunt.
 date: '2011-05-16T17:46:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Elizabeth-II
 - royalty
 - they-are-not

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I am not afraid… I was born to do this.
 date: '2012-08-28T21:45:19+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Joan-of-Arc
 - i
 - am

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life is pain and the enjoyment of love is an anesthetic.
 date: '2013-09-09T23:31:22+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Cesare-Pavese
 - life
 - is

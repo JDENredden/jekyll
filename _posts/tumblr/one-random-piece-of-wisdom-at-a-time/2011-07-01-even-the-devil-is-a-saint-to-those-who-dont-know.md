@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Even the devil is a saint to those who don’t know him.
 date: '2011-07-01T20:37:30+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - even
 - the

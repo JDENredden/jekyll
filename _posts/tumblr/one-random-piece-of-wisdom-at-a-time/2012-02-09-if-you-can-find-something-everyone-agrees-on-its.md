@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you can find something everyone agrees on, it’s wrong.
 date: '2012-02-09T19:58:06+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Mo-Udall
 - if
 - you

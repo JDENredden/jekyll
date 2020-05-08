@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All great achievements require time.
 date: '2013-02-04T23:37:46+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Maya-Angelou
 - all
 - great

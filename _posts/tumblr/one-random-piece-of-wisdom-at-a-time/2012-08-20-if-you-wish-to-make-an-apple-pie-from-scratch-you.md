@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you wish to make an apple pie from scratch, you must first invent the universe.
 date: '2012-08-20T20:09:08+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Stephen-Hawking
 - if
 - you

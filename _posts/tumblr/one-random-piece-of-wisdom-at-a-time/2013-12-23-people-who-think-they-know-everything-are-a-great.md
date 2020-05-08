@@ -5,7 +5,7 @@ title: People who think they know everything are a great annoyance to those of u
   who do.
 date: '2013-12-23T20:19:17+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Isaac-Asimov
 - people
 - who

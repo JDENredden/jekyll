@@ -5,7 +5,7 @@ title: What we observe as material bodies and forces are nothing but shapes and 
   in the structure of space.
 date: '2014-04-18T22:22:25+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Erwin-Schrodinger
 - what
 - we

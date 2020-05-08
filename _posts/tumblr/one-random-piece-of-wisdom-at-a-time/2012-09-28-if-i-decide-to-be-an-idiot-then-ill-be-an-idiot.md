@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If I decide to be an idiot, then I’ll be an idiot on my own accord.
 date: '2012-09-28T11:51:43+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Johannes-Sebastian-Bach
 - if
 - I

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To get laid! It is human nature, you have to de-responsible-ise yourself.
 date: '2014-01-29T00:19:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Guy-Manuel-de-Homem-Christo
 - Guy-Man
 - Guy-Manuel

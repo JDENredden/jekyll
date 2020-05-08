@@ -7,7 +7,7 @@ title: No one is born hating another person because of the color of his skin, or
   than its opposite.
 date: '2013-12-06T17:57:20+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Nelson-Mandela
 - 'no'
 - one

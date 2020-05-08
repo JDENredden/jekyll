@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you are out to describe the truth, leave elegance to the tailor.
 date: '2012-06-06T11:57:04+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - if
 - you

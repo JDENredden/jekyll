@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Shit happens and then you live.
 date: '2011-08-14T12:01:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Word-Boner
 - shit
 - happens

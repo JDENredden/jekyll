@@ -5,7 +5,7 @@ title: The pessimist complains about the wind; the optimist expects it to change
   the realist adjusts the sails.
 date: '2011-07-22T12:07:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-A.-Ward
 - the
 - pessimist

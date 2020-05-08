@@ -5,7 +5,7 @@ title: I think the hardest thing to overcome is judging yourself and being your 
   worst critic so to speak.
 date: '2014-02-25T00:48:35+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Nile-Rodgers
 - i
 - think

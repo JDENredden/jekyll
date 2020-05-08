@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Always be a poet, even in prose.
 date: '2014-02-23T23:31:22+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-Baudelaire
 - always
 - be

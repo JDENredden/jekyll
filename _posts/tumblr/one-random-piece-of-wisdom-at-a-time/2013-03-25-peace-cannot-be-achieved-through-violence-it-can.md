@@ -5,7 +5,7 @@ title: Peace cannot be achieved through violence, it can only be attained throug
   understanding.
 date: '2013-03-25T22:51:55+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Ralph-Waldo-Emerson
 - peace
 - cannot

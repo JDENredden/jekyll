@@ -7,7 +7,7 @@ title: 'For the past 33 years, I have looked in the mirror every morning and ask
   I know I need to change something.'
 date: '2013-05-26T18:20:10+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Steve-Jobs
 - for
 - the

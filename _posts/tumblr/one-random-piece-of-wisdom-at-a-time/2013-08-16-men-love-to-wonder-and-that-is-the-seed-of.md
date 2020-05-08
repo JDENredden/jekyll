@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Men love to wonder, and that is the seed of science.
 date: '2013-08-16T20:20:21+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ralph-Waldo-Emerson
 - men
 - love

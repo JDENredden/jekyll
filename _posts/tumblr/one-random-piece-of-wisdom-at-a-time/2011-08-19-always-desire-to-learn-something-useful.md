@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Always desire to learn something useful.
 date: '2011-08-19T12:01:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Sophocles
 - always
 - desire

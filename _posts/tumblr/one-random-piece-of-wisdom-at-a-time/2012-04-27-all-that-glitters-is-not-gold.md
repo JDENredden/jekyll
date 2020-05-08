@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All that glitters is not gold.
 date: '2012-04-27T23:07:57+09:30'
 hidden: true
-tags:
+hidden-tags:
 - William-Shakespeare
 - all
 - that

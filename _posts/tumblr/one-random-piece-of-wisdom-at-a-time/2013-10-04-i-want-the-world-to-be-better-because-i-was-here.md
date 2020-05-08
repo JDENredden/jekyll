@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I want the world to be better because I was here.
 date: '2013-10-04T00:19:48+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Will-Smith
 - i
 - want

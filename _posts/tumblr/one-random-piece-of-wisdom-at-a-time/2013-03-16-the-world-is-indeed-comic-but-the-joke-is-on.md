@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The world is indeed comic, but the joke is on mankind.
 date: '2013-03-16T23:54:49+10:30'
 hidden: true
-tags:
+hidden-tags:
 - H.-P.-Lovecraft
 - the
 - world

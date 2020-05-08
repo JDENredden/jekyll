@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I think the thing to do is enjoy the ride while you’re on it.
 date: '2014-03-22T16:51:48+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Johnny-Depp
 - i
 - think

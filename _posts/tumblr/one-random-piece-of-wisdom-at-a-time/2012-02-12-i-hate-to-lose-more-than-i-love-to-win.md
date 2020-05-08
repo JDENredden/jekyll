@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I hate to lose more than I love to win.
 date: '2012-02-12T12:00:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jimmy-Connors
 - i
 - hate

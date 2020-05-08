@@ -5,7 +5,7 @@ title: Love is our true destiny. We do not find the meaning of life by ourselves
   - we find it with another.
 date: '2014-02-11T18:38:47+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Thomas-Merton
 - love
 - is

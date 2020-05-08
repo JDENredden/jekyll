@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'Three things cannot be long hidden: the sun, the moon, and the truth.'
 date: '2014-03-27T21:45:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Buddha
 - three
 - things

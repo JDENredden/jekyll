@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A part of me has become immortal, out of my control.
 date: '2012-03-13T23:53:18+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Brian-Eno
 - a
 - part

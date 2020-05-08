@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: America is just downright mean.
 date: '2011-05-19T21:32:32+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Michelle-Obama
 - america
 - mean

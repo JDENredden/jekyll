@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Certain kinds of knowledge rob people of their sleep.
 date: '2012-10-22T22:15:14+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Haruki-Murakami
 - certain
 - kinds

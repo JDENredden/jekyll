@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You can’t fool someone with an experience that they haven’t had before.
 date: '2011-07-30T12:00:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Michael-Weber
 - you
 - cant

@@ -5,7 +5,7 @@ title: Today you are you, that is truer than true. There is no one alive who is 
   than you.
 date: '2011-03-28T20:12:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - dr-seuss
 - today
 - you

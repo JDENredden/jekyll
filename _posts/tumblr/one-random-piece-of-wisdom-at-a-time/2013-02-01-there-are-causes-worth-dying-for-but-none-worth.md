@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: There are causes worth dying for, but none worth killing for.
 date: '2013-02-01T20:16:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Camus
 - there
 - are

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Every time I look at you I get a fierce desire to be lonesome.
 date: '2011-08-06T12:01:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Levant
 - everytime
 - I

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Man is born free and everywhere he is in chains.
 date: '2014-04-11T00:27:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Jean-Jacques-Rousseau
 - man
 - is

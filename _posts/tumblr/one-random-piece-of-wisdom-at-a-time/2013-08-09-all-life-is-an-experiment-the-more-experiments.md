@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: All life is an experiment. The more experiments you make the better.
 date: '2013-08-09T12:53:33+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Ralph-Waldo-Emerson
 - all
 - life

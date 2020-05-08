@@ -5,7 +5,7 @@ title: Being honest may not get you a lot of friends but it’ll always get you 
   right ones.
 date: '2013-01-18T22:04:42+10:30'
 hidden: true
-tags:
+hidden-tags:
 - John-Lennon
 - being
 - honest

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It does not matter how slowly you go as long as you do not stop.
 date: '2013-04-17T12:55:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Confucius
 - it
 - does

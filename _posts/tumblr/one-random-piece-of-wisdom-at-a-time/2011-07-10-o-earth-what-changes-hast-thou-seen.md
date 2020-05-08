@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: O earth, what changes hast thou seen!
 date: '2011-07-10T20:36:37+09:30'
 hidden: true
-tags:
+hidden-tags:
 - O
 - earth
 - what

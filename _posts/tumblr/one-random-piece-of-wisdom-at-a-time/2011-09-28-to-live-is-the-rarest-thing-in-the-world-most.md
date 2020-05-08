@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: To live is the rarest thing in the world. Most people exist, that is all.
 date: '2011-09-28T22:21:51+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Oscar-Wilde
 - to
 - live

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: The principles of true art is not to portray, but to evoke.
 date: '2012-10-30T22:49:11+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Jerzy-Kosinski
 - the
 - principles

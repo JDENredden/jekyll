@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Action is the real measure of intelligence.
 date: '2012-01-28T22:15:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Napoleon-Hill
 - action
 - is

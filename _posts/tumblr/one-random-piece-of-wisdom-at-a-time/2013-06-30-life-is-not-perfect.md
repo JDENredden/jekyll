@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Life is not perfect.
 date: '2013-06-30T00:13:13+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Javier-Bardem
 - life
 - is

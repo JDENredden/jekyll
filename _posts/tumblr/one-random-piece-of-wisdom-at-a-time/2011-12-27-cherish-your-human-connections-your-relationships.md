@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'Cherish your human connections: your relationships with friends and family.'
 date: '2011-12-27T01:18:38+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Joseph-Brodsky
 - cherish
 - your

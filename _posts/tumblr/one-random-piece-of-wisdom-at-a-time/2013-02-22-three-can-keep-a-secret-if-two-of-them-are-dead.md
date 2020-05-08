@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Three can keep a secret, if two of them are dead.
 date: '2013-02-22T19:23:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Benjamin-Franklin
 - three
 - can

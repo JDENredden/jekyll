@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Nothing is more expensive than a missed opportunity.
 date: '2013-01-10T09:53:38+10:30'
 hidden: true
-tags:
+hidden-tags:
 - H.-Jackson-Brown-Jr.
 - nothing
 - is

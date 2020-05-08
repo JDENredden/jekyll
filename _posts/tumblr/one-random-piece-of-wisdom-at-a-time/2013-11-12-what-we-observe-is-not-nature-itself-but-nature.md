@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: What we observe is not nature itself, but nature exposed to our method of questioning.
 date: '2013-11-12T23:48:00+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Werner-Heisenberg
 - what
 - we

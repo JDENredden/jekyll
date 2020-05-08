@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Your body hears everything your mind says.
 date: '2013-07-18T19:20:03+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Naomi-Judd
 - your
 - body

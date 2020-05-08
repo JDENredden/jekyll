@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Iron hand in a velvet glove.
 date: '2012-01-29T12:02:05+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Charles-V
 - iron
 - hand

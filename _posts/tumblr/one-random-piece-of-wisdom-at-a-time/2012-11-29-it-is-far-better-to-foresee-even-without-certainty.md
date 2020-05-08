@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: It is far better to foresee even without certainty than not to foresee at all.
 date: '2012-11-29T13:02:15+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Henri-Poincare
 - it
 - is

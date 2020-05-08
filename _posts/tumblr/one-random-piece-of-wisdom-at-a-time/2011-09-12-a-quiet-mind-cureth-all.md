@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A quiet mind cureth all.
 date: '2011-09-12T23:41:29+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Robert-Burton
 - a
 - quiet

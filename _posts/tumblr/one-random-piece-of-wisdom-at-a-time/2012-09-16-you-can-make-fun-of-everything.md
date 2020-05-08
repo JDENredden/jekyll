@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: You can make fun of everything.
 date: '2012-09-16T15:42:16+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Matt-Stone
 - you
 - can

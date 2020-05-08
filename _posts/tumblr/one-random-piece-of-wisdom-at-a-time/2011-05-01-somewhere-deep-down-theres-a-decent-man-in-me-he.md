@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Somewhere deep down there’s a decent man in me, he just can’t be found.
 date: '2011-05-01T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Eminem
 - somewhere
 - deep-down

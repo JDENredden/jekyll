@@ -5,7 +5,7 @@ title: Be a yardstick of quality. Some people aren’t used to an environment wh
   excellence is expected.
 date: '2012-09-17T22:06:09+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Steve-Jobs
 - be
 - a

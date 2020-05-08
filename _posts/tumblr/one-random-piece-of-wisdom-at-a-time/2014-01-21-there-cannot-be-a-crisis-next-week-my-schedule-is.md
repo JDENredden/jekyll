@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: There cannot be a crisis next week. My schedule is already full.
 date: '2014-01-21T22:26:14+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Henry-A.-Kissinger
 - there
 - cannot

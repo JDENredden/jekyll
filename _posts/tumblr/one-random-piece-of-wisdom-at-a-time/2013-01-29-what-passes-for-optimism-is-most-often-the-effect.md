@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: What passes for optimism is most often the effect of an intellectual error.
 date: '2013-01-29T15:03:58+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Raymond-Aron
 - what
 - passes

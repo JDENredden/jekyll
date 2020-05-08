@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A picture is worth a thousand words.
 date: '2011-08-10T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Napoleon-Bonaparte
 - a
 - picture

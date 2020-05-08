@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: If you could reason with religious people, there would be no religious people.
 date: '2011-03-21T20:37:18+10:30'
 hidden: true
-tags:
+hidden-tags:
 - dr-house
 - quote
 - hugh-laurie

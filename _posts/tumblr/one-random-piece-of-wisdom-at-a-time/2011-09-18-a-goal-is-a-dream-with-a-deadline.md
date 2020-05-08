@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: A goal is a dream with a deadline.
 date: '2011-09-18T12:07:05+09:30'
 hidden: true
-tags:
+hidden-tags:
 - Napoleon-Hill
 - a
 - goal

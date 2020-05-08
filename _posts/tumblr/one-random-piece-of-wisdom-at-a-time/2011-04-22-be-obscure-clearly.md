@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Be obscure clearly.
 date: '2011-04-22T12:00:06+09:30'
 hidden: true
-tags:
+hidden-tags:
 - E.-B.-White
 - quote
 - wisdom

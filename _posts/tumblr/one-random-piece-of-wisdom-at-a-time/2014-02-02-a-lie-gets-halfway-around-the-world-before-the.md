@@ -5,7 +5,7 @@ title: A lie gets halfway around the world before the truth has a chance to get 
   pants on.
 date: '2014-02-02T20:36:33+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Winston-Churchill
 - a
 - lie

@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: 'A question that sometimes drives me hazy: am I or are the others crazy?'
 date: '2013-10-14T23:11:10+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Albert-Einstein
 - a
 - question

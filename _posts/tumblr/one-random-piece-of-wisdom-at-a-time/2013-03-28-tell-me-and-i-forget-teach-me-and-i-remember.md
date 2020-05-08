@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: Tell me and I forget. Teach me and I remember. Involve me and I learn.
 date: '2013-03-28T20:07:16+10:30'
 hidden: true
-tags:
+hidden-tags:
 - Benjamin-Franklin
 - tell
 - me

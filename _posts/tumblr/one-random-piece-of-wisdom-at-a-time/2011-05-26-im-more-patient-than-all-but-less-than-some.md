@@ -4,7 +4,7 @@ categories: tumblr one-random-piece-of-wisdom-at-a-time
 title: I’m more patient than all, but less than some.
 date: '2011-05-26T21:28:18+09:30'
 hidden: true
-tags:
+hidden-tags:
 - unknown-author
 - impossible
 - paradox
