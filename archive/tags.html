@@ -50,11 +50,13 @@ permalink: /blog/archive/tag/
 
   <ul class="related-posts" aria-label="posts classified under {{ tag }}">
   {% for post in site.tags[tag] %}
+    {% if post.hidden != true %}
     <li class="archive-posts">
       {% include post-list.html %}
     </li>
       
   {% assign lastLetter = tmpLetter %}
+    {% endif %}
   {% endfor %}
   </ul>
 {% endfor %}

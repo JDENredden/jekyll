@@ -1,0 +1,68 @@
+---
+layout: default
+permalink: /blog/tumblr/one-random-piece-of-wisdom-at-a-time/
+pagination:
+  enabled: true
+  category: one-random-piece-of-wisdom-at-a-time
+title: One Random Piece of Wisdom at a Time
+description: "Enhance ones knowledge and wisdom; indulging in a quote from the world's best thinkers. Per diem."
+syndication_url: https://onerandompieceofwisdomatatime.tumblr.com
+---
+
+<h1 id="stylish-blur"><a href="{{ site.baseurl }}/{{ page.pagination.category }}">{{ page.title }}</a></h1>
+  
+{% if paginator.page > 1 %}
+  <h2 id="page-paginator-page-">Page {{ paginator.page }}</h2>
+{% endif %}
+
+<hr>
+
+<h3>Description</h3>
+<p>{{ page.description }}</p>
+
+<hr>
+
+<h3 id="syndication">Syndication</h3>
+<p>This is the full syndication of the blog: <a href="{{ syndication.url }}">{{ page.title }}</a>, which was orignally posted on <a href="https://tumblr.com">Tumblr</a>.</p>
+
+<hr>
+
+<p>Filter the archive by: <a href="{{ site.baseurl }}/archive">year</a>, <a href="{{ site.baseurl }}/archive/category">category</a>, or by <a href="{{ site.baseurl }}/archive/tag">tag</a>.</p>
+
+<hr>
+
+<div class="posts">
+    
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      {% if post.external_url %}
+        <a class="external-link" href="{{ post.external_url }}" onclick="captureOutboundLink(this); return false;">{{ post.title }}</a>&nbsp;
+        <a href="{{ post.url }}">&#8734;</a>
+      {% else %}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </h1>
+
+    <a class="post-date" href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A %-d %B %Y" }}</time></a>
+
+    {{ post.content }}
+    <hr>
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.total_pages > 1 %}
+      {% if paginator.next_page %}
+        <a class="pagination-item older" href="{{ paginator.next_page_path }}">Older</a>
+      {% else %}
+        <span class="pagination-item older">Older</span>
+      {% endif %}
+      {% if paginator.previous_page %}
+        <a class="pagination-item newer" href="{{ paginator.previous_page_path }}">Newer</a>
+      {% else %}
+        <span class="pagination-item newer">Newer</span>
+      {% endif %}
+  {% endif %}
+</div>
