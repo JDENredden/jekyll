@@ -1,7 +1,7 @@
 {% if post.external_url %}
   <!--<a href="{{ post.external_url }}" onclick="sa_event('linked-{{ post.external_url | remove: 'https://' | remove: 'http://' }}');">-->
   <h4>
-    <a class="external-link" href="{{ post.external_url }}" onclick="captureOutboundLink(this); return false;">{{ post.title }}</a>&nbsp;
+    <a class="external-link" href="{{ post.external_url }}">{{ post.title }}</a>&nbsp;
     <a href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}"><small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></small></a>&nbsp;
     <a href="{{ post.url }}">&#8734;</a>
   </h4>

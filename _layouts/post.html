@@ -19,7 +19,7 @@ layout: default
   
   <hr>
   
-  <h3>Syndication</h3>
+  <h3><a href="{{ site.baseurl }}/syndication">Syndication</a></h3>
   <p>This post was orignally posted on <a href="https://tumblr.com">Tumblr</a> on the blog: <a href="{{ page.tumblr_website_url }}">{{ page.tumblr }}</a>. View the <a href="{{ site.baseurl }}/{{ page.tumblr | slugify }}">full syndicated blog</a> or view the <a href="{{ page.tumblr_url }}">original post.</a></p>
   <hr>
   
@@ -32,10 +32,10 @@ layout: default
   <hr>
 
   <nav class="archive-nav">
-    <h3 class="archive-header">By category</h3>
+    <h3 class="archive-header"><a href="{{ site.baseurl }}/archive/category">By category</a></h3>
     <p>
     {% for tag in page.categories %}
-        <strong><a href="{{ site.baseurl }}/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
+        <strong><a href="{{ site.baseurl }}/archive/category/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
     {% endfor %}
     </p>
   </nav>
