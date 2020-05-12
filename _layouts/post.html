@@ -44,16 +44,19 @@ layout: default
 <hr>
 
 {% if page.hidden != true %}
-<!--{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:3 %}-->
-<!--{% assign postsNotHidden = site.posts | where_exp: "item", "item.hidden != true" %}-->
-{% assign posts = site.related_posts %}
+<!--{% assign posts = site.categories[page.category] | where_exp: "item", "item.hidden != true" | sample:3 %}-->
+<!--{% assign posts = site.categories.page.categories[0] | where_exp:"post", "post.url != page.url" | sample:3 %}-->
+{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:3 %}
+<!--{% assign posts = site.related_posts %}-->
 <aside class="related">
   <h3>Related posts</h3>
   <ul class="related-posts">
-  {% for post in posts limit:3 %}
-    <li class="archive-posts">
-      {% include post-list.html %}
-    </li>
+  {% for post in posts %}
+    {% unless post.hidden %}
+      <li class="archive-posts">
+        {% include post-list.html %}
+      </li>
+    {% endunless %}
   {% endfor %}
   </ul>
 </aside>
