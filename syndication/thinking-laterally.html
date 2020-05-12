@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blog/syndication/thinking-laterally/
+permalink: /blog/tumblr/thinking-laterally/
 pagination:
   enabled: true
   category: thinking-laterally
@@ -10,14 +10,6 @@ description: "Blog no. 7 to further compartmentalise my mind.<br><br>
 n. (Psychology) a way of solving problems by rejecting traditional methods and employing unorthodox and apparently illogical mean."
 syndication_url: https://thinkinglaterally.tumblr.com
 ---
-
-<h1 id="stylish-blur"><a href="{{ site.baseurl }}/{{ page.pagination.category }}">{{ page.title }}</a></h1>
-  
-{% if paginator.page > 1 %}
-  <h2 id="page-paginator-page-">Page {{ paginator.page }}</h2>
-{% endif %}
-
-<hr>
 
 <h3>Description</h3>
 <p>{{ page.description }}</p>
@@ -34,16 +26,12 @@ syndication_url: https://thinkinglaterally.tumblr.com
 <hr>
 
 <div class="posts">
-    
-  {% for post in paginator.posts %}
+
+  
+  {% for post in site.categories.one-random-piece-of-wisdom-at-a-time %}
   <article class="post">
-    <h1 class="post-title">
-      {% if post.external_url %}
-        <a class="external-link" href="{{ post.external_url }}" onclick="captureOutboundLink(this); return false;">{{ post.title }}</a>&nbsp;
-        <a href="{{ post.url }}">&#8734;</a>
-      {% else %}
+    <h1 class="post-title" id="{{ forloop.index }}">
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
     </h1>
 
     <a class="post-date" href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A %-d %B %Y" }}</time></a>
@@ -52,19 +40,4 @@ syndication_url: https://thinkinglaterally.tumblr.com
     <hr>
   </article>
   {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.total_pages > 1 %}
-      {% if paginator.next_page %}
-        <a class="pagination-item older" href="{{ paginator.next_page_path }}">Older</a>
-      {% else %}
-        <span class="pagination-item older">Older</span>
-      {% endif %}
-      {% if paginator.previous_page %}
-        <a class="pagination-item newer" href="{{ paginator.previous_page_path }}">Newer</a>
-      {% else %}
-        <span class="pagination-item newer">Newer</span>
-      {% endif %}
-  {% endif %}
 </div>
