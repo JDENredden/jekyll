@@ -112,6 +112,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-gist
   jekyll-paginate-v2
+  classifier-reborn
   minima (~> 2.0)
   tzinfo-data
 
