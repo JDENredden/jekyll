@@ -85,7 +85,7 @@ non-blog: true
   
   var country = city.split(", ")[1];
   
-  var countryEmoji = city.toUpperCase().replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397) );
+  var countryEmoji = country.toUpperCase().replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397) );
   
   document.getElementById("server").innerHTML = serverCode;
   document.getElementById("city").innerHTML = city;
