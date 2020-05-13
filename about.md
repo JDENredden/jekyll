@@ -54,11 +54,11 @@ The Gospel According to jden is writted and produced by jden redden.
 
 #### Hosting
 
-This website is hosted on [Exoscale's](https://exoscale.com) [Object Storage](https://exoscale.com/object-storage/) located in Zurich, Switzerland ([CH-DK-2](https://www.exoscale.com/datacenters/)). This website is also accelerated through [BunnyCDN's](https://bunnycdn.com/?ref=qckybt9swf) global CDN network.
+This website is hosted on [Exoscale's](https://exoscale.com) [Object Storage](https://exoscale.com/object-storage/) located in Zurich, Switzerland ([CH-DK-2](https://www.exoscale.com/datacenters/)). The Object Storage is served through an [NGINX reverse proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/) powered by [Ubuntu 20.04](https://releases.ubuntu.com/20.04/) on an Exocale [Micro Compute Instance](https://exoscale.com/compute/). This website is also accelerated through [BunnyCDN's](https://bunnycdn.com/?ref=qckybt9swf) global CDN network.
 
-You can bypass the CDN and view this website's origin (direct from Switzerland) at [origin.jden.me](https://origin.jden.me).
+You can bypass the CDN and view this website's origin (direct from Switzerland) at [exo.jden.me](https://exo.jden.me).
 
-<p>This page is being delivered to you <span id="cdnRequest"></span>by <strong><span id="provider"></span>'s</strong> <strong><span id="server"></span></strong> server located in <strong><span id="city"></span></strong> <span id="country"></span>.</p>
+This page is being delivered to you <span id="cdnRequest"></span>by <strong><span id="provider"></span>'s</strong> <strong><span id="server"></span></strong> server located in <strong><span id="city"></span></strong> <span id="country"></span>.
 
 This websites source code is hosted on [GitHub](https://github.com) and available in this [repository](https://github.com/JDENredden/website) and deployed to Exoscale through [Travis CI](https://travis-ci.org).
 

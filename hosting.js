@@ -11,7 +11,7 @@
     "HK"	: "Hong Kong, HK",
     "LA"	: "Los Angeles, US",
     "GA"	: "Atlanta, US",
-    "SYD"	: "Sydney, SYD",
+    "SYD"	: "Sydney, AU",
     "BU"	: "Bucharest, RO",
     "JP"	: "Tokyo, JP",
     "FR"	: "Paris, FR",
