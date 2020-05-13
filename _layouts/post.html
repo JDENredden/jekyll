@@ -6,7 +6,7 @@ layout: default
   
   <h1 class="post-title">
     {% if page.external_url %}
-      <a class="external-link" href="{{ page.external_url }}" onclick="captureOutboundLink(this); return false;">{{ page.title }}</a>&nbsp;
+      <a class="external-link" href="{{ page.external_url }}">{{ page.title }}</a>&nbsp;
       <a href="{{ page.url }}">&#8734;</a>
     {% else %}
     <a href="{{ page.url }}">{{ page.title }}</a>
@@ -44,14 +44,12 @@ layout: default
 <hr>
 
 {% if page.hidden != true %}
-<!--{% assign posts = site.categories[page.category] | where_exp: "item", "item.hidden != true" | sample:3 %}-->
-<!--{% assign posts = site.categories.page.categories[0] | where_exp:"post", "post.url != page.url" | sample:3 %}-->
-{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:3 %}
+{% assign related = site.posts | where_exp:"post", "post.url != page.url and post.hidden != true" | sample:3 %}
 <!--{% assign posts = site.related_posts %}-->
 <aside class="related">
   <h3>Related posts</h3>
   <ul class="related-posts">
-  {% for post in posts %}
+  {% for post in related %}
     {% unless post.hidden %}
       <li class="archive-posts">
         {% include post-list.html %}

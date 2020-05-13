@@ -7,7 +7,6 @@ tags:
 - 12-things
 - 12-months
 - secret
-hidden: true
 ---
 
 This is an external link log.
