@@ -64,7 +64,9 @@ This websites source code is hosted on [GitHub](https://github.com) and availabl
 
 #### Security
 
-The connection between Render and Cloudflare CDN is secured with a [Let's Encrypt](http://letsencrypt.org) SSL/TLS certificate, and the connection between Cloudflare CDN and you is secured with a [Cloudflare SSL/TLS](https://cloudflare.com/ssl/) certificate.
+Exoscale's Object Storage is secured with a SSL/TLS certificate issued by [Gandi](https://www.gandi.net/en-AU/security). Both [exo.jden.me](https://exo.jden.me) and [BunnyCDN](https://bunnycdn.com/features) endpoints are secured with SSL/TLS certificates issued by [Let's Encrypt](http://letsencrypt.org).
+
+HTTPS is forced and all HTTP requests are 301 permanently redirected to HTTPS.
 
 DNSSEC is enabled on this website with algorithm [13 (ECDSA Curve P-256 with SHA-256)](https://cloudflare.com/dns/dnssec/ecdsa-and-dnssec/).
 
