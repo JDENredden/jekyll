@@ -1,0 +1,90 @@
+  function serverLookup(val) {
+  var result = "";
+  
+  var data = {
+    "UK"    : "London, UK",
+    "NY"	: "New York City, US",
+    "WA"	: "Seattle, WA",
+    "SG"	: "Singapore, SG",
+    "DE"	: "Frankfurt, DE",
+    "TX"	: "Dallas, US",
+    "HK"	: "Hong Kong, HK",
+    "LA"	: "Los Angeles, US",
+    "GA"	: "Atlanta, US",
+    "SYD"	: "Sydney, SYD",
+    "BU"	: "Bucharest, RO",
+    "JP"	: "Tokyo, JP",
+    "FR"	: "Paris, FR",
+    "KC"	: "Kansas City, US",
+    "MI"	: "Miami, US",
+    "CA"	: "Beauharnois, CA",
+    "AMS"	: "Amsterdam, NL",
+    "SIL"	: "San Jose, US",
+    "BR"	: "Sao Paulo, BR",
+    "ES"	: "Madrid, ES",
+    "IL"	: "Chicago, US",
+    "NO"	: "Oslo, NO",
+    "RU"	: "Moscow, RU",
+    "IT"	: "Milan, IT",
+    "JH"	: "Johannesburg, ZA",
+    "IN"	: "Bangalore, IN",
+    "CZ"	: "Prague, CZ",
+    "TR"	: "Istanbul, TR",
+    "PL"	: "Warsaw, PL",
+    "CA"	: "Toronto, CA",
+    "SLC"	: "Salt Lake City, US",
+    "HK"	: "Hong Kong, HK",
+    "TH"	: "Bangkok, TH",
+    "VN"	: "Hanoi, VN",
+    "LT"	: "Vilnius, LT",
+    "PER"	: "Perth, AU",
+    "MEL"	: "Melbourne, AU",
+    "AUC"	: "Auckland, NZ",
+    "BRB"	: "Brisbane, AU",
+    "ASB"	: "Ashburn, US",
+    "KR"	: "Seoul, KR",
+    "WDC"	: "Washington D.C., US",
+    "ADL"	: "Adelaide, AU",
+    "MU"	: "Mumbai, IN",
+    "AT"	: "Vienna, AT",
+    "FI"	: "Helsinki, FI",
+    "ISR"	: "Tel Aviv, IL",
+    "VA"	: "Vancouver, CA",
+    "AE"	: "Dubai, AE",
+    "DEN"	: "Denver, US",
+    "SE"	: "Stockholm, SE",
+    "CH"	: "Zurich, CH",
+    "ND"	: "New Delhi, IN"
+  };
+  
+  result = data[val];
+  
+  return result;
+}
+  
+(function getHeader() {
+  var req = new XMLHttpRequest();
+  req.open('GET', document.location, false);
+  req.send(null);
+  var server = req.getResponseHeader("server");
+  //alert(server.substr(9,3).split("1")[0]);
+  
+  if (server.substr(0,5) == "Bunny") {
+    var provider = "BunnyCDN";
+    var serverCode = server.substr(9,3).split("1")[0];
+    var city = serverLookup(serverCode);
+    var country = city.split(", ")[1];
+    var countryEmoji = country.toUpperCase().replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397));
+  } else {
+    var provider = "Exoscale";
+    var serverCode = "CH-DK-2";
+    var city = "Zurich, CH";
+    var countryEmoji = "🇨🇭";
+  }
+  
+  document.getElementById("server").innerHTML = serverCode;
+  document.getElementById("city").innerHTML = city;
+  document.getElementById("country").innerHTML = countryEmoji;
+  document.getElementById("provider").innerHTML = provider;
+  
+})();

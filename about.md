@@ -54,9 +54,13 @@ The Gospel According to jden is writted and produced by jden redden.
 
 #### Hosting
 
-This website is statically hosted on [Render](https://render.com) through continuous deployment with [GitHub](https://github.com) and protected and served through the [Cloudflare CDN](https://www.cloudflare.com/cdn/).
+This website is hosted on [Exoscale's](https://exoscale.com) [Object Storage](https://exoscale.com/object-storage/) located in Zurich, Switzerland ([CH-DK-2](https://www.exoscale.com/datacenters/)). This website is also accelerated through [BunnyCDN's](https://bunnycdn.com/?ref=qckybt9swf) global CDN network.
 
-The entire source code for this website is available in this GitHub [repository](https://github.com/JDENredden/website).
+You can bypass the CDN and view this website's origin (direct from Switzerland) at [origin.jden.me](https://origin.jden.me).
+
+<p>This page is being delivered by <strong><span id="provider"></span>'s</strong> <strong><span id="server"></span></strong> server in <strong><span id="city"></span></strong> <span id="country"></span>.</p>
+
+This websites source code is hosted on [GitHub](https://github.com) and available in this [repository](https://github.com/JDENredden/website) and deployed to Exoscale through [Travis CI](https://travis-ci.org).
 
 #### Security
 
@@ -96,4 +100,5 @@ If you have any issues, please [let me know](#contact).
 
 This website was last built [{{ site.time | date: "%A, %-d %B %Y at %l:%M %P (%Z %z)"}}](https://github.com/JDENredden/website).
 
+<script src="/hosting.js"></script>
 ---
