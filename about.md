@@ -58,7 +58,7 @@ This website is hosted on [Exoscale's](https://exoscale.com) [Object Storage](ht
 
 You can bypass the CDN and view this website's origin (direct from Switzerland) at [origin.jden.me](https://origin.jden.me).
 
-<p>This page is being delivered by <strong><span id="provider"></span>'s</strong> <strong><span id="server"></span></strong> server in <strong><span id="city"></span></strong> <span id="country"></span>.</p>
+<p>This page is being delivered to you <span id="cdnRequest"></span>by <strong><span id="provider"></span>'s</strong> <strong><span id="server"></span></strong> server located in <strong><span id="city"></span></strong> <span id="country"></span>.</p>
 
 This websites source code is hosted on [GitHub](https://github.com) and available in this [repository](https://github.com/JDENredden/website) and deployed to Exoscale through [Travis CI](https://travis-ci.org).
 

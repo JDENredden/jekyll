@@ -74,7 +74,9 @@
     var serverCode = server.substr(9,3).split("1")[0];
     var city = serverLookup(serverCode);
     var country = city.split(", ")[1];
-    var countryEmoji = country.toUpperCase().replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397));
+    var countryEmoji = country.replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397));
+    var cdnRequest = req.getResponseHeader("cdn-requestcountrycode").replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397));
+    document.getElementById("cdnRequest").innerHTML = "(in " + cdnRequest + ") ";
   } else {
     var provider = "Exoscale";
     var serverCode = "CH-DK-2";
