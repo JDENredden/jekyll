@@ -46,7 +46,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden), o
 
 ### About this site
 
-The Gospel According to jden is writted and produced by jden redden. 
+The Gospel According to jden is writted and produced by jden redden. If you would like to syndicate or republish my content please get in [touch](#contact).
 
 *Note: Links below may have referral or affiliate links attached, visit the websites directly if this is a concern.*
 
