@@ -11,6 +11,6 @@ After a long break in blogging, I am making a come back. I have spent alot of my
 
 In the coming blog posts I will post about various technical points of interest I came across building this website. Additonally, I will be slowly introducing various categories, verticals, columns to write about a broad variety of subjects. In the interium to avoid missing out any of my *frequently updated* blog posts you can subscribe to my newsletter below.
 
-[Subscribe](https://buttondown.email/jden).
+[Subscribe with Buttondown](https://buttondown.email/jden).
 
 Expect an email from me soon, if I don't I give you permission to bug me over [email](/about#contact) or [Twitter](https://twitter.com/jden).
