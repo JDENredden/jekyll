@@ -13,7 +13,7 @@ deploy:
   on:
     branch: poole
 after_deploy: 
-  script: bash bunnyCDN.sh
+  - ./bunnyCDN.sh
 #  - curl --include \
 #                        --request POST \
 #                        --header "Content-Type: application/xml" \
