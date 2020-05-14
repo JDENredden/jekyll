@@ -9,12 +9,8 @@ tags:
 
 After a long break in blogging, I am making a come back. I have spent alot of my newly found Covid-19 free-time finishing off my blog migration from [Ghost](https://ghost.org) to [Jekyll](https://jekyllrb.com); and otherwise updating and fixing my website from being a [very very boring](https://web.archive.org/web/20180831040610/https://jden.me/) single page website to something that actually represents me on the web.
 
-In the coming blog posts I will post about various technical points of interest I came across building this website. Additonally, I will be slowly introducing various categories, verticals, columns to write about a broad variety of subjects. In the interium to avoid missing out any of my *frequently updated* blog posts you can subscribe to my news letter below.
+In the coming blog posts I will post about various technical points of interest I came across building this website. Additonally, I will be slowly introducing various categories, verticals, columns to write about a broad variety of subjects. In the interium to avoid missing out any of my *frequently updated* blog posts you can subscribe to my newsletter below.
 
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/jden?as_embed=true"
-></iframe><br /><br />
+[Subscribe](https://buttondown.email/jden)
 
 Expect an email from me soon, if I don't I give you permission to bug me over [email](/about#contact) or [Twitter](https://twitter.com/jden).
