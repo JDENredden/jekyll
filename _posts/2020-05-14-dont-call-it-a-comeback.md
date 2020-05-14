@@ -11,20 +11,10 @@ After a long break in blogging, I am making a come back. I have spent alot of my
 
 In the coming blog posts I will post about various technical points of interest I came across building this website. Additonally, I will be slowly introducing various categories, verticals, columns to write about a broad variety of subjects. In the interium to avoid missing out any of my *frequently updated* blog posts you can subscribe to my news letter below.
 
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/jden"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/jden', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email">
-  <input type="hidden" value="1" name="embed"></input>
-  <input type="submit" value="Subscribe"></input>
-  <p>
-    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-  </p>
-</form> 
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/jden?as_embed=true"
+></iframe><br /><br />
 
 Expect an email from me soon, if I don't I give you permission to bug me over [email](/about#contact) or [Twitter](https://twitter.com/jden).
