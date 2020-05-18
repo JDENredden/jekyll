@@ -64,11 +64,13 @@ This page is being delivered to you <span id="cdnRequest"></span>by <strong><spa
 
 This websites source code is hosted on [GitHub](https://github.com) and available in this [repository](https://github.com/JDENredden/website) and deployed to Exoscale through [Travis CI](https://travis-ci.org).
 
+Status and uptime monitoring is powered by [Updown.io](https://updown.io/r/LFakW). Uptime for the website origin can be found [here](https://status.origin.jden.me), and for the CDN endpoints [here](https://status.jden.me). 
+
 #### Security
 
 Exoscale's Object Storage is secured with a SSL/TLS certificate issued by [Gandi](https://www.gandi.net/en-AU/security). Both [exo.jden.me](https://exo.jden.me) and [BunnyCDN](https://bunnycdn.com/features) endpoints are secured with SSL/TLS certificates issued by [Let's Encrypt](http://letsencrypt.org).
 
-HTTPS is forced and all HTTP requests are 301 permanently redirected to HTTPS.
+HTTPS is forced and all HTTP requests are 301 permanently redirected to HTTPS. The website origin scores [97.5%*](https://github.com/ssllabs/ssllabs-scan/issues/636) [A+ rating](https://ssllabs.com/ssltest/analyze.html?d=origin.jden.me) and the CDN endpoints score [95% A+ rating](https://ssllabs.com/ssltest/analyze.html?d=jden.me) by [SSL Labs](https://ssllabs.com).
 
 DNSSEC is enabled on this website with algorithm [13 (ECDSA Curve P-256 with SHA-256)](https://cloudflare.com/dns/dnssec/ecdsa-and-dnssec/).
 
