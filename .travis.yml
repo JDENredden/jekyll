@@ -13,45 +13,4 @@ deploy:
   on:
     branch: poole
 after_deploy: 
-  - ./bunnyCDN.sh $BUNNYCDN
-#  - curl --include \
-#                        --request POST \
-#                        --header "Content-Type: application/xml" \
-#                        --header "Accept: application/json" \
-#                        --header "AccessKey: 3aa7bf31-dd7e-41fa-9c99-c1198e7cf332c9e030b0-ed6c-4e18-bf92-323f64103c96" \
-#                        --header "Content-Length: 0" \
-#                     'https://bunnycdn.com/api/pullzone/132574/purgeCache'
-#deploy:
-#  provider: s3
-#  skip_cleanup: true
-#  access_key_id: $S3_ACCESS_KEY_ID
-#  secret_access_key: $S3_SECRET_KEY
-#  bucket: "jden-me"
-#  local_dir: _site
-#  endpoint: https://sos-ch-dk-2.exo.io
-#  acl: public_read
-#  on:
-#    branch: poole
-#deploy:
-#  provider: s3
-#  skip_cleanup: true
-#  access_key_id: 1234968f138843be9bb7c16be48833f6
-#  secret_access_key: d23051404f1f42be98277d58e39e5350
-#  bucket: "jden-me"
-#  local_dir: _site
-#  endpoint: https://object.api.ams.fuga.cloud
-#  acl: public_read
-#  on:
-#    branch: poole
-#deploy:
-#  provider: s3
-#  skip_cleanup: true
-#  access_key_id: "c0a741e841784b0d818d0f3d3d5416a9"
-#  secret_access_key: "05c173b90f5e4720a4abc6aeb9e88f2d"
-#  bucket: "jden"
-#  local_dir: _site
-#  endpoint: https://s3.sbg.cloud.ovh.net
-#  region: "sbg"
-#  acl: public_read
-#  on:
-#    branch: poole
+  - ./bunnyCDN.sh $BUNNYCDN $ZONE_ID

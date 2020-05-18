@@ -6,4 +6,4 @@ curl --include \
      --header "Accept: application/json" \
      --header "AccessKey: $1" \
      --header "Content-Length: 0" \
-     'https://bunnycdn.com/api/pullzone/132574/purgeCache'
+     'https://bunnycdn.com/api/pullzone/$2/purgeCache'
