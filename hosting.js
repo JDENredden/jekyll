@@ -1,10 +1,48 @@
-  function serverLookup(val) {
+var countries = {
+  "UK" : "United Kingdom",
+  "US" : "United States of America",
+  "AU" : "Australia",
+  "HK" : "Hong Kong",
+  "DE" : "Germany",
+  "RO" : "Romania",
+  "JP" : "Japan",
+  "FR" : "France",
+  "CA" : "Canada",
+  "NL" : "Netherlands",
+  "BR" : "Brazil",
+  "ES" : "Spain",
+  "NO" : "Norway",
+  "RU" : "Russia",
+  "IT" : "Italy",
+  "ZA" : "South Africa",
+  "IN" : "India",
+  "CZ" : "Czech Republic",
+  "TR" : "Turkey",
+  "PL" : "Poland",
+  "TH" : "Thailand",
+  "VN" : "Vietnam",
+  "LT" : "Lithuania",
+  "NZ" : "New Zealand",
+  "KR" : "South Korea",
+  "AT" : "Austria",
+  "FI" : "Finland",
+  "IL" : "Israel",
+  "AE" : "United Arab Emirates",
+  "SE" : "Sweden",
+  "CH" : "Switzerland"
+}
+
+function countryLookup(countryCode) {
+  return countries[countryCode];
+}
+
+function serverLookup(val) {
   var result = "";
   
   var data = {
     "UK"    : "London, UK",
     "NY"	: "New York City, US",
-    "WA"	: "Seattle, WA",
+    "WA"	: "Seattle, US",
     "SG"	: "Singapore, SG",
     "DE"	: "Frankfurt, DE",
     "TX"	: "Dallas, US",
@@ -33,7 +71,6 @@
     "PL"	: "Warsaw, PL",
     "CA"	: "Toronto, CA",
     "SLC"	: "Salt Lake City, US",
-    "HK"	: "Hong Kong, HK",
     "TH"	: "Bangkok, TH",
     "VN"	: "Hanoi, VN",
     "LT"	: "Vilnius, LT",
@@ -67,26 +104,27 @@
   req.open('GET', document.location, false);
   req.send(null);
   var server = req.getResponseHeader("server");
-  //alert(server.substr(9,3).split("1")[0]);
   
   if (server.substr(0,5) == "Bunny") {
     var provider = "BunnyCDN";
     var serverCode = server.substr(9,3).split("1")[0];
-    var city = serverLookup(serverCode);
-    var country = city.split(", ")[1];
-    var countryEmoji = country.replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397));
+    var city = serverLookup(serverCode).split(",")[0];
+    var countryCode = serverLookup(serverCode).split(", ")[1];
+    var country = countryLookup(countryCode);
+    var countryEmoji = countryCode.replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397));
     var cdnRequest = req.getResponseHeader("cdn-requestcountrycode").replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397));
     document.getElementById("cdnRequest").innerHTML = "(in " + cdnRequest + ") ";
   } else {
     var provider = "Exoscale";
     var serverCode = "CH-DK-2";
-    var city = "Zurich, CH";
+    var city = "Zurich";
+    var country = "Switzerland"
     var countryEmoji = "🇨🇭";
   }
   
   document.getElementById("server").innerHTML = serverCode;
   document.getElementById("city").innerHTML = city;
-  document.getElementById("country").innerHTML = countryEmoji;
+  document.getElementById("country").innerHTML = country + " " + countryEmoji;
   document.getElementById("provider").innerHTML = provider;
   
 })();
