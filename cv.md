@@ -54,22 +54,22 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden){:: options
 **Non-Executive Director, Board of Management, Carclew**  
 *Adelaide, Australia. 2019 - present.*  
 &emsp; Appointed by Minister for Education, Hon. John Gardner MP.  
-&emsp; Member, Finance Subcommittee
+&emsp; Member, Finance Subcommittee  
 &emsp; Member, ROCO (Register of Cultural Organisations) Subcommittee
 
 **Independent Non-Executive Director, Board of Management, Access2Arts**  
-*Adelaide, Australia. 2019 - present.*
+*Adelaide, Australia. 2019 - present.*  
 &emsp; Chair, Human Relations Subcommittee
 
 **Independent Non-Executive Director; Company Secretary; and Policy Officer, Board of Management, ActNow Theatre**  
 *Adelaide, Australia. 2019 - present.*  
-&emsp; Member, Finance Subcommittee
+&emsp; Member, Finance Subcommittee  
 &emsp; Member, Renumeration Taskforce
 
 **Non-Executive Director, Board of Management, the University of Adelaide Theatre Guild**  
 *Adelaide, Australia. 2018 - 2019.*  
 &emsp; Member, Programming Subcommittee  
-&emsp; Member, Philanthropy & Partnerships Subcommittee
+&emsp; Member, Philanthropy and Partnerships Subcommittee
 
 ---
 
