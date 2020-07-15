@@ -3,15 +3,17 @@ layout: post
 title: How to construct a vintage cine prime lens set
 date: '2020-07-15 17:29:12'
 tags: 
-	- cinema
-	- vintage
-	- how-to
-	- cine-prime
-	- cine
-	- lens
-	- lenses
-	- construct
-	- guide
+  - cinema
+  - vintage
+  - cine-prime
+  - cine
+  - lens
+  - lenses
+  - construct
+  - guide
+  - nikkor
+  - contax-zeiss
+  - zeiss
 ---
 
 I recently purchased myself a vintage Nikon EL2 35mm film camera — I totally love it — and it came with a Nikkor AI 50mm f/2.0 lens. I decided to revive my lens collecting hobby and finally complete my Nikkor prime set — which I want to cine-mod. A few years ago, I picked up a BlackMagic Pocket Cinema Camera, which came with a few Nikkor primes and a MetaBones BMPCC to Nikon SpeedBooster, and I fell in love with these Nikkor primes. They are absolute tanks, solid metal construction, engraved markings, amazing optical quality and relatively cheap to pick up these days. 
