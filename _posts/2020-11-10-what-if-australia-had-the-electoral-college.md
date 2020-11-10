@@ -3,24 +3,24 @@ layout: post
 title: What if Australia had the Electoral College?
 date: '2020-11-10 12:00:00'
 tags:
-	- politics
-	- electoral-college
-	- electoral-votes
-	- voting
-	- election-system
-	- voting-system
-	- election
-	- president
-	- vice-president
-	- parliament
-	- Australia
-	- United-States
-	- United-States-of-America
-	- who-would-win
-	- hypothetical
-	- maths
-	- first-past-the-post
-	- two-party-preferred
+  - politics
+  - electoral-college
+  - electoral-votes
+  - voting
+  - election-system
+  - voting-system
+  - election
+  - president
+  - vice-president
+  - parliament
+  - Australia
+  - United-States
+  - United-States-of-America
+  - who-would-win
+  - hypothetical
+  - maths
+  - first-past-the-post
+  - two-party-preferred
 ---
 
 ## Who would be Australia's hypothetical President?
