@@ -7,6 +7,8 @@ non-blog: true
 
 <img class="about" src="/content/images/jden-redden-2019.jpg" alt="jden redden 2019">
 
+Pronouns: He/Him
+
 ## Biography
 ### [Arts and Culture](#arts-and-culture)
 
