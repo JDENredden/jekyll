@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ultimate Guide to Constructing a Contax Zeiss Cine Prime Set
-date: '2020-12-04 17:29:12'
+date: '2020-12-04 12:29:12'
 tags: 
   - cinema
   - vintage
