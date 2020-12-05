@@ -70,6 +70,8 @@ Leveraging on an amazing resource over at [Apotelyt](https://www.apotelyt.com/ca
 | 500               | Mirotar              | ?     |       |       |       |      |          |          |     |       |       | 82  |
 | 1000              | Mirotar              | ?     |       |       |       |      |          |          |     |       | rear  |     |
 
+*Note:* The numbers in the table reflect the lens' filter diameter in millimeters. As you can see not all information is complete. 
+
 From this table we can start to pull out lenses and put together different sets. Following on from my previous blog post about [constructing vintage prime sets](https://jden.me/blog/how-to-construct-a-vintage-cine-prime-lens-set/) we will be building the set up progressively from starting from a Wide-Normal-Tele 3-lens set. 
 
 ## Sensor sizes and naming conventions
@@ -207,7 +209,7 @@ The Super 35 set is slightly slower with a f/2.0 lens for our Wide coverage. The
 | Tele         | Distagon 35mm f/1.4 | Distagon 35mm f/1.4           |
 | Ultra-Tele   |                     | Planar Anniversary 55mm f/1.2 |
 | Super-Tele   |                     | Planar Anniversary 85mm f/1.2 |
-| Special-Tele |                     |                               |                              |
+| Special-Tele |                     |                               |
 
 We can really only manage the Normal- and Tele-end of the spectrum with a Super 16 sensor. We can cobble together a 5-lens set if we include the F-Distagon 16mm f/2.8 Fish Eye lens. Even with the Planar Anniversary 85mm f/1.2 the angle of view on a S16 sensor is extremely narrow.
 
@@ -467,7 +469,7 @@ This set includes the Distagon 18mm f/4.0 a lens we haven't so far in our sets.
 
 #### The Contax Zooms (bonus)
 
-Finally, [Nick provides] a set of zoom lenses from the Contax Zeiss line-up. The zooms are identified with the "Vario" moniker in the name of the lens. 
+Finally, [Nick provides](http://www.reduser.net/forum/showthread.php?92044-Contax-Zeiss-Survival-Guide&p=1491769&viewfull=1#post1491769) a set of zoom lenses from the Contax Zeiss line-up. The zooms are identified with the "Vario" moniker in the name of the lens. 
 
 | Zooms        | 5 Lenses                         |
 |--------------|----------------------------------|
