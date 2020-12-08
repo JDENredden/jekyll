@@ -6,7 +6,7 @@ non-blog: true
 ---
 
 # jden redden 
-BMaCompSc *Adl* GradDipMgmt(ArtsCult) *UniSA* MFA(CultLead) *NIDA* FRSA AMICDA
+BMaCompSc *Adl* GradDipMgmt(ArtsCult) *UniSA* MFACultLead *NIDA* FRSA AMICDA
 Pronouns: He/Him/His
 
 
@@ -65,7 +65,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden){:: options
 
 **Independent Non-Executive Director, Board of Management, Access2Arts**  
 *Adelaide, Australia. 2019 - present.*  
-&emsp; Chair, Human Relations Subcommittee
+&emsp; Founding Chair, Human Relations Subcommittee
 
 **Independent Non-Executive Director; Company Secretary; and Policy Officer, Board of Management, ActNow Theatre**  
 *Adelaide, Australia. 2019 - present.*  
@@ -88,6 +88,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden){:: options
 **Associate Member, Institute of Community Directors Australia**  
 *Member since 2018.*  
 &emsp; AMICDA
+
+**Member, Arts Industry Council South Australia**  
+*Fellow since 2020.*  
 
 ---
 
