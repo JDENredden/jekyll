@@ -7,6 +7,7 @@ non-blog: true
 
 # jden redden 
 BMaCompSc *Adl* GradDipMgmt(ArtsCult) *UniSA* MFA(CultLead) *NIDA* FRSA AMICDA
+Pronouns: He/Him/His
 
 
 ## Profile
