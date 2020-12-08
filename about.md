@@ -8,20 +8,18 @@ non-blog: true
 <img class="about" src="/content/images/jden-redden-2019.jpg" alt="jden redden 2019">
 
 ## jden redden
-Pronouns: He/Him.
+Pronouns: He/Him/His.
 
-## Biography
+## [Biography](#bio)
 ### [Arts and Culture](#arts-and-culture)
 
-jden is a producer, creative consultant, non-executive director, and magician for his production company Fascinating Lies and Carclew. 
+jden is the Associate Producer of Under the Microscope. He is also a producer, creative consultant, non-executive director, and magician for his production company Fascinating Lies and Carclew. Previously jden has worked with and for ActNow Theatre as an Associate Producer, the Adelaide Festival Centre, Hartstone-Kitney Productions for the Noel Lothian Hall. 
 
-Previously jden has worked with and for ActNow Theatre as an Associate Producer, the Adelaide Festival Centre, Hartstone-Kitney Productions for the Noel Lothian Hall. 
+His critically acclaimed production *The Expert at the Card Table* —*How to Cheat at Cards* won the BankSA Best Magic of Adelaide Fringe Award in 2018 and again in 2019.  Previous productions include: *Late Night Magic at the Masonic (2020)*; *Late Night Magic at the Sorcerer’s Bar* (2019); *SUBCONSCIOUS* (2018); *SUPERHUMAN* (2017); and *Reading Minds and Other Fascinating Lies* (2016). In 2018, jden directed *L’Importance D’Être Constant* (*The Importance of Being Earnest*) written by Oscar Wilde and adapted by him for the University of Adelaide French Club, which went onto a Fringe season in 2018 under the title *Monsieur Bunbury: A Tale of Two Men in Earnest*.
 
-His critically acclaimed production *The Expert at the Card Table — How to Cheat at Cards* won the BankSA Best Magic of Adelaide Fringe Award in 2018 and again in 2019.  Previous productions include *Late Night Magic at the Sorcerer’s Bar* (2019), *SUBCONSCIOUS* (2018), *SUPERHUMAN* (2017), and *Reading Minds and Other Fascinating Lies* (2016). In 2018, jden directed *L’Importance D’Être Constant* (*The Importance of Being Earnest*) written by Oscar Wilde and adapted by him for the University of Adelaide French Club, which went onto a Fringe season in 2018 under the title *Monsieur Bunbury: A Tale of Two Men in Earnest*.
+He holds a Graduate Diploma in Management (Arts and Cultural Management) at the University of South Australia, and is currently completing a Master of Fine Arts (Cultural Leadership) at the National Institute of Dramatic Arts (NIDA). He completed his undergraduate at the University of Adelaide, graduating with a Bachelor of Mathematical and Computer Sciences.
 
-jden holds a Graduate Diploma in Management (Arts and Cultural Management) at the University of South Australia, and is currently completing a Master of Fine Arts (Cultural Leadership) at the National Institute of Dramatic Arts (NIDA).
-
-jden sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously sitting on the Board of the University of Adelaide Theatre Guild. He is also an Associate Member of the Institute for Community Directors Australia.
+He sits on the Boards of Carclew, ActNow Theatre, and Access2Arts. Previously sitting on the Board of the University of Adelaide Theatre Guild. He is also an Associate Member of the Institute for Community Directors Australia, Member of the Arts Industry Council South Australia, and a Fellow of the Royal Society of Arts. 
 
 ### [Technology](#technology) 
 
