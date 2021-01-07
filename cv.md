@@ -6,8 +6,9 @@ non-blog: true
 ---
 
 # jden redden 
-BMaCompSc *Adl* GradDipMgmt(ArtsCult) *UniSA* MFACultLead *NIDA* FRSA AMICDA  
-Pronouns: He/Him/His
+BMaCompSc *Adl* GradDipMgmt(ArtsCult) *UniSA* MFACultLead *NIDA*  
+FRSA AMICDA  
+He/Him/His
 
 
 ## Profile
@@ -38,7 +39,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jdenredden){:: options
 *Rundle Place, Australia. 2014 - present.*
 
 &emsp; Previously held positions with Apple:  
-&emsp; ***Technical Specialist**. 2015 - 2017;*  
+&emsp; ***Technical Specialist**. 2015 - 2017.*  
 &emsp; ***Specialist**. 2014 - 2015.*
 
 **Creative Consultant, Carclew**  
