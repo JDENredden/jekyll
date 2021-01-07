@@ -55,7 +55,7 @@ The Gospel According to jden is writted and produced by jden redden. If you woul
 
 #### Hosting
 
-This website is hosted on [Exoscale's](https://portal.exoscale.com/register?r=ESH2iKBauOYY) [Object Storage](https://exoscale.com/object-storage) located in Zurich, Switzerland 🇨🇭 ([CH-DK-2](https://www.exoscale.com/datacenters)). The Object Storage is served through a [NGINX reverse proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy) powered by [Ubuntu 20.04](https://releases.ubuntu.com/20.04) on a [Scaleway DEV1-S instance](https://www.scaleway.com/en/virtual-instances/development) located in Paris, France 🇫🇷. 
+This website is hosted on [Exoscale's](https://portal.exoscale.com/register?r=ESH2iKBauOYY) [Object Storage](https://exoscale.com/object-storage) located in Zurich, Switzerland 🇨🇭 ([CH-DK-2](https://www.exoscale.com/datacenters)). The Object Storage is served through a [NGINX reverse proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy) powered by [Ubuntu 20.04](https://releases.ubuntu.com/20.04) on a [Hetzner CX11 cloud server (HEL1-DC2)](https://www.hetzner.com/cloud) located in Helsinki, Finland 🇫🇮. 
 
 This website is also accelerated through [BunnyCDN's](https://bunnycdn.com/?ref=qckybt9swf) global CDN network.
 

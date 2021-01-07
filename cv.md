@@ -6,7 +6,7 @@ non-blog: true
 ---
 
 # jden redden 
-BMaCompSc *Adl* GradDipMgmt(ArtsCult) *UniSA* MFACultLead *NIDA* FRSA AMICDA
+BMaCompSc *Adl* GradDipMgmt(ArtsCult) *UniSA* MFACultLead *NIDA* FRSA AMICDA  
 Pronouns: He/Him/His
 
 
