@@ -6,21 +6,21 @@ layout: default
   
   <h1 class="post-title">
     {% if page.external_url %}
-      <a class="external-link" href="{{ page.external_url }}">{{ page.title }}</a>&nbsp;
-      <a href="{{ page.url }}">&#8734;</a>
+      <a class="external-link" href="{{ page.external_url }}/">{{ page.title }}</a>&nbsp;
+      <a href="{{ page.url }}/">&#8734;</a>
     {% else %}
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    <a href="{{ page.url }}/">{{ page.title }}</a>
     {% endif %}
   </h1>
 
-  <a class="post-date" href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y/%m/%d' }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A, %-d %B %Y at %l:%M %P" }}</time></a>
+  <a class="post-date" href="{{ site.baseurl }}/archive/{{ page.date | date: '%Y/%m/%d' }}/"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A, %-d %B %Y at %l:%M %P" }}</time></a>
   
   {% if page.tumblr_url %}
   
   <hr>
   
-  <h3><a href="{{ site.baseurl }}/syndication">Syndication</a></h3>
-  <p>This post was orignally posted on <a href="https://tumblr.com">Tumblr</a> on the blog: <a href="{{ page.tumblr_website_url }}">{{ page.tumblr }}</a>. View the <a href="{{ site.baseurl }}/{{ page.tumblr | slugify }}">full syndicated blog</a> or view the <a href="{{ page.tumblr_url }}">original post.</a></p>
+  <h3><a href="{{ site.baseurl }}/syndication/">Syndication</a></h3>
+  <p>This post was orignally posted on <a href="https://tumblr.com">Tumblr</a> on the blog: <a href="{{ page.tumblr_website_url }}">{{ page.tumblr }}</a>. View the <a href="{{ site.baseurl }}/{{ page.tumblr | slugify }}/">full syndicated blog</a> or view the <a href="{{ page.tumblr_url }}/">original post.</a></p>
   <hr>
   
   {% endif %}
@@ -32,10 +32,10 @@ layout: default
   <hr>
 
   <nav class="archive-nav">
-    <h3 class="archive-header"><a href="{{ site.baseurl }}/archive/category">By category</a></h3>
+    <h3 class="archive-header"><a href="{{ site.baseurl }}/archive/category/">By category</a></h3>
     <p>
     {% for tag in page.categories %}
-        <strong><a href="{{ site.baseurl }}/archive/category/{{ tag | slugify }}" class="post-tag">{{ tag }}</a></strong>&nbsp;
+        <strong><a href="{{ site.baseurl }}/archive/category/{{ tag | slugify }}/" class="post-tag">{{ tag }}</a></strong>&nbsp;
     {% endfor %}
     </p>
   </nav>

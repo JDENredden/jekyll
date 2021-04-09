@@ -19,7 +19,7 @@ syndication_url: https://nerdramblings.tumblr.com
 
 <hr>
 
-<p>Filter the archive by: <a href="{{ site.baseurl }}/archive">year</a>, <a href="{{ site.baseurl }}/archive/category">category</a>, or by <a href="{{ site.baseurl }}/archive/tag">tag</a>.</p>
+<p>Filter the archive by: <a href="{{ site.baseurl }}/archive/">year</a>, <a href="{{ site.baseurl }}/archive/category/">category</a>, or by <a href="{{ site.baseurl }}/archive/tag/">tag</a>.</p>
 
 <hr>
 
@@ -29,10 +29,10 @@ syndication_url: https://nerdramblings.tumblr.com
   {% for post in site.categories.one-random-piece-of-wisdom-at-a-time %}
   <article class="post">
     <h1 class="post-title" id="{{ forloop.index }}">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}/">{{ post.title }}</a>
     </h1>
 
-    <a class="post-date" href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A %-d %B %Y" }}</time></a>
+    <a class="post-date" href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}/"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A %-d %B %Y" }}</time></a>
 
     {{ post.content }}
     <hr>
