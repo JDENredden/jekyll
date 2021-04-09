@@ -35,15 +35,16 @@ title: Blog
     <a class="post-date" href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}/"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A, %-d %B %Y" }}</time></a>
     {% if post.content contains '<!--more-->' %}
         {{ post.content | split:'<!--more-->' | first }}
+        <a href="{{ post.url }}">Continue reading.</a>
     {% else %}
-         {% assign truncatedContent = '' %}
+        {% assign truncatedContent = '' %}
         {% assign paragraphs = post.content | split:'</p>' %}
-        {% for paragraph in paragraphs limit:N %}
-     {{ truncatedContent | append: paragraph }}
-     {{ truncatedContent | append: '</p>' }}
- {% endfor %}
+        {% for paragraph in paragraphs limit:3 %}
+            {{ truncatedContent | append: paragraph }}
+            {{ truncatedContent | append: '</p>' }}
+        {% endfor %}
+        <a href="{{ post.url }}">Continue reading.</a>
     {% endif %}
-        <a href="{{ post.url }}/">Continue reading.</a>
     <hr>
   </article>
   {% endfor %}

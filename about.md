@@ -55,21 +55,21 @@ The Gospel According to jden is writted and produced by jden redden. If you woul
 
 #### Hosting
 
-This website is hosted on [Exoscale's](https://portal.exoscale.com/register?r=ESH2iKBauOYY) [Object Storage](https://exoscale.com/object-storage) located in Zurich, Switzerland 🇨🇭 ([CH-DK-2](https://www.exoscale.com/datacenters)). The Object Storage is served through a [NGINX reverse proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy) powered by [Ubuntu 20.04](https://releases.ubuntu.com/20.04) on a [Hetzner CX11 cloud server](https://www.hetzner.com/cloud) located in Helsinki, Finland 🇫🇮 ([HEL1-DEC2](https://www.hetzner.com/unternehmen/rechenzentrum)). 
+This website is hosted on [Scaleway's](https://scaleway.com) [Object Storage static website hosting](https://www.scaleway.com/en/docs/s3-bucket-website-console/) located in Paris, France 🇫🇷  (PAR-FR-1). 
 
 This website is also accelerated through [BunnyCDN's](https://bunnycdn.com/?ref=qckybt9swf) global CDN network.
 
-You can bypass the CDN and view this website's origin (direct from Switzerland 🇨🇭) at [origin.jden.me](https://origin.jden.me).
+You can bypass the CDN and view this website's origin (direct from France 🇫🇷) at [origin.jden.me](https://origin.jden.me).
 
 > This page is being delivered to you <span id="cdnRequest"></span>by <strong><span id="provider"></span>'s</strong> <strong><span id="server"></span></strong> server located in <strong><span id="city"></span>, <span id="country"></span></strong>.
 
-This websites source code is hosted on [GitHub](https://github.com) and available in this [repository](https://github.com/JDENredden/website) and deployed to Exoscale through [Travis CI](https://travis-ci.org).
+This websites source code is hosted on [GitHub](https://github.com) and available in this [repository](https://github.com/JDENredden/website) and deployed to Scaleway through [Travis CI](https://travis-ci.org).
 
 Status and uptime monitoring is powered by [Updown.io](https://updown.io/r/LFakW). Uptime for the website origin can be found [here](https://status.origin.jden.me), and for the CDN endpoints [here](https://status.jden.me). 
 
 #### Security
 
-Exoscale's Object Storage is secured with a SSL/TLS certificate issued by [Gandi](https://www.gandi.net/en-AU/security). Both [origin.jden.me](https://origin.jden.me) and [BunnyCDN](https://bunnycdn.com/features) endpoints are secured with SSL/TLS certificates issued by [Let's Encrypt](http://letsencrypt.org).
+Scaleway's Object Storage, the [origin.jden.me](https://origin.jden.me) endpoint, and [BunnyCDN's](https://bunnycdn.com/features) endpoints are secured with SSL/TLS certificates issued by [Let's Encrypt](http://letsencrypt.org).
 
 HTTPS is forced with HTTP Strict Transport Security (HSTS). The website origin scores [97.5%*](https://github.com/ssllabs/ssllabs-scan/issues/636) [A+ rating](https://ssllabs.com/ssltest/analyze.html?d=origin.jden.me) and the CDN endpoints score [95% A+ rating](https://ssllabs.com/ssltest/analyze.html?d=jden.me) by [SSL Labs](https://ssllabs.com).
 

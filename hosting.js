@@ -115,11 +115,11 @@ function serverLookup(val) {
     var cdnRequest = req.getResponseHeader("cdn-requestcountrycode").replace(/./g, char => String.fromCodePoint(char.charCodeAt(0)+127397));
     document.getElementById("cdnRequest").innerHTML = "(in " + cdnRequest + ") ";
   } else {
-    var provider = "Exoscale";
-    var serverCode = "CH-DK-2";
-    var city = "Zurich";
-    var country = "Switzerland"
-    var countryEmoji = "🇨🇭";
+    var provider = "Scaleway";
+    var serverCode = "FR-PAR-1";
+    var city = "Paris";
+    var country = "France"
+    var countryEmoji = "🇫🇷 ";
   }
   
   document.getElementById("server").innerHTML = serverCode;
