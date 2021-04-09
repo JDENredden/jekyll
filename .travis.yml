@@ -10,7 +10,7 @@ deploy:
   provider: script
   skip_cleanup: true
 #  script: ~/.local/bin/aws s3 sync --endpoint-url https://sos-ch-dk-2.exo.io --acl public-read --delete --size-only _site s3://jden-me --region=ch-dk-2
-  script: ~/.local/bin/aws s3 sync --endpoint-url https://s3.fr-par.scw.cloud --acl public-read --delete --size-only _site s3://jden-me --region=fr-par
+  script: ~/.local/bin/aws s3 sync --endpoint-url https://s3.fr-par.scw.cloud --acl public-read --delete --size-only _site s3://origin.jden.me --region=fr-par
   on:
     branch: poole
 after_deploy: 
