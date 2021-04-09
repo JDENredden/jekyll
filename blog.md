@@ -44,7 +44,7 @@ title: Blog
                 {{ truncatedContent | append: paragraph }}
                 {{ truncatedContent | append: '</p>' }}
             {% endfor %}
-            <a href="{{ post.url }}">Continue reading.</a>
+            <a href="{{ post.url }}"><em>Continue reading &#8594;</em></a>
         {% endif %}
     {% endif %}
     <hr>
