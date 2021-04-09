@@ -12,7 +12,7 @@ syndication_url: https://thinkinglaterally.tumblr.com
 ---
 
 <h3>Description</h3>
-<p>{{ page.description }}</p>
+<p>{{ post.description }}</p>
 
 <hr>
 
@@ -31,7 +31,7 @@ syndication_url: https://thinkinglaterally.tumblr.com
   {% for post in site.categories.one-random-piece-of-wisdom-at-a-time %}
   <article class="post">
     <h1 class="post-title" id="{{ forloop.index }}">
-      <a href="{{ post.url }}/">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </h1>
 
     <a class="post-date" href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}/"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A %-d %B %Y" }}</time></a>

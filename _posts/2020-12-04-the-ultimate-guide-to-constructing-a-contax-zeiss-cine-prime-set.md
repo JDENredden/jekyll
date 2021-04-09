@@ -24,6 +24,8 @@ During the mid-1970s, Carl Zeiss of West Germany partnered with Yashica in Japan
 
 The lenses have remained popular with collectors and film makers alike for the close resemblance to Carl Zeiss Super Speeds cinema prime lenses. The lenses carry a similar design, build quality, and aesthetic with the the Super Speeds that can go for several-to-tens-of-thousands-of-dollars per lens. Comparatively, Contax Zeiss lenses can be had for hundreds to low thousands. 
 
+<!--more-->
+
 To learn more about these lenses [Media Division](https://www.youtube.com/channel/UCPf67c3vUrFlNOERwjHyR2w) has an amazing [46-minute long video](https://www.youtube.com/watch?v=EUjUxKvXgpw&vl=en) comparing Contax Zeiss to Zeiss Super Speeds. [Mark Holtze](https://www.youtube.com/channel/UCJWl59qSh7ir80BZwzSZpPw) has a [popular video](https://www.youtube.com/watch?v=ozHheBkS6LQ) on the Contax Zeiss lenses. And finally, over on [Red User](http://www.reduser.net/forum/forum.php), [Nick Morrison](http://www.smallgiant.tv/team) has an amazing ["Survival Guide"](http://www.reduser.net/forum/showthread.php?92044-Contax-Zeiss-Survival-Guide) going into great depth on each of the lenses.
 
 ## The Contax Zeiss Taxonomy 

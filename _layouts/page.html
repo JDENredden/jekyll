@@ -6,7 +6,7 @@ pagination:
 
 <article class="page">
   {% unless page.title contains "Home" %}
-    <h1 class="page-title"><a href="{{ page.url }}/">{{ page.title }}</a></h1>
+    <h1 class="page-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
   {% endunless %}
   {{ content }}
 </article>

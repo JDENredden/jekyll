@@ -27,18 +27,21 @@ title: Blog
     <h1 class="post-title">
       {% if post.external_url %}
         <a class="external-link" href="{{ post.external_url }}/" onclick="captureOutboundLink(this); return false;">{{ post.title }}</a>&nbsp;
-        <a href="{{ post.url }}/">&#8734;</a>
+        <a href="{{ post.url }}">&#8734;</a>
       {% else %}
-      <a href="{{ post.url }}/">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       {% endif %}
     </h1>
-
     <a class="post-date" href="{{ site.baseurl }}/archive/{{ post.date | date: '%Y/%m/%d' }}/"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A, %-d %B %Y" }}</time></a>
-
     {% if post.content contains '<!--more-->' %}
         {{ post.content | split:'<!--more-->' | first }}
     {% else %}
-        {{ post.excerpt }}
+         {% assign truncatedContent = '' %}
+        {% assign paragraphs = post.content | split:'</p>' %}
+        {% for paragraph in paragraphs limit:N %}
+     {{ truncatedContent | append: paragraph }}
+     {{ truncatedContent | append: '</p>' }}
+ {% endfor %}
     {% endif %}
         <a href="{{ post.url }}/">Continue reading.</a>
     <hr>
