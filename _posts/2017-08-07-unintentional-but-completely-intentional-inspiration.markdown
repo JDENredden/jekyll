@@ -20,6 +20,8 @@ Close followers of this blog — to which I think there is two, including myself
 
 > My wallpaper and I are fighting a duel to the death. One or other of us has got to go.
 
+<!--more-->
+
 Which he had actually said in the weeks leading up to his death and his actual last words were during his Last Sacraments and was the Prayer for Resignations to the Will of God.
 
 > Lord, if what I seek be according to our will, then let it come to pass and let success attend the outcome. But if not, my God, let it not come to pass. Do not leave me to my own devices, for you know how unwise I can be. Keep me safe under your protection Lord my God, and in your own gentle way guide me and rule me as you know best. 
