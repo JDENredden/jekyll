@@ -39,11 +39,13 @@ title: Blog
     {% else %}
         {% assign truncatedContent = '' %}
         {% assign paragraphs = post.content | split:'</p>' %}
-        {% for paragraph in paragraphs limit:3 %}
-            {{ truncatedContent | append: paragraph }}
-            {{ truncatedContent | append: '</p>' }}
-        {% endfor %}
-        <a href="{{ post.url }}">Continue reading.</a>
+        {% if paragraphs.size > 3 %}
+            {% for paragraph in paragraphs limit:3 %}
+                {{ truncatedContent | append: paragraph }}
+                {{ truncatedContent | append: '</p>' }}
+            {% endfor %}
+            <a href="{{ post.url }}">Continue reading.</a>
+        {% endif %}
     {% endif %}
     <hr>
   </article>
